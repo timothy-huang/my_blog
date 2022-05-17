@@ -8,13 +8,16 @@ Working in tech but have constant existential crises? Same.
 
 I write about building new products, with a sprinkle of philosophy, relationships, and other random topics on the curiosities of life.
 
-I'm also *very* open to feedback. If you disagree with my opinions, analysis, methodologies, etc., I'd love to hear your thoughts. I believe in SOWH (Strong Opinions, Weakly Held). If there's compelling evidence, I'm open to changing my mind on pretty much anything. 
+---
+
+<br>
+I'm *very* open to feedback. If you disagree with my opinions, analysis, methodologies, etc., I'd love to hear your thoughts. I believe in SOWH (Strong Opinions, Weakly Held). If there's compelling evidence, I'm open to changing my mind on pretty much anything. 
 <br>
 
 ---
 
 <br>
-I'm planning on setting up a way for you to subscribe to get new articles. My goal is to write a minimum of 2 articles a month, with the intention of constantly improving my writing over time.
+A way to subscribe to get new articles coming soon. My goal is to write a minimum of 2 articles a month, with the intention of constantly improving my writing over time.
 <br>
 
 --- 
