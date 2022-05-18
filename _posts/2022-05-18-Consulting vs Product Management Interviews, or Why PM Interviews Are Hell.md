@@ -7,13 +7,13 @@ permalink: /posts/consulting-vs-pm-interviews
 author: "Tim"
 ---
 
-Product Management interviews are harder. 
+Product Management interviews are harder consulting interviews. 
 
 Way harder.
 
-Okay, now that that's out of the way, I'll begin with a few qualifiers. My opinion is formulated from my own experience. I've only recruited for entry-level roles for both consulting and product management. In consulting, I interviewed at PwC and Accenture for Technology Consulting and Strategy Consulting internships, respectively. For PM, I've interviewed at well over a dozen companies, from startups like Duolingo to tech giants like Intuit across multiple industries. 
+Okay, now that that's out of the way, I'll begin with a few qualifiers. My opinion is formulated from my own experience. I've only recruited for entry-level roles for both consulting and product management. In consulting, I interviewed at PwC and Accenture for technology consulting and strategy consulting internships, respectively. For PM, I've interviewed for internship and full-time roles at well over a dozen companies, from startups like Duolingo to tech giants like Intuit.
 
-I was successful at getting both the consulting internships, and for my most recent cycle of recruiting, I was able to land PM offers at 5 different companies, ultimately choosing to join Intuit's Rotational Product Manager (RPM) program.
+I was successful at getting both the consulting internships, and for my most recent cycle of recruiting, I was able to land full-time PM offers at 5 different companies, ultimately choosing to join Intuit's Rotational Product Manager (RPM) program.
 
 So what's the difference between Consulting and PM interviews, really?
 
@@ -37,8 +37,7 @@ PM interviews have the potential to include the following:
 - Coding / Technical questions
 - Take-home assignment (PRD, Case)
 
-Consulting interviews are more focused on strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is likely why entry-level PM roles are so rare -- people who have more working experience often have touched on more of the interview topics that come up in PM interviews.
-
+Consulting interviews are more focused on strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is likely why it's so hard to get an entry-level PM role -- it's rare for new grads to have enough experience to cover all the different questions that might come up in PM interviews. 
 
 # PM behaviorals are more nuanced
 
