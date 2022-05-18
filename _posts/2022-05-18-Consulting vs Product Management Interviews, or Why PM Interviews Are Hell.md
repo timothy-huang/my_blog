@@ -7,7 +7,7 @@ permalink: /posts/consulting-vs-pm-interviews
 author: "Tim"
 ---
 
-Product Management interviews are harder consulting interviews. 
+Product Management interviews are harder than consulting interviews. 
 
 Way harder.
 
