@@ -105,13 +105,13 @@ The time investment required to go through the full interview process for PM int
 
 Consulting:
 - Stupid intelligence game (15-30 minutes)
-- Recruiter Screen (15 - 30 minutes)
+- Recruiter screen (15 - 30 minutes)
 - First round interview (30 minutes - 1 hr)
 - Second/Final round interview (1 hr)
 - Total: 2 - 3 hours
 
 PM:
-- Recruiter Screen (15 - 30 minutes)
+- Recruiter screen (15 - 30 minutes)
 - First round interview (30 minutes - 1 hr)
 - Take-home assignment (3 - 4 hours)
 - Second/Final round interview (1 - 4 hours)
