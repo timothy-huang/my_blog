@@ -68,7 +68,7 @@ I don't really remember a "What is a consultant?" question ever coming up in int
 
 For the record, I'm not recommending you to rehearse any of my sample answers. Make sure to do your own research / self-reflection and come up with answers that are nuanced and feel genuine to you.
 
-# Consulting case interviews vs PM case interviews are about the same
+# Consulting and PM case interviews are about the same
 
 Consulting and PM case interviews are pretty similar, and in some cases may even be the exact same type of question (e.g. Should Google launch a TV service?) However, there are some subtle differences in the delivery of answers in consulting case interviews vs PM case interviews. 
 
