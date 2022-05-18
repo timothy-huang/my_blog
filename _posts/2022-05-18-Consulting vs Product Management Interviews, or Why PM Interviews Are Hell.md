@@ -19,7 +19,7 @@ So what's the difference between Consulting and PM interviews, really?
 
 # PM interviews require a much larger scope of knowledge
 
-I think of Consulting interviews as a subset of PM interviews. In consulting, you might encounter the following types of questions:
+I think of consulting interviews as a subset of PM interviews. In consulting, you might encounter the following types of questions:
 
 - Behaviorals
 - Brain teasers
@@ -28,7 +28,7 @@ I think of Consulting interviews as a subset of PM interviews. In consulting, yo
 
 Of these, the ones you're pretty much guaranteed to encounter are just the behavioral and case questions. Market sizing questions may be built into your case questions.
 
-PM Interviews have the potential to include the following:
+PM interviews have the potential to include the following:
 - Behaviorals
 - Brain teasers
 - Market sizing / Estimation questions
