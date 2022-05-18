@@ -32,7 +32,7 @@ PM interviews have the potential to include the following:
 - Behaviorals
 - Brain teasers
 - Market sizing / Estimation questions
-- Product questions design a product, improve a product, favorite product, data analytics)
+- Product questions (design a product, improve a product, favorite product, data analytics)
 - Case questions
 - Coding / Technical questions
 - Take-home assignment (PRD, Case)
