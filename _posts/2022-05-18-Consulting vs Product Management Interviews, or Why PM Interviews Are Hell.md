@@ -101,7 +101,7 @@ PM interviews almost always involve a major take-home component. I can't remembe
 
 # The PM interview process requires way more time overall
 
-The time investment required to go through the full interview process for PM interviews is much greater than consulting interviews. Excluding preparation (which I argue is much greater for PM interviews), the typical interview process for entry-level consulting vs PM interviews looks like the following.
+In my experience, the time investment required to go through the full interview process for PM interviews is much greater than consulting interviews. Excluding preparation (which I argue is much greater for PM interviews), the typical interview process for entry-level consulting vs PM interviews looks like the following.
 
 Consulting:
 - Stupid intelligence game (15-30 minutes)
