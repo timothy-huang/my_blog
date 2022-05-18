@@ -2,7 +2,7 @@
 layout: post
 title:  "How to add an email subscription form to your website with Jekyll and Netlify"
 date:   2022-05-17 19:57:00 -0700
-categories: development
+categories: writing development
 permalink: /posts/adding-email-subscription-form-jekyll-netlify
 author: "Tim"
 ---
