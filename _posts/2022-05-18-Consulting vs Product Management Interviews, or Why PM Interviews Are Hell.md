@@ -97,7 +97,7 @@ Entry-level PM interviews don't always have technical questions, but you should 
 
 Consulting interviews typically don't assign any major take-home assignments. However, you might be asked to fill out a personality test or play a bunch of games that are effectively some form of an IQ test (Really...? Seriously, really??? I still can't believe this is real.) 
 
-PM interviews almost always involve a major take-home component. I can't really remember one that didn't. Typically, you're asked to write a Product Requirements Document (PRD) for a specific case typically modeled after a problem the company has encountered. Sometimes you're even expected to present it at your next interview with accompanying visuals, if appropriate.  
+PM interviews almost always involve a major take-home component. I can't really remember one that didn't. Typically, you're asked to write a Product Requirements Document (PRD) for a specific case modeled after a problem the company has encountered. Sometimes you're even expected to present it at your next interview with accompanying visuals, if appropriate.  
 
 
 # Overall time investment and energy for the interview process
