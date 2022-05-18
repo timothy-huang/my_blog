@@ -74,7 +74,7 @@ Consulting and PM case interviews are pretty similar, and in some cases may even
 
 Consulting responses are generally more data-driven and focused on higher-level business strategy (e.g. mergers and acquistions, making a decision on what to invest in). 
 
-PM case interviews might also be data-driven, but your answer will likely focus more on a specific product/feature set and considerations to the product team and the users.
+PM case interviews might also be data-driven, but your answer will likely focus more on a specific product/feature set and you'll emphasize how your recommendation might affect the product team and the users.
 
 # Gathering information and making assumptions
 
