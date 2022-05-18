@@ -23,7 +23,7 @@ Sign up for a Netlify account [here](https://www.netlify.com/) (I know, I know, 
 
 # Step 1: Add an html form to your website
 
-To collect information, you'll need to add an html form to your website. I would recommend adding it to the footer of your site, but you can put it whereever you think is reasonable. If you haven't worked much with html before, here's a code snippet to get you started.
+To collect information, you'll need to add an html form to your website. I would recommend adding it to the footer of your site, but you can put it wherever you think is reasonable. If you haven't worked much with html before, here's a code snippet to get you started.
 
 ```
 <form name="newsletter" method="POST" data-netlify="true">

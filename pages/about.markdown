@@ -21,7 +21,7 @@ You can subscribe to my newsletter here.
 
  {% include subscription_form.html %}
 
-My goal is to write a minimum of 2 articles a month, with the intention of constantly improving my writing over time.
+My goal this year (2022) is to write a minimum of 2 articles a month, with the intention of constantly improving my writing over time.
 <br>
 
 --- 
