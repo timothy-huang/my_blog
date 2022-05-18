@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I rebuilt my blog with Jekyll"
 date:   2022-05-17 11:54:00 -0700
-categories: writing
+categories: writing development
 permalink: /posts/building-jekyll-website
 author: "Tim"
 ---
