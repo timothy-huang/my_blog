@@ -50,7 +50,7 @@ For consulting, you can usually answer something along the lines of:
 - I see consulting as the fastest way accelerate my career growth, building hard and soft skills that will help me lead a company, start my own company, etc. 
 - I like travel
 
-For PM, answering this question is a bit more tricky. If you're coming from an adjacent discipline, you also have to answer the "Why not X?" (X most likely being software engineering, design, user research, data analytics) question as well. Your answer might be along the lines of:
+For PM, answering this question is a bit more tricky. If you're coming from an adjacent discipline, you also have to answer the "Why not X?" question as well (X most likely being software engineering, design, user research, data analytics). Your answer might be along the lines of:
 - I like working cross-functionally, where I can be involved in thinking about business strategy, design, engineering, and users on a regular basis
 - I like having a strong sense of ownership over my work, my success is directly tied to product/organizational success
 - I like to have a balance of thinking about strategy and implementation
