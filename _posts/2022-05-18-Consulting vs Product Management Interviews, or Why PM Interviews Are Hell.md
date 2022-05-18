@@ -40,7 +40,7 @@ PM interviews have the potential to include the following:
 Consulting interviews are more focused on just strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is likely also why entry-level PM roles are so rare -- people who have more working experience will likely have touched on more of the potential interview topics that come up in PM interviews.
 
 
-# Behaviorals
+# PM Behaviorals are more nuanced
 
 Like for any other job, you'll get the typical "Why X?" for both consulting and PM behavioral interviews.
 
@@ -68,7 +68,7 @@ I don't really remember a "What is a consultant?" question ever coming up in int
 
 For the record, I'm not recommending you to rehearse any of my sample answers. Make sure to do your own research / self-reflection and come up with answers that are nuanced and feel genuine to you.
 
-# Consulting case interviews vs PM case interviews
+# Consulting case interviews vs PM case interviews are about the same
 
 Consulting and PM case interviews are pretty similar, and in some cases may even be the exact same type of question (e.g. Should Google launch a TV service?) However, there are some subtle differences in the delivery of answers in consulting case interviews vs PM case interviews. 
 
@@ -76,7 +76,7 @@ Consulting responses are generally more data-driven and focused on higher-level 
 
 PM case interviews might also be data-driven, but your answer will likely focus more on a specific product/feature set and you'll emphasize how your recommendation might affect the product team and the users.
 
-# Gathering information and making assumptions
+# PM interviews require you to make more assumptions
 
 In consulting interviews, you're expected to ask the interviewer questions in order to uncover new data. There's often a "correct" answer which you can arrive at, and some cases just require you to make a simple calculation like conducting a break-even analysis. This models what an actual consulting engagement might look like, where a client comes to you with a problem and you have to probe them to get to the root of the problem and to make an informed decision. 
 
@@ -84,7 +84,7 @@ In PM interviews, the interviewer gives you most of the information upfront, and
 
 For both consulting and PM interviews, it helps to memorize some basic frameworks to apply to a variety of potential problems/situations. Consulting might memorize frameworks like the 4 P's of marketing, the 3 C's, or Porter's 5 Forces. PM's might memorize techniques like creating user personas and a prioritization framework like RICE (reach, impact, confidence, effort). With that being said, PM interviews are ultimately harder because there's so much more ambiguity in the problem statement. You're forced to really think on your feet to come up with creative and interesting responses, while also following a logical framework and structure to arrive at your conclusions.
 
-# Coding / Technical Questions
+# PM interviews are more likely to be technical
 
 Some types of consultants might encounter coding / technical questions, particularly if you're working as a technology or security consultant. However, I'm mainly going to focus on the difference between strategy consultants and PMs. 
 
@@ -93,14 +93,14 @@ Entry-level strategy consulting interviews are pretty unlikely to have anything 
 Entry-level PM interviews don't always have technical questions, but you should prepare with the assumption they will. Luckily, these questions are more likely to check your general understanding of technical concepts, as opposed to being asked to solve a coding problem or know the syntax of Javascript by heart. You might be asked to explain how a product like Robinhood is built (software architecture), or you might be asked to explain how an API works. If you studied computer science or worked as a software engineer, these questions will likely be easier to answer. If not, there are a variety of resources out there that help provide a broad overview of potential topics that might come up. [Swipe to Unlock](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K) is a book that comes to mind.
 
 
-# Take-home assignment
+# PM interviews have long take-home assignments
 
 Consulting interviews typically don't assign any major take-home assignments. However, you might be asked to fill out a personality test or play a bunch of games that are effectively some form of an IQ test (Really...? Seriously, really??? I still can't believe this is real.) 
 
 PM interviews almost always involve a major take-home component. I can't really remember one that didn't. Typically, you're asked to write a Product Requirements Document (PRD) for a specific case modeled after a problem the company has encountered. Sometimes you're even expected to present it at your next interview with accompanying visuals, if appropriate.  
 
 
-# Overall time investment and energy for the interview process
+# The PM interview process requires way more time overall
 
 The time investment required to go through the full interview process for PM interviews is much greater than consulting interviews. Excluding preparation (which I argue is much greater for PM interviews), the typical interview process for entry-level consulting vs PM interviews looks like the following.
 
