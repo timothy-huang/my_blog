@@ -11,7 +11,7 @@ I write about building new products, with a sprinkle of philosophy, relationship
 ---
 
 <br>
-I'm *very* open to feedback. If you disagree with my opinions, analysis, methodologies, etc., I'd love to hear your thoughts. I believe in SOWH (Strong Opinions, Weakly Held). If there's compelling evidence, I'm open to changing my mind on pretty much anything. 
+I'm *very* open to feedback. If you disagree with my opinions, analyses, methodologies, etc., I'd love to hear your thoughts. I believe in SOWH (Strong Opinions, Weakly Held). If there's compelling evidence, I'm open to changing my mind on pretty much anything. 
 <br>
 
 ---
