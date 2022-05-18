@@ -83,7 +83,7 @@ In PM interviews, the interviewer gives you most of the information upfront. You
 
 For both consulting and PM interviews, it helps to memorize some basic frameworks to apply to a variety of potential problems/situations. Consultant's will memorize frameworks like the 4 P's of marketing, the 3 C's, or Porter's 5 Forces. PM's will memorize how to create user personas and how to prioritize using frameworks like RICE (reach, impact, confidence, effort). With that being said, PM interviews are ultimately harder because there's so much more ambiguity in the problem statement. You're forced to think on your feet to come up with creative and interesting responses, while also following a logical framework and structure to arrive at your conclusions. It also means you have to be very conscious of budgeting time throughout your interview. You don't want to spend an hour identifying your target user and have no time left for brainstorming solutions and creating an implementation strategy.
 
-# PM interviews are more likely to be technical
+# PM interviews are more technical
 
 Some types of consultants might encounter coding / technical questions, particularly if you're working as a technology or security consultant. However, I'm mainly going to focus on the difference between strategy consultants and PMs. 
 
