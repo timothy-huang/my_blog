@@ -50,7 +50,7 @@ For consulting, you can usually answer something along the lines of:
 - I see consulting as the fastest way accelerate my career growth, building hard and soft skills that will help me lead a company, start my own company, etc. 
 - I like travel
 
-For PM, answering this question is a bit more tricky. If you're coming from an adjacent discipline, you also have to answer the "Why not X?" question as well (X most likely being software engineering, design, user research, data analytics). Your answer might be along the lines of:
+For PM, answering this question is a bit more tricky. If you're coming from an adjacent discipline, you also have to answer the "Why not X?" question as well(X most likely being software engineering, design, user research, data analytics). Your answer might be along the lines of:
 - I like working cross-functionally, where I can be involved in thinking about business strategy, design, engineering, and users on a regular basis
 - I like having a strong sense of ownership over my work, my success is directly tied to product/organizational success
 - I like to have a balance of thinking about strategy and implementation
@@ -59,7 +59,7 @@ For PM, answering this question is a bit more tricky. If you're coming from an a
 Another common question you might get in PM behaviorals is "What is a PM?" PM roles can vary greatly from company to company, so honestly this question is a little bit unfair. However, here's what a safe answer might look like:
 - PMs define the product vision and what success would look like, and they collaborate with design and engineering to come up with solutions to execute on the vision  
 - PMs have to influence without authority, and are responsible for aligning teams across multiple functions to ensure the success of a product 
-- PMs are responsible for the ultimate success of a product, they take ownership for  failure 
+- PMs are responsible for the ultimate success of a product, they take ownership for failure 
 
 A common technique is to use an analogy like "PMs are like the conductor of an orchestra" (a bit of a cliche apparently) in order to illustrate how you're influencing and working with people across multiple functions.
 
