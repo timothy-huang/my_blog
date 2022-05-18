@@ -2,8 +2,8 @@
 layout: post
 title:  "Consulting vs Product Management Interviews, or Why PM Interviews Are Hell"
 date:  2022-05-18 
-categories: writing development
-permalink: /posts/adding-email-subscription-form-jekyll-netlify
+categories: product-management consulting career
+permalink: /posts/consulting-vs-pm-interviews
 author: "Tim"
 ---
 
