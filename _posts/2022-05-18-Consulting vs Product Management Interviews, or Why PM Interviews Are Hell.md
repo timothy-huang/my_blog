@@ -61,7 +61,7 @@ Another common question you might get in PM behaviorals is "What is a PM?" PM ro
 - PMs have to influence without authority, and are responsible for aligning teams across multiple functions to ensure the success of a product 
 - PMs are responsible for the ultimate success of a product, they take ownership for failure 
 
-A common technique is to use an analogy like "PMs are like the conductor of an orchestra" (a bit of a cliche apparently) in order to illustrate how you're influencing and working with people across multiple functions.
+A common technique is to use an analogy like "PMs are like the conductor of an orchestra" (although a bit cliche) in order to illustrate how you're influencing and working with people across multiple functions.
 
 I don't really remember a "What is a consultant?" question ever coming up in interviews. Probably because it's not as important for consulting analysts to know the specifics of what their work might look like, so much as their ability to learn quickly on the job. 
 
