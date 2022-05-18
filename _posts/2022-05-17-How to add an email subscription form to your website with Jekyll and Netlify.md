@@ -9,7 +9,7 @@ author: "Tim"
 
 Are you looking for an easy way to add that little box for people to subscribe to your newsletter on your Jekyll website? It shouldn't be that hard to collect some emails right?
 
-Well, it turns out it's a bit harder than expected. There's a few plug-in services like Mailchimp where you can embed a subscription box into your website, but that branded watermark really kills the vibe. 
+Well, it turns out it's a bit harder than expected. A few plug-in services like Mailchimp allow you to embed a subscription box into your website, but that branded watermark really kills the vibe. 
 
 If you search up "How to add a subscription form Jekyll" you might stumble on a few articles that tell you to sign up for XYZ app.
 
