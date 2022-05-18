@@ -120,7 +120,7 @@ PM:
 
 As you can see, the primary contributors to the extra time investment required for PM interviews are the take-home assignment and final round interviews. PM take-home assignments take a lot of time to complete, and you're usually only given a week to do so (this is especially rough since you're probably in school or working at the same time). Even if the company recommends you to only spend 3 hours max on them, if you're a perfectionist like me, you probably spend a little more. Final round interviews can also be brutal, requiring you to interview with 3-4 people from different teams. 
 
-# Conclusion
+# Final comments
 
 There are many reasons why I ultimately chose to become a PM rather than stick with consulting, but that's not really the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
 
