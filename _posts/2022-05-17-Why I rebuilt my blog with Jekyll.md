@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I rebuilt my blog with Jekyll"
-date:   2022-05-17 11:54:00 -0700
+date:   2022-05-17 12:00:00
 categories: writing development
 permalink: /posts/building-jekyll-website
 author: "Tim"
@@ -9,11 +9,15 @@ author: "Tim"
 
 For the last 3 years, I used a crappy Wordpress website for my blog. Now, I'm using Jekyll, and you should too.
 
-I paid Bluehost a $100 to host my website for three years, and I paid Namecheap another $12 a year for my domain name. However, I never got around to writing much because the experience sucked. 
+I paid Bluehost $100 to host my website for three years, and I paid Namecheap another $12 a year for my domain name. But I never got around to writing much because the experience sucked. 
 
-My website had an ugly watermark at the bottom because I was using a free Wordpress theme, and I was too lazy to figure out how to customize a theme for myself. Also, the platform I was writing on (Wordpress.com) was bloated with features --- I had no idea what I was looking at half the time.
+My website had an ugly watermark at the bottom because I was using a free Wordpress theme, and I was too lazy to figure out how to customize a theme for myself. Also, the platform I was writing on (Wordpress.com) was bloated with features. I had no idea what I was looking at half the time.
 
-This year, I want to get in the habit of writing more, so I decided to use my 4 years of computer science education to build a better blog. 
+This year, I want to get in the habit of writing more. I thought about hopping on my Wordpress website, but I was already dreading the thought of navigating the bloat.
+
+And that's when I remembered --- I can code!
+
+So I decided to use my 4 years of computer science education to build a better blog. 
 
 Turns out making a clean-looking blog isn't that hard. You don't need to study CS for 4 years. Check out the [Jekyll docs][jekyll-docs] and about an hour of [video tutorials from Giraffe Academy][giraffe-academy-videos], and you'll have a new site up and running in an afternoon.
 

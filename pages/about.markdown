@@ -17,7 +17,11 @@ I'm *very* open to feedback. If you disagree with my opinions, analysis, methodo
 ---
 
 <br>
-A way to subscribe to get new articles coming soon. My goal is to write a minimum of 2 articles a month, with the intention of constantly improving my writing over time.
+You can subscribe to my newsletter here. 
+
+ {% include subscription_form.html %}
+
+My goal is to write a minimum of 2 articles a month, with the intention of constantly improving my writing over time.
 <br>
 
 --- 

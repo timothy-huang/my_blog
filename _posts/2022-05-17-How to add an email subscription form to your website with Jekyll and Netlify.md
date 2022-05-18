@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to add an email subscription form to your website with Jekyll and Netlify"
-date:   2022-05-17 19:57:00 -0700
+date:  2022-05-17 19:00:00
 categories: writing development
 permalink: /posts/adding-email-subscription-form-jekyll-netlify
 author: "Tim"
@@ -53,7 +53,7 @@ What this looks like on my website:
 
 # Step 3: Link your form to your success page
 
-In the `form` html element of the code snippet, add the attribute `action=/subscription-success"`. This will link the user to the subscription success page we just created after they submit the html form. 
+In the `form` html element of the code snippet, add the attribute `action="/subscription-success"`. This will link the user to the subscription success page we just created after they submit the html form. 
 
 If you gave your subscription success page a different permalink, then make sure to link to that instead.
 
