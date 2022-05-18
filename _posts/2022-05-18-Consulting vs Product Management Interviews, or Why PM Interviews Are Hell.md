@@ -71,7 +71,7 @@ For the record, I'm not recommending you to rehearse any of my sample answers. M
 
 Consulting and PM case interviews are pretty similar, and in some cases may even have the exact same questions (e.g. Should Google launch a TV service?) However, there are some subtle differences in the delivery of answers in consulting case interviews vs PM case interviews. 
 
-Consulting responses are generally more data-driven and focused on tying back to the higher-level business strategy (e.g. mergers and acquistions, making a decision on what to invest in). 
+Consulting responses are generally more data-driven and focus on tying back to the higher-level business strategy (e.g. mergers and acquistions, making a decision on what to invest in). 
 
 PM case interviews might also be data-driven, but your answer will likely focus more on a specific product/feature set and you'll emphasize how your recommendation might affect the product team and the users.
 
