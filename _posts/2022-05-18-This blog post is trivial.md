@@ -7,7 +7,7 @@ permalink: /posts/this-blog-post-is-trivial
 author: "Tim"
 ---
 
-You're in your sophomore year of college, and it's the first day of instruction. This semester, you signed up for a math class disguised as a CS class by loosely connecting to algorithms like RSA encryption. 
+You're a CS major in your sophomore year of college, and it's the first day of instruction. This semester, you signed up for a math class disguised as a CS class by loosely connecting to algorithms like RSA encryption. 
 
 After a brief introduction, the professor announces, "Today, I'm going to walk through a few simple proofs. This is just to get you warmed up for the rest of the semester." Then, they start writing on the board.
 
