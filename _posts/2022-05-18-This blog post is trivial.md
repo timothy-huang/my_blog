@@ -27,9 +27,7 @@ As soon as the professor finishes writing, they quickly backtrack, erasing the e
 
 "This proof is *trivial*, so we'll skip the explanation."
 
-Meanwhile, you're panicking, still trying to work out the algebra in your head.
-
-Are you just dumb? The word rings in your head.
+Meanwhile, you're panicking, still trying to work out the algebra in your head. Are you just dumb? The word rings in your head.
 
 This proof is *trivial... trivial... trivial...*
 
