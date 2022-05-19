@@ -31,10 +31,11 @@ github_username:  timothy-huang
 google_analytics: G-KC0VJRCLNH
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
