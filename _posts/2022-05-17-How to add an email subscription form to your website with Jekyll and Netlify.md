@@ -82,3 +82,5 @@ When users submit their email using the form, their submission will show up on N
 Using Netlify forms like this will only allow you to collect emails. If you want a content management platform that will help you distribute your newsletter, you might find a more full-featured platform like Mailchimp to be more appropriate after all.
 
 Good luck with writing online!
+
+**Edit:** I discovered that you can [access your Netlify forms submissions via API](https://docs.netlify.com/api/get-started/#forms), so there's probably a way to set up a backend server that sends out your most recent posts to subscribers automatically. If you end up going this route, let me know how you did it!
