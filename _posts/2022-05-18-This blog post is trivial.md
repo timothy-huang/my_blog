@@ -2,7 +2,7 @@
 layout: post
 title:  "This blog post is trivial"
 date:  2022-05-18 22:03:00
-categories: tech relationships
+categories: tech humor 
 permalink: /posts/this-blog-post-is-trivial
 author: "Tim"
 ---
