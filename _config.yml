@@ -27,6 +27,9 @@ url: "https://timhuangg.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: timhuangg
 github_username:  timothy-huang
 
+# Google Analytics:
+google_analytics: G-KC0VJRCLNH
+
 # Build settings
 theme: minima
 plugins:
