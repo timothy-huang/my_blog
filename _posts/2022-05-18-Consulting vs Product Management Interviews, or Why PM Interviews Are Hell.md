@@ -26,7 +26,7 @@ I think of consulting interviews as a subset of PM interviews. In consulting, ex
 - Market sizing / Estimation questions
 - Case questions
 
-Of these, the ones you're pretty much guaranteed to encounter are just the behavioral and case questions. Market sizing questions may be built into your case questions.
+Of these, the ones you're pretty much guaranteed to encounter are the behavioral and case questions. Market sizing questions may be built into your case questions.
 
 PM interviews have the potential to include the following:
 - Behaviorals
@@ -121,8 +121,10 @@ The take-home assignment and final round interviews are the real time-sinks for 
 
 # Final comments
 
-So what am I trying to say? I chose to become a PM rather than stick with consulting, but that's not the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
+I chose to become a PM rather than stick with consulting, but that's not the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
 
-I just want to give you a realistic idea of the brutal nature of PM interviews.
+This article is written for someone like me a few years ago.
 
-If I haven't scared you off, and you're still set on being a PM, then godspeed. Good luck on your PM journey! You'll need it. For real.
+If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. I was shocked when I interviewed for a PM  role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
+
+If I haven't scared you off, and you're still set on being a PM, then godspeed. Good luck on your PM interviewing journey! You'll need it. For real.
