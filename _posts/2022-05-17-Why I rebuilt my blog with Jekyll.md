@@ -9,7 +9,7 @@ author: "Tim"
 
 For the last 3 years, I used a crappy Wordpress website for my blog. Now, I'm using Jekyll, and you should too.
 
-I paid Bluehost $100 to host my website for three years, and I paid Namecheap another $12 a year for my domain name. But I never got around to writing much because the experience sucked. 
+I paid Bluehost \\$100 to host my website for three years, and I paid Namecheap another \\$12 a year for my domain name. But I never got around to writing much because the experience sucked. 
 
 My website had an ugly watermark at the bottom because I was using a free Wordpress theme, and I was too lazy to figure out how to customize a theme for myself. Also, the platform I was writing on (Wordpress.com) was bloated with features. I had no idea what I was looking at half the time.
 

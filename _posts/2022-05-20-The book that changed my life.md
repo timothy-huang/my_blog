@@ -22,7 +22,10 @@ It's been a long time since I read *How to Win Friends and Influence People*. I'
 However, I still recommend you to check it out. Some of the lessons might be outdated (the book was published in 1936), but if you do end up reading the book, I hope it leaves a little bit of the same impact it's left on me.
 
 <br>
+
+---
+
 <br>
 
 *P.S.*
-I believe Carnegie titled his book to sound manipulative intentionally. He was setting a trap for all the self-centered wannabe leaders like me, so he could teach them how to be better.  
+I vote that Carnegie titled his book to sound manipulative intentionally. He was setting a trap for all the self-centered wannabe leaders like me, so he could teach them how to be better.  
