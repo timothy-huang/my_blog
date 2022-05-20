@@ -11,7 +11,7 @@ Product management interviews are harder than consulting interviews.
 
 Way harder.
 
-Okay, now that that's out of the way, I'll begin with a few qualifiers. I'm speaking from my own experience. I've only recruited for entry-level roles for both consulting and product management. In consulting, I interviewed at PwC and Accenture for tech consulting and strategy consulting internships, respectively. For PM, I've interviewed at well over a dozen companies, from startups like Duolingo to tech giants like Intuit for both internships and full-time roles.
+Okay, now that that's out of the way, I'll begin with a few qualifiers. I'm speaking from my own experience. I've only recruited for entry-level roles for both consulting and product management. In consulting, I interviewed at PwC and Accenture for tech consulting and strategy consulting internships, respectively. For PM, I've interviewed at over a dozen companies, from startups like Duolingo to tech giants like Intuit for both internships and full-time roles.
 
 I was successful at getting the consulting internships, and for my most recent cycle of recruiting, I was able to land full-time PM offers at 5 different companies, ultimately choosing to join Intuit's Rotational Product Manager (RPM) program.
 
