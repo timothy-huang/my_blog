@@ -23,7 +23,7 @@ I think of consulting interviews as a subset of PM interviews. In consulting, ex
 
 - Behaviorals
 - Brain teasers
-- Market sizing questions
+- Market sizing / Estimation questions
 - Case questions
 
 Of these, the ones you're pretty much guaranteed to encounter are just the behavioral and case questions. Market sizing questions may be built into your case questions.
