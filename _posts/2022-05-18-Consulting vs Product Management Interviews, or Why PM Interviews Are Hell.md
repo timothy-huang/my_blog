@@ -121,9 +121,9 @@ The take-home assignment and final round interviews are the real time-sinks for 
 
 # Final comments
 
-I chose to become a PM rather than stick with consulting, but that's not the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
-
 This article is written for someone like me a few years ago.
+
+I chose to become a PM rather than stick with consulting, but that's not the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
 
 If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. I was shocked when I interviewed for a PM  role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
 
