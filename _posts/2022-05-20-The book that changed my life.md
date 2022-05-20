@@ -15,7 +15,7 @@ I picked up *How to Win Friends and Influence People* in my freshman year of hig
 
 The number one lesson that still sticks with me is to *listen, and be genuinely interested in other people.* 
 
-In my freshman year of high school, the world revolved around me. What did I want to do? What were my goals? My passions? And how do I get people to like me? Dale Carnegie taught me that I should be thinking about *others.* And it needs to be genuine. Disguised as book that teaches you the art of human manipulation is a practical guide on how to be a better person. If you're caring and considerate towards others, then people will naturally be drawn to you and like you more.
+In my freshman year of high school, the world revolved around me. What did I want to do? What were my goals? My passions? And how do I get people to like me? Dale Carnegie taught me that I should be thinking about *others.* And it needs to be genuine. Disguised as a book that teaches you the art of human manipulation is a practical guide on how to be a better person. If you're caring and considerate towards others, then people will naturally be drawn to you and like you more.
 
 It's been a long time since I read *How to Win Friends and Influence People*. I've never re-read or bought a copy of the book, despite it being so influential on my life.
 
