@@ -19,7 +19,7 @@ In my freshman year of high school, the world revolved around me. What did I wan
 
 It's been a long time since I read *How to Win Friends and Influence People*. I've never re-read or bought a copy of the book, despite it being so influential on my life.
 
-However, I still recommend you to check it out. Some of the lessons might be outdated (the book was published in 1936), but for if you do end up reading the book, I hope it leaves a little bit of the same impact it's left on me.
+However, I still recommend you to check it out. Some of the lessons might be outdated (the book was published in 1936), but if you do end up reading the book, I hope it leaves a little bit of the same impact it's left on me.
 
 <br>
 <br>
