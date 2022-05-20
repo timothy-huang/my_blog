@@ -25,7 +25,7 @@ Turns out making a clean-looking blog isn't that hard. You don't need to study C
 - **It's free.** You can just host your website through Github pages (although you'll still need to buy a custom domain)
 - **It's fast.** Jekyll is a static website generator. There's no backend server or databases to route through in order to fetch information to load the website.
 - **It's simple.** There's not a million features you have to figure out before you can start writing. Uploading a new post is easy - create a new markdown file in the _posts folder and type away.
-- **Nice (free) themes.** Jekyll has a ton of open-sourced themes that people have built over time that don't force you to display a watermark at the bottom. With a basic knowledge of html/css, you can easily customize the themes to your liking. Minima is the default (what I'm using right now), and it's clean and responsive. 
+- **Nice (free) themes.** Jekyll has a ton of open-sourced themes that people have built over time that don't force you to display a watermark at the bottom. With a basic knowledge of html/css, you can easily customize the themes to your liking. Minima is the default (what I'm using as of writing this post), and it's clean and responsive. 
 
 If you're interested in what led me down this rabbit hole, check out this post from Robert Heaton on his [Learnings from running a suprisingly successful blog][robert-heaton-link].
 
