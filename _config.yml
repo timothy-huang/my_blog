@@ -21,7 +21,7 @@
 title: Tim Huang
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts on building new products with a sprinkle of philosophy, relationships, and other random topics on the curiosities of life.
+  Scattered thoughts on building new products, philosophy, relationships, and other random topics related to the curiosities of life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timhuangg.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: timhuangg
