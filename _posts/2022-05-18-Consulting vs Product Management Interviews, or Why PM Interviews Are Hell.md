@@ -117,7 +117,7 @@ PM:
 - Second/Final round interview (1 - 4 hours)
 - Total: 4.75 - 9.5 hours
 
-The take-home assignment and final round interviews are the real time-sinks for PM interviews. PM take-home assignments take a lot of time to complete, and you're usually only given a week to do so (this is especially rough if you're in school or working at the same time). Even if the company recommends you to only spend 3 hours max on an assignment, if you're a perfectionist like me, you probably spend a little more. Final round interviews can also be brutal. I've spent up to 4 hours interviewing with people from different teams back-to-back, no break in between. 
+The take-home assignment and final round interviews are the real time-sinks for PM interviews. PM take-home assignments take a lot of time to complete, and you're usually only given a week to do so (this is especially rough if you're in school or working at the same time). Even if the company recommends you to only spend 3 hours max on an assignment, if you're anything like me, you probably spend a little more. Final round interviews can also be brutal. I've spent up to 4 hours interviewing with people from different teams back-to-back, no break in between. 
 
 # Final comments
 
