@@ -13,7 +13,7 @@ If you're a self-development nerd, you're probably groaning by now. But it's tru
 
 I picked up *How to Win Friends and Influence People* in my freshman year of high school. At the time, I was trying to assert myself more, and I must have been drawn to words like "win" and "influence." It couldn't have been because I wanted people to like me and be my friend. That would be so lame, am I right?
 
-The number one lesson from the book that stuck with me is to *listen, and be genuinely interested in other people*.
+The number one lesson from the book that stuck with me is to ***listen, and be genuinely interested in other people*.**
 
 When we're talking to someone who's genuinely interested in what we have to say, it's the most amazing feeling in the world.
 
