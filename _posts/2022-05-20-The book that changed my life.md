@@ -19,6 +19,6 @@ When we're talking to someone who's genuinely interested in what we have to say,
 
 In my freshman year of high school, the world revolved around me. What were my goals? My passions? How do I impress other people and get them to like me? Dale Carnegie taught me that I should be thinking about *others.* If you're genuinely interested in what others have to say and just *listen*, then people will naturally be drawn to you and like you more.
 
-It's been a long time since I read *How to Win Friends and Influence People*. I've never re-read or bought a copy of the book, despite it being so influential on my life.
+It's been a long time since I read *How to Win Friends and Influence People*. I've never re-read or bought a copy of the book.
 
 However, I still recommend you to check it out. Some of the lessons might be outdated (the book was published in 1936), but if you do end up reading the book, I hope it leaves a little bit of the same impact it's left on me.
