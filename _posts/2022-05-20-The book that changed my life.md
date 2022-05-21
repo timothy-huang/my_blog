@@ -21,7 +21,7 @@ In my freshman year of high school, the world revolved around me. What were my g
 
 If you're wondering what you can do to build better relationships with others, check out the book. Some of the lessons might be outdated (the book was published in 1936), but if you end up reading it, I hope it leaves a little bit of the same impact it's left on me.
 
-
+<br>
 ---
-
+<br>
 P.S. Another book that has a somewhat manipulative premise but ends up being a helpful guide to building better relationships is *Never Split the Difference* by Chris Voss, a former FBI negotiator. Turns out the  techniques to get terrorists to like you work on the of us too.
