@@ -7,7 +7,7 @@ permalink: /posts/the-book-that-changed-my-life
 author: "Tim"
 ---
 
-The number one book that changed my life is *How to Win Friends and Influence People*, by Dale Carnegie.
+The book that changed my life is *How to Win Friends and Influence People*, by Dale Carnegie.
 
 If you're a self-development nerd, you're probably groaning by now. But it's true, reading this book kicked off my journey to becoming a more considerate person who is (hopefully) more likable.
 
