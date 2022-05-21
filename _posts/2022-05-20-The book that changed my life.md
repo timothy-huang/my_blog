@@ -26,4 +26,4 @@ If you're wondering what you can do to build better relationships with others, c
 ---
 
 <br>
-P.S. Another book that has a somewhat manipulative premise but ends up being a helpful guide to building better relationships is *Never Split the Difference* by Chris Voss, a former FBI negotiator. Turns out the  techniques to get terrorists to like you work on the of us too.
+P.S. Another book that has a somewhat manipulative premise but ends up being a helpful guide to building better relationships is *Never Split the Difference* by Chris Voss, a former FBI negotiator. Turns out the  techniques to get terrorists to like you work on the rest of us too.
