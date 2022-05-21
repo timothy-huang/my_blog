@@ -9,7 +9,7 @@ author: "Tim"
 
 The book that changed my life is *How to Win Friends and Influence People*, by Dale Carnegie.
 
-If you're a self-development nerd, you're probably groaning by now. But it's true, reading this book significantly improved my relationships over the years, which [according to research](https://bakadesuyo.com/2016/04/happy-healthy-long-life/), are the secret to living a happy and healthy life.
+If you're a self-development nerd, you're probably groaning by now. But it's true, reading this book significantly improved my relationships over the years. And [according to research](https://bakadesuyo.com/2016/04/happy-healthy-long-life/), relationships are the secret to living a happy and healthy life.
 
 I picked up *How to Win Friends and Influence People* in my freshman year of high school. At the time, I was trying to assert myself more, and I must have been drawn to words like "win" and "influence." It couldn't have been because I wanted people to like me and be my friend. That would be so lame, am I right?
 
