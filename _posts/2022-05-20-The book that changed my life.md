@@ -13,9 +13,11 @@ If you're a self-development nerd, you're probably groaning by now. But it's tru
 
 I picked up *How to Win Friends and Influence People* in my freshman year of high school. At the time, I was trying to assert myself more, and I must have been drawn to words like "win" and "influence." It couldn't have been because I wanted people to like me and be my friend. That would be so lame, am I right?
 
-The number one lesson that still sticks with me is to *listen, and be genuinely interested in other people.* 
+The number one lesson from the book that stuck with me is to *listen, and be genuinely interested in other people*.
 
-In my freshman year of high school, the world revolved around me. What did I want to do? What were my goals? My passions? And how do I get people to like me? Dale Carnegie taught me that I should be thinking about *others.* And it needs to be genuine. If you're caring and considerate towards others, then people will naturally be drawn to you and like you more.
+When we're talking to someone who's genuinely interested in what we have to say, it's the most amazing feeling in the world.
+
+In my freshman year of high school, the world revolved around me. What were my goals? My passions? How do I impress other people and get them to like me? Dale Carnegie taught me that I should be thinking about *others.* If you're genuinely interested in what others have to say and just *listen*, then people will naturally be drawn to you and like you more.
 
 It's been a long time since I read *How to Win Friends and Influence People*. I've never re-read or bought a copy of the book, despite it being so influential on my life.
 
