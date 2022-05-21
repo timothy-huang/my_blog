@@ -9,7 +9,7 @@ author: "Tim"
 
 The number one book that changed my life is *How to Win Friends and Influence People*, by Dale Carnegie.
 
-If you're a self-development nerd, you're probably groaning by now. But it's true, reading this book kicked off my journey to becoming an all-around better person.
+If you're a self-development nerd, you're probably groaning by now. But it's true, reading this book kicked off my journey to becoming a more considerate person who is (hopefully) more likable.
 
 I picked up *How to Win Friends and Influence People* in my freshman year of high school. At the time, I was trying to assert myself more, and I must have been drawn to words like "win" and "influence." It couldn't have been because I wanted people to like me and be my friend. That would be so lame, am I right?
 
@@ -28,4 +28,4 @@ However, I still recommend you to check it out. Some of the lessons might be out
 <br>
 
 *P.S.*
-I vote that Carnegie titled his book to sound manipulative intentionally. He was setting a trap for all the self-centered wannabe leaders like me, so he could teach them how to be better.  
+I vote that Carnegie titled his book to sound manipulative intentionally. He was setting a trap for all the self-centered wannabe leaders like me, so he could teach them how to be kinder.  
