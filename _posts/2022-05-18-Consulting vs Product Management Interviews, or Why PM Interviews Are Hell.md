@@ -144,13 +144,13 @@ If you've done a few consulting internships and you're thinking about switching 
 
 Here are a few highly-recommended resources to get you started.
 
-Free:
+**Free:**
 - Mock interviews  available on Youtube like [this one hosted by Exponent](https://www.youtube.com/watch?v=BNuRsv_42jc) done by current PMs at top tech companies
 - [Pre-interview research](https://productmanagerhq.com/product-manager-interview-pre-interview-research/) by Clement Kao (Product Management HQ) for a structured and prioritized way to prep before interviewing with a new company 
 - [How to write a PM Resume](https://productmanagerhq.com/the-ultimate-product-manager-resume-guide/) and [How to craft a solid PM LinkedIn Profile](https://productmanagerhq.com/how-to-craft-a-solid-product-manager-linkedin-profile/), also by PMHQ for more perspective and actionable steps on how to get more callbacks for your PM interviews
 - [Hacking your PM Interview](https://podcasts.apple.com/us/podcast/hacking-your-product-management-interview-by-google-pm/id1219400787?i=1000507490069) podcast episode by This is Product Management, especially helpful tips on coming up with ideas for product design interviews
 
-Paid:
+**Paid:**
 - [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) by Jackie Bavaro and Gayle McDowell for a comprehensive overview of what to expect and prepare for if you're recruiting for PM
 - [The 2-hour job search](https://www.amazon.com/2-Hour-Job-Search-Technology-Faster/dp/1607741709) by Steve Dalton for an efficient system to apply for jobs
 - [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan to better understand what product management looks like at top tech companies
