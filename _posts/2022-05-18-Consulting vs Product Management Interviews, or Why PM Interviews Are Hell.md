@@ -140,8 +140,6 @@ Meanwhile, I found the consulting interview process to move by extremely quickly
 
 This article is written for someone like me a few years ago.
 
-I chose to become a PM rather than stick with consulting, but that's not the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
-
 If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. Getting into PM is *hard*, and interviewers are very good at screening out people who aren't genuinely interested in product. Even if you are interested in product, you have to invest a ton of time into preparing. I was shocked when I interviewed for a PM role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
 
 Here are a few highly-recommended resources to get you started.
