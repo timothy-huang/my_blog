@@ -27,7 +27,7 @@ So what's the difference between Consulting and PM interviews, really?
 - Take-home assignments
 - Time investment
 
-# PM interviews require a much larger scope of knowledge
+# PM interviews require a much wider scope of knowledge
 
 I think of consulting interviews as a subset of PM interviews. In consulting, expect to encounter the following types of questions:
 
