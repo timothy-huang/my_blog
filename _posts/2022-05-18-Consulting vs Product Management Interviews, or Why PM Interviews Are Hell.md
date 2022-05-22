@@ -142,7 +142,7 @@ This article is written for someone like me a few years ago.
 
 If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. Breaking into PM is *hard*, and interviewers are very good at screening out people who aren't genuinely interested in product. Even if you are interested in product, you have to invest a ton of time into interview prep. I was shocked when I interviewed for a PM role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
 
-Here are a few highly-recommended resources to get you started. I estimate it'll take around 10-15 hours to skim through to get the highest value content, and you'll want to spend another 20-30 hours to dive into the sections you find helpful more deeply (and taking action.)
+Here are a few highly-recommended resources to get you started. 
 
 **Free:**
 - Mock interviews on Youtube like [this one hosted by Exponent](https://www.youtube.com/watch?v=BNuRsv_42jc) done by current PMs at top tech companies
@@ -151,7 +151,7 @@ Here are a few highly-recommended resources to get you started. I estimate it'll
 - [Hacking your PM Interview](https://podcasts.apple.com/us/podcast/hacking-your-product-management-interview-by-google-pm/id1219400787?i=1000507490069) podcast episode by This is Product Management, especially helpful tips on coming up with ideas for product design interviews
 
 **Paid:**
-- [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) book by Jackie Bavaro and Gayle McDowell for a comprehensive overview of what to expect and prepare for if you're recruiting for PM
+- [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) book by Jackie Bavaro and Gayle McDowell for a singular resource that provides a comprehensive overview of what to expect and prepare for if you're recruiting for PM
 - [The 2-hour job search](https://www.amazon.com/2-Hour-Job-Search-Technology-Faster/dp/1607741709) book by Steve Dalton for an efficient system to apply for jobs
 - [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) book by Marty Cagan to better understand what product management looks like at top tech companies
 
