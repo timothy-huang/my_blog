@@ -47,6 +47,8 @@ PM interviews have the potential to include the following:
 - Coding / Technical questions
 - Take-home assignment (PRD, Case)
 
+The ones you'll encounter most commonly are the behavioral questions, product questions, and the take home assignment. However, I've encountered the rest as well.
+
 Consulting interviews are more focused on strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is partly why it's so hard to get an entry-level PM role -- you need to know *so much* in order to cover all the different questions that can come up in PM interviews.
 
 # PM behaviorals are more nuanced
