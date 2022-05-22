@@ -17,6 +17,16 @@ I was successful at getting the consulting internships, and for my most recent c
 
 So what's the difference between Consulting and PM interviews, really?
 
+**Overview:**
+
+- Scope of knowledge
+- Behavioral interviews
+- Case interviews
+- Making assumptions
+- Technical knowledge
+- Take-home assignments
+- Time investment
+
 # PM interviews require a much larger scope of knowledge
 
 I think of consulting interviews as a subset of PM interviews. In consulting, expect to encounter the following types of questions:
@@ -26,7 +36,7 @@ I think of consulting interviews as a subset of PM interviews. In consulting, ex
 - Market sizing / Estimation questions
 - Case questions
 
-Of these, the ones you're pretty much guaranteed to encounter are the behavioral and case questions. Market sizing questions may be built into your case questions.
+The ones you're pretty much guaranteed to encounter are the behavioral and case questions. Market sizing questions may be built into your case questions.
 
 PM interviews have the potential to include the following:
 - Behaviorals
@@ -37,24 +47,28 @@ PM interviews have the potential to include the following:
 - Coding / Technical questions
 - Take-home assignment (PRD, Case)
 
-Consulting interviews are more focused on strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is partly why it's so hard to get an entry-level PM role -- it's rare for new grads to have enough experience to cover all the different questions that can come up in PM interviews. 
+Consulting interviews are more focused on strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is partly why it's so hard to get an entry-level PM role -- you need to know *so much* in order to cover all the different questions that can come up in PM interviews.
 
 # PM behaviorals are more nuanced
 
-Like for any other job, you'll get the typical "Why X?" for both consulting and PM behavioral interviews.
+Like for most other jobs, you'll get the "Why X?" question for both consulting and PM behavioral interviews.
 
 For consulting, you can usually answer something along the lines of:
 - I like working with smart people
 - I like working on diverse and challenging problems
 - I want to make a big impact on multi-billion dollar companies
 - I see consulting as the fastest way accelerate my career growth, building hard and soft skills that will help me lead a company, start my own company, etc. 
-- I like travel
+- I like to travel
 
-For PM, answering this question is a bit more tricky. If you're coming from an adjacent or similar discipline, you also have to answer the "Why not X?" question as well (X being consulting, software engineering, design, user research, data analytics, etc.) Your answer might be along the lines of:
+For PM, answering this question is a bit trickier. People rarely go into PM directly for their first internship or job, so if you're coming from an adjacent discipline, you have to answer the "Why not X?" question as well (X being consulting, software engineering, design, user research, data analytics, etc.) You have to explain how what you want isn't being satisfied in your current role, and why PM would be a better fit. You can set this up by saying, "I enjoyed X role and learned a lot, but I wanted Y. That's why I want to be a PM, where I can have Y."
+
+Y might be along the lines of:
 - I like working cross-functionally, where I can be involved in thinking about business strategy, design, engineering, and users on a regular basis
 - I like having a strong sense of ownership over my work, my success is directly tied to product/organizational success
 - I want to be closer to the product and the users, so I can see my impact more directly
 - I see product management as the best way to gain the breadth of knowledge and experience I need to build a great product and launch my own company in the future
+
+
 
 Another question that almost always comes up in PM behaviorals is "What is a PM?" PM roles can vary greatly from company to company, so honestly this question is a little bit unfair. However, here's what a safe answer could look like:
 - PMs define the product vision and what success would look like, and they collaborate with design and engineering to come up with solutions to execute on the vision  
@@ -81,7 +95,7 @@ In consulting interviews, you're expected to ask the interviewer questions in or
 
 In PM interviews, the interviewer gives you most of the information upfront. You should still try to clarify the question, although the interviewer will often tell you to make assumptions if there are any unknowns. This is often seen in product design interviews, where the interviewer gives a vague problem statement (e.g. build an alarm clock for the blind). As long as you state what assumptions you're making, pretty much any conclusion you arrive at is fair game. This models what working on a product looks like. Often times there isn't enough data to make a truly data-informed decision. You can only acknowledge the uncertainty and make assumptions along the way. Collecting data comes from running experiments and testing prototypes/MVPs on users. 
 
-For both consulting and PM interviews, it helps to memorize some basic frameworks to apply to a variety of potential problems/situations. Consultants will memorize frameworks like the 4 P's of marketing, the 3 C's, or Porter's 5 Forces. PMs will memorize how to create user personas and prioritization frameworks like RICE (reach, impact, confidence, effort). With that being said, PM interviews are ultimately harder because there's so much more ambiguity in the problem statement. You're forced to think on your feet to come up with creative and interesting responses, while also following a logical framework and structure to arrive at your conclusions. It also means you have to be very conscious of budgeting time throughout your interview. You don't want to spend an hour identifying your target user and have no time left for brainstorming solutions and creating an implementation strategy.
+For both consulting and PM interviews, it helps to memorize some basic frameworks to apply to a variety of potential problems/situations. Consultants will memorize frameworks like the 4 P's of marketing, the 3 C's, or Porter's 5 Forces. PMs will memorize how to create user personas and use prioritization frameworks like RICE (reach, impact, confidence, effort). With that being said, I found PM interviews to be harder because there's so much more ambiguity in the problem statement. Particularly for product design interviews, you're forced to think on your feet to come up with ideas that are creative and interesting, while also following a logical framework and structure to arrive at your conclusions. It also means you have to be very conscious of budgeting time throughout your interview. You don't want to spend an hour identifying your target user and have no time left for brainstorming solutions and creating an implementation strategy.
 
 # PM interviews are more technical
 
@@ -92,19 +106,18 @@ Entry-level strategy consulting interviews are pretty unlikely to have anything 
 Entry-level PM interviews don't always have technical questions, but you should prepare with the assumption they will. Luckily, these questions are usually designed to check your general understanding of technical concepts, as opposed to being asked to solve a coding problem or know the syntax of Javascript by heart. Interviewers may also vary how technical the question is depending on your background. I've been asked to walk through how a product like Robinhood is built (systems design),  whereas someone less technical might be asked to explain how an API works. If you studied computer science or worked as a software engineer, these questions will be easier to answer. If not, there are resources that provide a broad overview of topics that might come up. [Swipe to Unlock](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K) is a book that comes to mind.
 
 
-# PM interviews have long take-home assignments
+# Consulting vs PM take-home assignments
 
-Consulting interviews typically don't assign any major take-home assignments. However, you might be asked to fill out a personality test or play a bunch of games that are effectively some form of an IQ test (Really...? Seriously, really??? I still can't believe this is real.) 
+Consulting interviews typically don't assign any long take-home assignments. However, even before your resume screening interview you might be asked to fill out a personality test or play a bunch of games that are effectively some form of an IQ test. The most popular of these tests seems to be [Pymetrics](https://www.pymetrics.ai/). I'm skeptical that these games reveal anything beyond who managed to get their hands on more practice games, and I'm also skeptical game performance correlates with on-the-job performance. It also doesn't seem to be good for building goodwill with candidates (see what some others think on [Wall Street Oasis](https://www.wallstreetoasis.com/forums/pymetrics-what-the-fuck), [Reddit](https://www.reddit.com/r/recruitinghell/comments/iyujqz/pymetrics_made_me_mad_and_unemployed/)). I've only encountered these games at one company while recruiting for PM, and I turned down the interview despite "passing" the test partially because it rubbed me the wrong way.
 
-PM interviews almost always involve a major take-home component. I can't remember one that didn't. Typically, you're asked to write a Product Requirements Document (PRD) for a case modeled after a problem the company has encountered. Sometimes you're even expected to present it at your next interview with accompanying visuals.  
-
+PM interviews almost always involve a major take-home component. I can't remember one that didn't. Typically, you're asked to write a Product Requirements Document (PRD) for a case modeled after a problem the company has encountered. Sometimes you're even expected to present it at your next interview with accompanying visuals. Compared to intelligence tests, this seems like a much fairer way to assess candidates. However, it comes at the cost of significant time investment into researching, brainstorming, and writing. Companies usually don't define a narrow scope or structure for these assignments, so you might end up spending a ton of time writing and rewriting sections that you're not sure people will even bother reading. I've easily spent 2 hours on mocking up a few UI designs in Figma, which is usually considered the "cherry on top" for these PRD assignments.
 
 # The PM interview process requires way more time overall
 
 In my experience, the time investment required to go through the full interview process for PM interviews is much greater than consulting interviews. Excluding preparation (which I argue is much greater for PM interviews), the typical interview process for entry-level consulting vs PM interviews looks like the following.
 
 Consulting:
-- Stupid intelligence game (15-30 minutes)
+- Intelligence game (15-30 minutes)
 - Recruiter screen (15 - 30 minutes)
 - First round interview (30 minutes - 1 hr)
 - Second/Final round interview (1 hr)
@@ -119,12 +132,29 @@ PM:
 
 The take-home assignment and final round interviews are the real time-sinks for PM interviews. PM take-home assignments take a lot of time to complete, and you're usually only given a week to do so (this is especially rough if you're in school or working at the same time). Even if the company recommends you to only spend 3 hours max on an assignment, if you're anything like me, you probably spend a little more. Final round interviews can also be brutal. I've spent up to 4 hours interviewing with people from different teams back-to-back, no break in between. 
 
+Here's where PM interviews could use some improvement. I believe if companies are requesting candidates to invest so much of their time into the interview process, they should at least compensate the candidate for their time. 
+
+Meanwhile, I found the consulting interview process to move by extremely quickly, and I was never particularly stressed throughout the process. Whether or not consulting interviews are fair assessments of candidate ability is another story.
+
 # Final comments
 
 This article is written for someone like me a few years ago.
 
 I chose to become a PM rather than stick with consulting, but that's not the focus of this article. I'm also not saying that PM is better than consulting or that consulting is easier than PM. 
 
-If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. I was shocked when I interviewed for a PM  role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
+If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. Getting into PM is *hard*, and interviewers are very good at screening out people who aren't genuinely interested in product. Even if you are interested in product, you have to invest a ton of time into preparing. I was shocked when I interviewed for a PM role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
 
-If I haven't scared you off, and you're still set on being a PM, then godspeed. Good luck on your PM interviewing journey! You'll need it. For real.
+Here are a few highly-recommended resources to get you started.
+
+Free:
+- Mock interviews  available on Youtube like [this one hosted by Exponent](https://www.youtube.com/watch?v=BNuRsv_42jc) done by current PMs at top tech companies
+- [Pre-interview research](https://productmanagerhq.com/product-manager-interview-pre-interview-research/) by Clement Kao (Product Management HQ) for a structured and prioritized way to prep before interviewing with a new company 
+- [How to write a PM Resume](https://productmanagerhq.com/the-ultimate-product-manager-resume-guide/) and [How to craft a solid PM LinkedIn Profile](https://productmanagerhq.com/how-to-craft-a-solid-product-manager-linkedin-profile/), also by PMHQ for more perspective and actionable steps on how to get more callbacks for your PM interviews
+
+Paid:
+- [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) by Jackie Bavaro and Gayle McDowell for a comprehensive overview of what to expect and prepare for if you're recruiting for PM
+- [The 2-hour job search](https://www.amazon.com/2-Hour-Job-Search-Technology-Faster/dp/1607741709) by Steve Dalton for an efficient system to apply for jobs
+- [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan to better understand what product management looks like at top tech companies
+
+If I haven't scared you off, and you're still set on being a PM, then godspeed. Good luck on your PM recruiting journey! You'll need it. For real.
+
