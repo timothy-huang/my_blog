@@ -51,7 +51,7 @@ The ones you'll encounter most commonly are the behavioral questions, product qu
 
 Consulting interviews are more focused on strategy, whereas PM interviews require you to think about strategy *and* implementation, with particular consideration towards design and engineering. This is partly why it's so hard to get an entry-level PM role -- you need to have a ton of breadth in order to cover all the different questions that can come up in PM interviews.
 
-# PM behaviorals are more nuanced
+# PM behaviorals require more nuance
 
 Like for most other jobs, you'll get the "Why X?" question for both consulting and PM behavioral interviews.
 
