@@ -55,7 +55,7 @@ Consulting interviews are more focused on strategy, whereas PM interviews requir
 
 Like for most other jobs, you'll get the "Why X?" question for both consulting and PM behavioral interviews.
 
-For consulting, you can usually answer something along the lines of:
+Consulting is a common career choice for generalists who aren't really sure what they want to do, and interviewers know that. When interviewers ask "Why consulting?" you can usually answer something along the lines of:
 - I like working with smart people
 - I like working on diverse and challenging problems
 - I want to make a big impact on multi-billion dollar companies
