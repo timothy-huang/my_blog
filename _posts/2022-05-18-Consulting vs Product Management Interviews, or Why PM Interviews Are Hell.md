@@ -62,7 +62,7 @@ For consulting, you can usually answer something along the lines of:
 - I see consulting as the fastest way accelerate my career growth, building hard and soft skills that will help me lead a company, start my own company, etc. 
 - I like to travel
 
-For PM, answering this question is a bit trickier. People rarely go into PM directly for their first internship or job, so if you're coming from an adjacent discipline, you have to answer the "Why not X?" question as well (X being consulting, software engineering, design, user research, data analytics, etc.) You have to explain how what you want isn't being satisfied in your current role, and why PM would be a better fit. You can set this up by saying, "I enjoyed X role and learned a lot, but I wanted Y. That's why I want to be a PM, where I can have Y."
+For PM, answering this question is a bit trickier. Interviewers are really screening for people who genuinely like product. People rarely go into PM directly for their first internship or job, so if you're coming from an adjacent discipline, you have to answer the "Why not X?" question as well (X being consulting, software engineering, design, user research, data analytics, etc.) You have to explain how what you want isn't being satisfied in your current role, and why PM would be a better fit. You can set this up by saying, "I enjoyed X role and learned a lot, but I wanted Y. That's why I want to be a PM, where I can have Y."
 
 Y might be along the lines of:
 - I like working cross-functionally, where I can be involved in thinking about business strategy, design, engineering, and users on a regular basis
