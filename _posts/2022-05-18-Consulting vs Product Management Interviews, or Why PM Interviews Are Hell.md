@@ -17,7 +17,7 @@ I was successful at getting the consulting internships, and for my most recent c
 
 So what's the difference between Consulting and PM interviews, really?
 
-**Overview:**
+# Overview
 
 - Scope of knowledge
 - Behavioral interviews
