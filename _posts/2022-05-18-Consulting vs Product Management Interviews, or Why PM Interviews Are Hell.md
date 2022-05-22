@@ -134,7 +134,7 @@ The take-home assignment and final round interviews are the real time-sinks for 
 
 Here's where PM interviews could use some improvement. I believe if companies are requesting candidates to invest so much of their time into the interview process, they should at least compensate the candidate for their time. 
 
-Meanwhile, I found the consulting interview process to move by extremely quickly, and I was never particularly stressed throughout the process. Whether or not consulting interviews are fair assessments of candidate ability is another story.
+Meanwhile, I found the consulting interview process to move by extremely quickly, and I was never particularly stressed throughout the process. 
 
 # Final comments and resources
 
