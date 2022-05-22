@@ -151,7 +151,7 @@ Here are a few highly-recommended resources to get you started.
 - [Hacking your PM Interview](https://podcasts.apple.com/us/podcast/hacking-your-product-management-interview-by-google-pm/id1219400787?i=1000507490069) podcast episode by This is Product Management, especially helpful tips on coming up with ideas for product design interviews
 
 **Paid:**
-- [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) book by Jackie Bavaro and Gayle McDowell for a singular resource that provides a comprehensive overview of what to expect and prepare for if you're recruiting for PM
+- [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) book by Jackie Bavaro and Gayle McDowell that provides a comprehensive overview of what to expect and prepare for if you're recruiting for PM
 - [The 2-hour job search](https://www.amazon.com/2-Hour-Job-Search-Technology-Faster/dp/1607741709) book by Steve Dalton for an efficient system to apply for jobs
 - [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) book by Marty Cagan to better understand what product management looks like at top tech companies
 
