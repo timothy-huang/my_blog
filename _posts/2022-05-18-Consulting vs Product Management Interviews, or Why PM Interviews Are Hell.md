@@ -136,7 +136,7 @@ Here's where PM interviews could use some improvement. I believe if companies ar
 
 Meanwhile, I found the consulting interview process to move by extremely quickly, and I was never particularly stressed throughout the process. Whether or not consulting interviews are fair assessments of candidate ability is another story.
 
-# Final comments
+# Final comments and resources
 
 This article is written for someone like me a few years ago.
 
@@ -150,6 +150,7 @@ Free:
 - Mock interviews  available on Youtube like [this one hosted by Exponent](https://www.youtube.com/watch?v=BNuRsv_42jc) done by current PMs at top tech companies
 - [Pre-interview research](https://productmanagerhq.com/product-manager-interview-pre-interview-research/) by Clement Kao (Product Management HQ) for a structured and prioritized way to prep before interviewing with a new company 
 - [How to write a PM Resume](https://productmanagerhq.com/the-ultimate-product-manager-resume-guide/) and [How to craft a solid PM LinkedIn Profile](https://productmanagerhq.com/how-to-craft-a-solid-product-manager-linkedin-profile/), also by PMHQ for more perspective and actionable steps on how to get more callbacks for your PM interviews
+- [Hacking your PM Interview](https://podcasts.apple.com/us/podcast/hacking-your-product-management-interview-by-google-pm/id1219400787?i=1000507490069) podcast episode by This is Product Management, especially helpful tips on coming up with ideas for product design interviews
 
 Paid:
 - [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) by Jackie Bavaro and Gayle McDowell for a comprehensive overview of what to expect and prepare for if you're recruiting for PM
