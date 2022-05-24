@@ -84,9 +84,9 @@ Read more on [money and happiness](https://80000hours.org/articles/money-and-hap
 
 **Healthy life expectancy at birth** is similar to money. It seems the better the life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with emotional well-being. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't *make* us happy.
 
-Meanwhile, **social support** has strong associations with both life evaluations and emotional well-being, both positive and negative. When we have positive social relationships, we evaluate our lives more highly, and we feel good in our day-to-day lives. When we don't have positive social relationships, we evaluate our lives more poorly, and we don't feel very happy either.
+Meanwhile, **social support** has strong associations with both life evaluation and emotional well-being (both positive and negative). When we have social support, we evaluate our lives more highly, and we feel happy. When we don't have social support, we evaluate our lives more poorly, and we feel unhappy.
 
-**Freedom to make life choices** and **generosity** have larger associations with positive affect than with life evaluation. People who have autonomy and who are generous *feel* happier, even if they don't evaluate their lives more highly than others. 
+**Freedom to make life choices** and **generosity** have larger associations with positive affect than with life evaluation. People who have autonomy and who are generous are happier, even if they don't evaluate their lives more highly than others. 
 
 On the flip side, a lack of social support, a lack of freedom, and **perception of corruption** is associated with negative affect. It turns out if you're disconnected from others, can't make your own choices, and live somewhere corrupt, you feel unhappy! Go figure. 
 
