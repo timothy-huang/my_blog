@@ -11,9 +11,11 @@ Most countries around the world measure societal well-being based on how much st
 
 The more that is produced, the more there is to go around, right? This measure is known as Gross Domestic Product (GDP), and economists have determined a [GDP growth rate of 2-3% a year to be optimal](https://web.stanford.edu/~chadj/facts.pdf). In other words, our goal as a society is to produce 2-3% more stuff each year.
 
-The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use **GDP per capita** to measure the economic output *per person*. 
+The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use GDP *per capita* to measure the economic output per person. 
 
 According to the World Bank, the U.S. had a GDP per capita of \\$63,207 in 2020. China had a GDP per capita of \\$10,435. Going off of GDP per capita, the US should have among the highest levels of well-being in the world. 
+
+Note: For concision, from now on when I refer to GDP I'm referring to GDP per capita.
 
 But GDP has its problems. In particular, it doesn't accurately capture non-financial qualities of a healthy society such as:
 - Psychological wellbeing
@@ -82,7 +84,7 @@ Read more on [money and happiness](https://80000hours.org/articles/money-and-hap
 
 # The other 5 factors
 
-**Healthy life expectancy at birth** is very similar to money. It seems the better the life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with emotional well-being. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't necessarily *make* us happy.
+**Healthy life expectancy at birth** is similar to money. It seems the better the life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with emotional well-being. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't necessarily *make* us happy.
 
 Meanwhile, **social support** has similar associations with life evaluations and positive / negative emotions. When we have positive social relationships. we evaluate our lives more highly and we feel good in our day-to-day lives. 
 

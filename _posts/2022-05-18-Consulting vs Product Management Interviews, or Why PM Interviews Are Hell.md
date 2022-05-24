@@ -99,7 +99,7 @@ In consulting interviews, you're expected to ask the interviewer questions in or
 
 In PM interviews, the interviewer gives you most of the information upfront. You should still try to clarify the question, although the interviewer will often tell you to make assumptions if there are any unknowns. This is often seen in product design interviews, where the interviewer gives a vague problem statement (e.g. build an alarm clock for the blind). As long as you state what assumptions you're making, pretty much any conclusion you arrive at is fair game. This models what working on a product looks like. Often times there isn't enough data to make a truly data-informed decision. You can only acknowledge the uncertainty and make assumptions along the way. Collecting data comes from running experiments and testing prototypes/MVPs on users. 
 
-For both consulting and PM interviews, it helps to memorize some basic frameworks to apply to a variety of potential problems/situations. Consultants will memorize frameworks like the 4 P's of marketing, the 3 C's, or Porter's 5 Forces. PMs will memorize how to create user personas and use prioritization frameworks like RICE (reach, impact, confidence, effort). With that being said, I found PM interviews to be harder because there's so much more ambiguity in the problem statement. Particularly for product design interviews, you're forced to think on your feet to come up with ideas that are creative and interesting, while also following a logical framework and structure to arrive at your conclusions. It also means you have to be very conscious of budgeting time throughout your interview. You don't want to spend an hour identifying your target user and have no time left for brainstorming solutions and creating an implementation strategy.
+For both consulting and PM interviews, it helps to memorize some basic frameworks to apply to a variety of potential problems/situations. Consultants will memorize frameworks like the 4 P's of marketing, the 3 C's, or Porter's 5 Forces. PMs will memorize how to create user personas and use prioritization frameworks like RICE (reach, impact, confidence, effort). With that being said, I found PM interviews to be harder because there's so much more ambiguity in the problem statement. Particularly for product design interviews, you're forced to think on your feet to come up with ideas that are creative and interesting, while also following a logical framework and structure to arrive at your conclusions. It also means you have to be conscious of budgeting time throughout your interview. You don't want to spend an hour identifying your target user and have no time left for brainstorming solutions and creating an implementation strategy.
 
 # PM interviews are more technical
 
@@ -138,13 +138,13 @@ The take-home assignment and final round interviews are the real time-sinks for 
 
 Here's where PM interviews could use some improvement. I believe if companies are requesting candidates to invest so much of their time into the interview process, they should at least compensate the candidate for their time. 
 
-Meanwhile, I found the consulting interview process to move by extremely quickly, and I was never particularly stressed throughout the process. 
+Meanwhile, I found the consulting interview process to move by quickly, and I was never particularly stressed throughout the process. 
 
 # Final comments and resources
 
 This article is written for someone like me a few years ago.
 
-If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. Breaking into PM is *hard*, and interviewers are very good at screening out people who aren't genuinely interested in product. Even if you are interested in product, you have to invest a ton of time into interview prep. I was shocked when I interviewed for a PM role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
+If you've done a few consulting internships and you're thinking about switching into PM because of the prestige, the salary, or the benefits, it's time to buckle up. Breaking into PM is *hard*, and interviewers are good at screening out people who aren't genuinely interested in product. Even if you are interested in product, you have to invest a ton of time into interview prep. I was shocked when I interviewed for a PM role for the first time, and I totally bombed it. Don't make my mistake, and make sure you set aside enough time to prep for those interviews.  
 
 Here are a few highly-recommended resources to get you started. 
 
