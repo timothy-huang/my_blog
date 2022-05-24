@@ -11,7 +11,7 @@ Most countries around the world measure societal well-being based on how much st
 
 The more that is produced, the more there is to go around, right? This measure is known as Gross Domestic Product (GDP), and economists have determined a [GDP growth rate of 2-3% a year to be optimal](https://web.stanford.edu/~chadj/facts.pdf). In other words, **our goal as a society is to produce 2-3% more stuff each year**.
 
-The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use GDP *per capita* to measure the economic output per person. 
+The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use GDP *per capita* to measure how much stuff is produced per person. By the way, I say "stuff", but GDP also includes services such as those provided your favorite rideshare platform.
 
 According to the World Bank, the U.S. had a GDP per capita of \\$63,207 in 2020. China had a GDP per capita of \\$10,435. Going off of GDP per capita, the US should have among the highest levels of well-being in the world. 
 
