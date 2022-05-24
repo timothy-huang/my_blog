@@ -104,7 +104,7 @@ And what about Bhutan, the pioneer of Gross National Happiness? Well, it ranks 9
 
 However, just because GDP seems to be a decent predictor of happiness doesn't mean *everyone* is happy. In the U.S., the Gini Coefficient for income inequality increased from 0.43 in 1990 to 0.49 in 2019, where 0 represents perfect equality (resources are evenly distributed among everyone) and 1 represents maximal inequality (one person owns all the resources). As society becomes more unequal, we can [expect to see](https://equalitytrust.org.uk/about-inequality/impacts) more social instability, less social mobility, increased crime, lower life expectancy, and yes, less happiness.
 
-And what about environment and sustainability? The U.S. emits over 15.5 tons of CO2e per capita, over three times that of the world average. Reminder: Bhutan is a carbon *negative* country, meaning it captures more carbon than it emits.
+And what about environment and sustainability? The U.S. emits over 15.5 tons (1000 lbs) of CO2e per capita, over three times that of the world average. Reminder: Bhutan is a carbon *negative* country, meaning it captures more carbon than it emits.
 
 So while GDP is a useful metric, it seems like a more holistic measure for healthy development is in order. The work being done by the UN through the World Happiness Report seems to be a good start, capturing both GDP and other metrics of social well-being. Companies are adopting similar, holistic development frameworks like [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) and the [triple bottom line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line#:~:text=The%20triple%20bottom%20line%20is,%3A%20profit%2C%20people%2C%20and%20the). 
 
