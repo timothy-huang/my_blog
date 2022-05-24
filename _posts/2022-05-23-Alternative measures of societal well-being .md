@@ -3,7 +3,7 @@ layout: post
 title:  "Alternative measures of societal well-being "
 date:  2022-05-23
 categories: economics social philosophy happiness
-permalink: /posts/alternative-measures-of-societal- well-being 
+permalink: /posts/alternative-measures-of-societal-well-being 
 author: "Tim"
 ---
 
