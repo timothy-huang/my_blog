@@ -82,7 +82,7 @@ Read more on [money and happiness](https://80000hours.org/articles/money-and-hap
 
 # The other 5 factors
 
-**Healthy life expectancy at birth** is similar to money. It seems the better the life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with emotional well-being. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't *make* us happy.
+**Healthy life expectancy at birth** is similar to money. It seems the higher your life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with emotional well-being. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't *make* us happy.
 
 Meanwhile, **social support** has strong associations with both life evaluation and emotional well-being (both positive and negative). When we have social support, we evaluate our lives more highly, and we feel happy. When we don't have social support, we evaluate our lives more poorly, and we feel unhappy.
 
