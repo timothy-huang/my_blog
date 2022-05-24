@@ -15,9 +15,9 @@ The United States has the highest GDP in the world, at over \\$19.48 trillion, n
 
 According to the World Bank, the U.S. had a GDP per capita of \\$63,207 in 2020. China had a GDP per capita of \\$10,435. Going off of GDP per capita, the US should have among the highest levels of well-being in the world. 
 
-Note: For concision, from now on when I refer to GDP I'm referring to GDP per capita.
+Note: For concision, from now on when I refer to GDP, I'm referring to GDP per capita.
 
-But GDP has its problems. In particular, it doesn't accurately capture non-financial qualities of a healthy society such as:
+But GDP has its problems. In particular, it doesn't accurately capture other qualities of a healthy society such as:
 - Psychological wellbeing
 - Health
 - Education
