@@ -86,7 +86,7 @@ Read more on [money and happiness](https://80000hours.org/articles/money-and-hap
 
 Meanwhile, **social support** has strong associations with both life evaluations and emotional well-being. When we have positive social relationships. we evaluate our lives more highly and we feel good in our day-to-day lives. 
 
-**Freedom to make life choices** and **generosity** have even larger associations with positive affect than with life-evaluation. People who have autonomy and who are generous *feel* happier, even if they don't evaluate their lives more highly than others. 
+**Freedom to make life choices** and **generosity** have larger associations with positive affect than with life-evaluation. People who have autonomy and who are generous *feel* happier, even if they don't evaluate their lives more highly than others. 
 
 On the flip side, a lack of social support, a lack of freedom, and **perception of corruption** is associated with negative affect. It turns out if you're disconnected from others, can't make your own choices, and live somewhere corrupt, you feel unhappy! Go figure. 
 
