@@ -108,7 +108,7 @@ So while GDP is a useful metric, it seems like using a more holistic measure for
 
 # What you can do
 
-Deciding on what metrics are important matters. As famous management guru Peter Drucker said, "You can't improve what you don't measure."
+Deciding on what metrics are important matters.
 
 If you're interested in being an agent of change, it might be helpful to start from a local level. After all, this is *your* well-being we're talking about. 
 
@@ -124,6 +124,6 @@ Participate in your city and county governments and see what measures they use t
 
 In your schools and the organizations you work in, try to support a culture that embraces a holistic development mindset. If there's no ESG group, consider asking "why?" 
 
-We have to take our well-being in our own hands. It's tough to overcome the inertia of a relentless focus on economic output, but we can do it. 
+We have to take our well-being in our own hands. It's tough to overcome the inertia of a relentless focus on economic output over the last one hundred years, but we can do it. 
 
-In the wise words of Marie Kondo, “Don’t you think it is unnatural for us to possess things that don’t bring us joy or things that we don’t really need?”
+As famous management guru Peter Drucker said, "You can't improve what you don't measure."
