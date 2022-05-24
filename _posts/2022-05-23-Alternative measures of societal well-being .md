@@ -106,9 +106,11 @@ However, just because GDP seems to be a decent predictor of happiness doesn't me
 
 And what about environment and sustainability? The U.S. emits over 15.5 tons of CO2e per capita, over three times that of the world average. Reminder: Bhutan is a carbon *negative* country, meaning it captures more carbon than it emits.
 
-So while GDP is a useful metric, it seems like a more holistic approach to development is in order. The work being done by the UN through the World Happiness Report seems to be a good start, capturing both GDP and other metrics of social well-being. Companies are adopting similar, holistic development frameworks like [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) and the [triple bottom line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line#:~:text=The%20triple%20bottom%20line%20is,%3A%20profit%2C%20people%2C%20and%20the). 
+So while GDP is a useful metric, it seems like a more holistic measure for healthy development is in order. The work being done by the UN through the World Happiness Report seems to be a good start, capturing both GDP and other metrics of social well-being. Companies are adopting similar, holistic development frameworks like [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) and the [triple bottom line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line#:~:text=The%20triple%20bottom%20line%20is,%3A%20profit%2C%20people%2C%20and%20the). 
 
 # What you can do
+
+Deciding on what metrics are important matters. As famous management guru Peter Drucker said, "You can't improve what you don't measure."
 
 If you're interested in being an agent of change, it might be helpful to start from a local level. After all, this is *your* well-being we're talking about. 
 
@@ -120,7 +122,7 @@ Evaluate your surrounding community and see what's missing from the 6 factors id
 - Are people generous with their time and money?
 - Is the government corrupt?
 
-Participate in your city and county governments and advocate for policies in the areas you believe need more investment. If you're like me, and you want to both prioritize the environment and build a stronger sense of community, might I suggest turning your city into a [walkable city](https://drawdown.org/solutions/walkable-cities)? 
+Participate in your city and county governments and see what measures they use to define success. If something's lacking, tell them to start measuring what matters to you. If you're like me, and you want to both prioritize the environment and build a stronger sense of community, might I suggest telling your city to optimize for [walkability](https://www.walkscore.com/) and turn the city into a [walkable city](https://drawdown.org/solutions/walkable-cities)? 
 
 In your schools and the organizations you work in, try to support a culture that embraces a holistic development mindset. If there's no ESG group, consider asking "why?" 
 
