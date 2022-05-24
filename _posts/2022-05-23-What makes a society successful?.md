@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Alternative measures of societal well-being "
+title:  "What makes a society successful?"
 date:  2022-05-23
 categories: economics social philosophy happiness
-permalink: /posts/alternative-measures-of-societal-well-being 
+permalink: /posts/what-makes-a-society-successful
 author: "Tim"
 ---
 
