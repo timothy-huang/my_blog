@@ -9,7 +9,7 @@ author: "Tim"
 
 Most countries around the world measure societal well-being based on how much stuff is produced. 
 
-The more that is produced, the more there is to go around, right? This measure of economic output is known as Gross Domestic Product (GDP), and economists have determined a [GDP growth rate of 2-3% a year to be optimal](https://web.stanford.edu/~chadj/facts.pdf). 
+The more that is produced, the more there is to go around, right? This measure is known as Gross Domestic Product (GDP), and economists have determined a [GDP growth rate of 2-3% a year to be optimal](https://web.stanford.edu/~chadj/facts.pdf). In other words, our goal as a society is to produce 2-3% more stuff each year.
 
 The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use **GDP per capita** to measure the economic output *per person*. 
 
