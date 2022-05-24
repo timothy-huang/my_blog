@@ -90,7 +90,7 @@ Meanwhile, **social support** has similar associations with life evaluations and
 
 On the flip side, a lack of social support, a lack of freedom, and **perception of corruption** is associated with negative affect. It turns out if you're disconnected from others, can't make your own choices, and live somewhere corrupt, you feel unhappy! Go figure. 
 
-# Okay, now what?
+# Okay, so what should we focus on?
 
 So should we switch to using Gross National Happiness, the Cantril ladder life-evaluation question, or some other alternative measure of societal well-being instead of GDP?
 
