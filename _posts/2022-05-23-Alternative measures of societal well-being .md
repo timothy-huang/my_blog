@@ -94,7 +94,7 @@ On the flip side, a lack of social support, a lack of freedom, and **perception 
 
 So should we switch to using Gross National Happiness, the Cantril ladder life-evaluation question, or some other alternative measure of societal well-being instead of GDP?
 
-It's hard to say.
+Maybe!
 
 The U.S. doesn't score great on the World Happiness Rankings given its relatively high GDP, but it doesn't score too poorly either. This suggests GDP might be a decent approximation for overall societal well-being and will continue to be a relevant metric for policy-makers. 
 
