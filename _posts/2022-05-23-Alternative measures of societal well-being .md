@@ -98,7 +98,7 @@ Maybe!
 
 The U.S. doesn't score great on the World Happiness Rankings given its relatively high GDP, but it doesn't score too poorly either. This suggests GDP might be a decent approximation for overall societal well-being and will continue to be a relevant metric for policy-makers. 
 
-And what about Bhutan, the pioneer of Gross National Happiness? Well, it ranks 95th out of 156 countries, likely because of its low income.
+And what about Bhutan, the pioneer of Gross National Happiness? Well, it ranks 95th out of 156 countries on the World Happiness Rankings, likely because of its low income.
 
 However, just because GDP seems to be a decent predictor of happiness doesn't mean *everyone* is happy. In the U.S., the Gini Coefficient for income inequality increased from 0.43 in 1990 to 0.49 in 2019, where 0 represents perfect equality (resources are evenly distributed among everyone) and 1 represents maximal inequality (one person owns all the resources). As society becomes more unequal, we can [expect to see](https://equalitytrust.org.uk/about-inequality/impacts) more social instability, less social mobility, increased crime, lower life expectancy, and yes, less happiness.
 
