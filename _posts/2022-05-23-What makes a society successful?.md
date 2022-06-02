@@ -86,7 +86,7 @@ Read more on [money and happiness](https://80000hours.org/articles/money-and-hap
 
 **Healthy life expectancy at birth is similar to money**. It seems the higher your life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with positive affect. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't *make* us happy.
 
-Meanwhile, **social support has strong associations with both life evaluation and positive affect**. When we have social support, we evaluate our lives more highly, and we feel happy.
+Meanwhile, **social support has strong associations with both life evaluation and positive affect**. When we have social support, we evaluate our lives more highly, and we feel happy. Consistent with other research findings, it seems our social relationships are one of the most important factors contributing to our happiness.
 
 **Freedom to make life choices and generosity have larger associations with positive affect than with life evaluation**. I found this fascinating. Having autonomy and being generous will help you feel happier even if you don't evaluate your life more highly than people who have less autonomy or are less generous. 
 
