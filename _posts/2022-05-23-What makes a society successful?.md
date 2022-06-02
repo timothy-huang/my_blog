@@ -124,6 +124,4 @@ Participate in your city and county governments and see what measures they use t
 
 In your schools and the organizations you work in, try to support a culture that embraces a holistic development mindset. If there's no ESG group, consider asking "why?" 
 
-We have to take our well-being in our own hands. It's tough to overcome the inertia of a relentless focus on economic output over the last one hundred years, but we can do it. 
-
-As famous management guru Peter Drucker said, "You can't improve what you don't measure."
+We have to take our well-being in our own hands, and it starts with measuring what metters. As famous management guru Peter Drucker said, "You can't improve what you don't measure."
