@@ -9,11 +9,13 @@ author: "Tim"
 
 Most countries around the world measure societal well-being based on how much stuff is produced. 
 
-The more that is produced, the more there is to go around, right? This measure is known as Gross Domestic Product (GDP), and economists have determined a [GDP growth rate of 2-3% a year to be optimal](https://web.stanford.edu/~chadj/facts.pdf). In other words, **our goal as a society is to produce 2-3% more stuff each year**.
+The more that is produced, the more there is to go around, right? This measure is known as Gross Domestic Product (GDP), and economists have determined a [GDP growth rate of 2-3% a year to be optimal](https://web.stanford.edu/~chadj/facts.pdf). In other words, **our goal as a society is to produce 2-3% more stuff each year**. 
 
-The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use GDP *per capita* to measure how much stuff is produced per person. By the way, I say "stuff", but GDP also includes services such as those provided your favorite rideshare platform.
+The United States has the highest GDP in the world, at over \\$19.48 trillion, nearly \\$7 trillion more than the next country, China. However, GDP alone doesn't tell us much about how this output is distributed among individual people, so economists use GDP *per capita* to measure how much stuff is produced per person. 
 
-According to the World Bank, the U.S. had a GDP per capita of \\$63,207 in 2020. China had a GDP per capita of \\$10,435. Going off of GDP per capita, the US should have among the highest levels of well-being in the world. 
+By the way, I say "stuff", but GDP also includes services such as those provided your favorite rideshare platform.
+
+In 2020, the U.S. had a GDP per capita of \\$63,207. China had a GDP per capita of \\$10,435. Going off of GDP per capita, the US should have among the highest levels of well-being in the world. 
 
 But GDP has its problems. In particular, it doesn't accurately capture other qualities of a healthy society such as:
 - Psychological wellbeing
@@ -38,7 +40,7 @@ Bhutan, a small landlocked kingdom located in the Himalayas, came up with a metr
 From [Oxford Poverty and Human Development Initiative](https://ophi.org.uk/policy/gross-national-happiness-index/):
 > The phrase ‘gross national happiness’ was first coined by the 4th King of Bhutan, King Jigme Singye Wangchuck, in 1972 when he declared, “Gross National Happiness is more important than Gross Domestic Product.” The concept implies that sustainable development should take a holistic approach towards notions of progress and give equal importance to non-economic aspects of wellbeing.
 
-Gross National Happiness has been added to the Bhutanese Constitution, and lawmakers draft policies based on the projected impact on GNH. In 2021, Bhutan was the world's first carbon-negative country, showcasing the country's commitment to ecological diversity and resilience, one of the main pillars of GNH.
+Gross National Happiness has been added to the Bhutanese Constitution, and lawmakers draft policies based on the projected impact on GNH. In 2021, **Bhutan was the world's first carbon-negative country**, showcasing the country's commitment to ecological diversity and resilience, one of the main pillars of GNH.
 
 # How countries around the world measure up on happiness
 
@@ -69,7 +71,7 @@ In general, the 6 factors were better predictors of the life-evaluation question
 
 # Money doesn't make you happier
 
-Interestingly, **per-capita income** has a significant effect on life evaluations, but not on affect. In other words, you evaluate your life more highly when you have more money, but more money doesn't make you *feel* much happier.
+Interestingly, **per-capita income has a significant effect on life evaluations, but not on affect**. In other words, you evaluate your life more highly when you have more money, but more money doesn't make you *feel* much happier.
 
 Some of us are probably thinking that's crazy. Of course money makes you happier! Some of the biggest problems in our lives are because we don't have enough money, right? And who isn't excited about getting a raise?
 
@@ -82,13 +84,13 @@ Read more on [money and happiness](https://80000hours.org/articles/money-and-hap
 
 # The other 5 factors
 
-**Healthy life expectancy at birth** is similar to money. It seems the higher your life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with positive affect. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't *make* us happy.
+**Healthy life expectancy at birth is similar to money**. It seems the higher your life expectancy, the more highly you evaluate your life. However, life expectancy doesn't seem to have a strong association with positive affect. This intuitively makes sense. We need to be healthy and alive to be happy, but being healthy and alive doesn't *make* us happy.
 
-Meanwhile, **social support** has strong associations with both life evaluation and positive affect. When we have social support, we evaluate our lives more highly, and we feel happy.
+Meanwhile, **social support has strong associations with both life evaluation and positive affect**. When we have social support, we evaluate our lives more highly, and we feel happy.
 
-**Freedom to make life choices** and **generosity** have larger associations with positive affect than with life evaluation. People who have autonomy and who are generous are happier, even if they don't evaluate their lives more highly than others. 
+**Freedom to make life choices and generosity have larger associations with positive affect than with life evaluation**. People who have autonomy and who are generous are happier, even if they don't evaluate their lives more highly than others. 
 
-On the flip side, a lack of social support, a lack of freedom, and **perception of corruption** is associated with negative affect. It turns out if you're disconnected from others, can't make your own choices, and live somewhere corrupt, you feel unhappy! Go figure. 
+On the flip side, **a lack of social support, a lack of freedom, and perception of corruption is associated with negative affect**. It turns out if you're disconnected from others, can't make your own choices, and live somewhere corrupt, you feel unhappy! Go figure. 
 
 # Okay, so what should we focus on?
 
