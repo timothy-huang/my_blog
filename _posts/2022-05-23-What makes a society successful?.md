@@ -120,7 +120,7 @@ Evaluate your surrounding community and see what's missing from the 6 factors id
 - Are people generous with their time and money?
 - Is the government corrupt?
 
-Participate in your city and county governments and see what measures they use to define success. If something's lacking, tell them to start measuring what matters to you. If you're like me, and you want to both prioritize the environment and build a stronger sense of community, might I suggest telling your city to optimize for [walkability](https://www.walkscore.com/) and turn the city into a [walkable city](https://drawdown.org/solutions/walkable-cities)? 
+Participate in your city and county governments and see what measures they use to define success. If something's lacking, tell them to start measuring what matters to you. If you're like me, and you want to both prioritize protecting the environment and building a stronger sense of community, might I suggest telling your city to optimize for [walkability](https://www.walkscore.com/) and turn the city into a [walkable city](https://drawdown.org/solutions/walkable-cities)? 
 
 In your schools and the organizations you work in, try to support a culture that embraces a holistic development mindset. If there's no ESG group, consider asking "why?" 
 
