@@ -22,7 +22,7 @@ I thought it would be interesting to share projections for what would happen if 
 
 Maxing out your contributions at age 23 is quite the undertaking. You would need to contribute over \\$60,000 of your money each year! But it wouldn’t actually be unrealistic for many straight-out-of-college tech workers who start out with high incomes (\\$135,000+ TC). And of course, you don’t need to max out these accounts. If you have other priorities in your life like family, travel, or socializing, don’t be afraid to spend on them! We don’t have to min-max every aspect of our lives :)
 
-If you do plan on maxing out your retirement accounts, here’s what your annual contributions would look like at age 23, age 50, and age 55.
+If you do plan on maxing out your retirement accounts, here’s what your annual contributions would look like at age 23, age 50, and age 55. All contribution limits use 2022 numbers.
 
 |                                | Age 23   | Age 50   | Age 5    |
 |--------------------------------|---------:|---------:|---------:|
@@ -34,7 +34,7 @@ If you do plan on maxing out your retirement accounts, here’s what your annual
 | *Total Personal Contributions*   | $ 60,650 | $ 68,150 | $ 69,150 |
 | **Total Contributions**            | $ 70,650 | $ 78,150 | $ 79,150 |
 
-For the sake of simplicity, I’ve assumed a maximum employer 401(k) match of around \\$10,000. All contribution limits are used using 2022 numbers.
+For the sake of simplicity, I’ve assumed a maximum employer 401(k) match of around \\$10,000. 
 
 Notable additions here are the 401(k) After-Tax contributions and Traditional IRA contributions. Most likely, at the income level where you’re maxing out these accounts, you no longer qualify for regular Roth IRA contributions, and thus you would start making use of two backdoors which don’t have income limits. The money from these backdoors would then end up in your Roth IRA.
 - **Backdoor Roth IRA:** A non-deductible Traditional IRA to a Roth IRA conversion, which puts you in the same position as if you had been able to contribute to the Roth directly. 
