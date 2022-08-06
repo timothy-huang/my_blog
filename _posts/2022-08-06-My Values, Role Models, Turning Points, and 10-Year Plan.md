@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Values, Role Models, Skills, Turning Points, and 10-Year Plan"
+title:  "My Values, Role Models, Turning Points, and 10-Year Plan"
 date:  2022-08-06
 categories: philosophy happiness values 
 permalink: /posts/values-role-models-skills-and-more
