@@ -7,11 +7,9 @@ permalink: /posts/adding-email-subscription-form-jekyll-netlify
 author: "Tim"
 ---
 
-Are you looking for an easy way to add that little box for people to subscribe to your newsletter on your Jekyll website? It shouldn't be that hard to collect some emails right?
+Are you looking for an easy way to add that little box for people to subscribe to your newsletter on your Jekyll website? 
 
 Well, it turns out it's a bit harder than expected. A few plug-in services like Mailchimp allow you to embed a subscription box into your website, but that branded watermark really kills the vibe. 
-
-If you search up "How to add a subscription form Jekyll" you might stumble on a few articles that tell you to sign up for XYZ app.
 
 Luckily, if you deployed your website using Netlify, there's an easy way to collect form responses that will show up directly in your Netlify account without having to connect to some shady 3rd-party API.
 
