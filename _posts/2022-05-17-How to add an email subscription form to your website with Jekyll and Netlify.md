@@ -17,7 +17,7 @@ Luckily, if you deployed your website using Netlify, there's an easy way to coll
 
 I know a lot of people like to use Github pages for their Jekyll websites, but I personally find Netlify to be easier to set up and updates are deployed more quickly. 
 
-Sign up for a Netlify account [here](https://www.netlify.com/) (I know, I know, I just complained about signing up for new accounts). Once you're in the dashboard, go to the Sites section to add a new site. You should be able to connect to the Github repo where you stored your website code, and Netlify will automatically re-deploy your website when you push to Github.  
+Sign up for a Netlify account [here](https://www.netlify.com/). Once you're in the dashboard, go to the Sites section to add a new site. You should be able to connect to the Github repo where you stored your website code, and Netlify will automatically re-deploy your website when you push to Github.  
 
 # Step 1: Add an html form to your website
 
