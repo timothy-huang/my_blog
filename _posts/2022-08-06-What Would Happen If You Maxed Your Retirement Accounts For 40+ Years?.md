@@ -24,7 +24,7 @@ Maxing out your contributions at age 23 is quite the undertaking. You would need
 
 If you do plan on maxing out your retirement accounts, here’s what your annual contributions would look like at age 23, age 50, and age 55. All contribution limits use 2022 numbers.
 
-|                                | Age 23   | Age 50   | Age 5    |
+|                                | Age 23   | Age 50   | Age 65    |
 |--------------------------------|---------:|---------:|---------:|
 | 401(k) Pre-Tax Contributions     | $ 20,500 | $ 27,000 | $ 27,000 |
 | 401(k) Employer Contributions    | $ 10,000 | $ 10,000 | $ 10,000 |
