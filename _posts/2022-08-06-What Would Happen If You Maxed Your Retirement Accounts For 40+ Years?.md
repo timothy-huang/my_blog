@@ -34,12 +34,11 @@ If you do plan on maxing out your retirement accounts, here’s what your annual
 | *Total Personal Contributions*   | $ 60,650 | $ 68,150 | $ 69,150 |
 | **Total Contributions**            | $ 70,650 | $ 78,150 | $ 79,150 |
 
-For the sake of simplicity, I’ve assumed a maximum employer 401(k) match of around \\$10,000. 
+For the sake of simplicity, I’ve assumed a maximum employer 401(k) match of around \\$10,000. All contribution limits are used using 2022 numbers.
 
 Notable additions here are the 401(k) After-Tax contributions and Traditional IRA contributions. Most likely, at the income level where you’re maxing out these accounts, you no longer qualify for regular Roth IRA contributions, and thus you would start making use of two backdoors which don’t have income limits. The money from these backdoors would then end up in your Roth IRA.
 - **Backdoor Roth IRA:** A non-deductible Traditional IRA to a Roth IRA conversion, which puts you in the same position as if you had been able to contribute to the Roth directly. 
 - **Mega-Backdoor Roth IRA:** Only available to you if your employer allows it. If they do, then you can roll over After-Tax 401(k) contributions up to a Roth IRA. Your total 401(k) contributions, including after-tax and employer contributions, cannot exceed \\$61,000 before age 50, and \\$67,500 after age 50.  
-
 
 At age 50, your Pre-Tax 401(k) contribution limit will increase from \\$20,500 to \\$27,000, and your Traditional IRA contribution limit will increase from \\$6,000 to \\$7,000. At age 55, you’ll be able to increase your HSA contributions from \\$3,650 to \\$4,650.
 
