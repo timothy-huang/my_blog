@@ -56,9 +56,9 @@ At age 23, you only have your contributions, and your accounts total at \\$70,65
 
 At age 40, you’ve been contributing for 18 years, and you’ve reaped the benefits of both regular contributions and compound interest, and your accounts would total \\$2,645,859. That’s enough for most people to comfortably retire on.
 
-At age 60, you’ve been contributing for 38 years, and you can start withdrawing from 401(k) and Roth IRAs without penalty (but of course you don’t, for some reason). Your accounts total \\$15,697,499. I’ll say it, you’re rich.
+At age 60, you’ve been contributing for 38 years, and you can start withdrawing from your 401(k) and Roth IRA without penalty (but of course you don’t, for some reason). Your accounts total \\$15,697,499. I’ll say it, you’re rich.
 
-At age 65, you’ve been contributing for 43 years, and you can start withdrawing from your HSA account as if it were a traditional IRA. You would be missing out on some of the tax-advantages of the HSA, so it’s not recommended, but it’s still good to have as an option. Your accounts total \\$23,529,117. You probably have enough money to sustain generations of your family now. 
+At age 65, you’ve been contributing for 43 years, and you can start withdrawing from your HSA as if it were a traditional IRA. You would be missing out on some of the tax-advantages of the HSA, so it’s not recommended, but it’s still good to have as an option. Your accounts total \\$23,529,117. You probably have enough money to sustain generations of your family now. 
 
 Here’s a graph of how your wealth would grow over time. Note that the compound interest really starts picking up in your 30s. 
 
