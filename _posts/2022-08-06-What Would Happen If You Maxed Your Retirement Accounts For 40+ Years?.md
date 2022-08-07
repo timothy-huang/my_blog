@@ -97,6 +97,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 
 ---
 
+
 # Maxing Roth IRA and 401(k)
 
 **Annual Contributions**
@@ -117,6 +118,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 | Total     |  $ 36,500.00  |  $ 1,366,933.90  |  $ 8,166,373.16  |  $ 12,257,211.82  |
 
 ---
+
 
 # Maxing Roth IRA, 401(k), and HSA
 
