@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Working in tech but have constant existential crises? Same.
+Working in tech and have constant existential crises? Same.
 
-I write about building new products, with a sprinkle of philosophy, relationships, and other random topics on the curiosities of life.
+I write about building new products, with a sprinkle of philosophy, personal finance, and other random topics on the curiosities of life.
 
 ---
 
