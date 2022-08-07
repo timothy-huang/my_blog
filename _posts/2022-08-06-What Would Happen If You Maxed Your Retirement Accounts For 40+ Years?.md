@@ -96,7 +96,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 | Roth IRA  |  $ 6,000.00  |  $ 224,701.46  |  $ 1,338,541.16  |  $ 2,007,822.31  |
 
 ---
-
+<br>
 
 # Maxing Roth IRA and 401(k)
 
@@ -118,7 +118,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 | Total     |  $ 36,500.00  |  $ 1,366,933.90  |  $ 8,166,373.16  |  $ 12,257,211.82  |
 
 ---
-
+<br>
 
 # Maxing Roth IRA, 401(k), and HSA
 
