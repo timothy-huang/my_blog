@@ -93,7 +93,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 
 |           |       Age 23 |         Age 40 |           Age 60 |           Age 65 |
 |-----------|-------------:|---------------:|-----------------:|-----------------:|
-| Roth IRA  |  $ 6,000.00  |  $ 224,701.46  |  $ 1,338,541.16  |  $ 2,007,822.31  |
+| Roth IRA  |  $ 6,000  |  $ 224,701  |  $ 1,338,541  |  $ 2,007,822  |
 
 ---
 <br>
@@ -104,18 +104,18 @@ And as promised, here are some resources I recommend on retirement accounts:
 
 |                             |        Age 23 |        Age 50 |
 |-----------------------------|--------------:|--------------:|
-| 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |
-| 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |
-| Tradtional / Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |
-| Total                       |  $ 36,500.00  |  $ 44,000.00  |
+| 401k Pre-Tax Contribuitions |  $ 20,500  |  $ 27,000  |
+| 401k Employer Contributions |  $ 10,000  |  $ 10,000  |
+| Tradtional / Roth IRA Contributions      |   $ 6,000  |   $ 7,000  |
+| Total                       |  $ 36,500  |  $ 44,000  |
 
 **Account(s) over time**
 
 | Age       |            23 |               40 |               60 |                65 |
 |-----------|--------------:|-----------------:|-----------------:|------------------:|
-| 401k      |  $ 30,500.00  |  $ 1,142,232.43  |  $ 6,827,832.00  |  $ 10,249,389.50  |
-| Roth IRA  |   $ 6,000.00  |    $ 224,701.46  |  $ 1,338,541.16  |   $ 2,007,822.31  |
-| Total     |  $ 36,500.00  |  $ 1,366,933.90  |  $ 8,166,373.16  |  $ 12,257,211.82  |
+| 401k      |  $ 30,500  |  $ 1,142,232  |  $ 6,827,832  |  $ 10,249,390 |
+| Roth IRA  |   $ 6,000  |    $ 224,701  |  $ 1,338,541  |   $ 2,007,822  |
+| Total     |  $ 36,500  |  $ 1,366,934  |  $ 8,166,373  |  $ 12,257,212  |
 
 ---
 <br>
@@ -126,11 +126,11 @@ And as promised, here are some resources I recommend on retirement accounts:
 
 |                             |        Age 23 |        Age 50 |        Age 55 |
 |-----------------------------|--------------:|--------------:|--------------:|
-| 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |  $ 27,000.00  |
-| 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |  $ 10,000.00  |
-| Tradtional / Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |   $ 7,000.00  |
-| HSA Contributions           |   $ 3,650.00  |   $ 3,650.00  |   $ 4,650.00  |
-| Total                       |  $ 40,150.00  |  $ 47,650.00  |  $ 48,650.00  |
+| 401k Pre-Tax Contribuitions |  $ 20,500  |  $ 27,000  |  $ 27,000  |
+| 401k Employer Contributions |  $ 10,000  |  $ 10,000  |  $ 10,000  |
+| Tradtional / Roth IRA Contributions      |   $ 6,000  |   $ 7,000  |   $ 7,000  |
+| HSA Contributions           |   $ 3,650  |   $ 3,650  |   $ 4,650  |
+| Total                       |  $ 40,150  |  $ 47,650  |  $ 48,650  |
 
 **Account(s) over time**
 
