@@ -18,7 +18,7 @@ In the US, some of the most common IRAs are:
 
 The HSA is technically not an IRA. It stands for Health Savings Account, and it’s meant to be used to help people supplement health expenses in conjunction with a high-deductible health insurance plan. But the HSA may very well be the best retirement account of them all, [as explained by the Mad FIentist](https://www.madfientist.com/ultimate-retirement-account/). I won’t go into the details of the benefits of pre-tax vs after-tax IRAs (or both, in the case of HSAs), as that’s easily found on the internet, but I’ve included some sources at the end of this post.
 
-I thought it would be interesting to share projections for what would happen if you maxed your retirement accounts for 40+ years. I chose age 23 as a starting point for contributions, because that’s how old I would be when I start maxing out my accounts, and it’s also approximately when most people get their first job out of college.
+I thought it would be interesting to share projections for what would happen if you maxed your retirement accounts for 40+ years. I chose age 23 as a starting point for contributions, because approximately when most people get their first job out of college.
 
 Maxing out your contributions at age 23 is quite the undertaking. You would need to contribute over \\$60,000 of your money each year! But it wouldn’t actually be unrealistic for many straight-out-of-college tech workers who start out with high incomes (\\$135,000+ TC). And of course, you don’t need to max out these accounts. If you have other priorities in your life like family, travel, or socializing, don’t be afraid to spend on them! We don’t have to min-max every aspect of our lives :)
 
