@@ -103,7 +103,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 |-----------------------------|--------------:|--------------:|
 | 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |
 | 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |
-| Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |
+| Tradtional / Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |
 | Total                       |  $ 36,500.00  |  $ 44,000.00  |
 
 **Account(s) over time**
@@ -122,7 +122,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 |-----------------------------|--------------:|--------------:|--------------:|
 | 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |  $ 27,000.00  |
 | 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |  $ 10,000.00  |
-| Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |   $ 7,000.00  |
+| Tradtional / Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |   $ 7,000.00  |
 | HSA Contributions           |   $ 3,650.00  |   $ 3,650.00  |   $ 4,650.00  |
 | Total                       |  $ 40,150.00  |  $ 47,650.00  |  $ 48,650.00  |
 
