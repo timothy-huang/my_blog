@@ -85,7 +85,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 
 **Annual Contributions**
 
-|                        |    Age 23 | Age 55 |
+|                        |    Age 23 | Age 50 |
 |------------------------|----------:|-------:|
 | Roth IRA Contributions |  $ 6,000  | $7,000 |
 
@@ -99,7 +99,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 
 **Annual Contributions**
 
-|                             |        Age 23 |        Age 60 |
+|                             |        Age 23 |        Age 50 |
 |-----------------------------|--------------:|--------------:|
 | 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |
 | 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |
