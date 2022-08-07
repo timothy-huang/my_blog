@@ -55,7 +55,7 @@ Now, let’s see what these accounts would look like at a few distinctive points
 | 401(k)     | $ 30,500 | $ 1,142,232 |  $ 6,827,832 | $ 10,249,390 |
 | Roth IRA | $ 36,500 | $ 1,366,934 |  $ 8,058,177 | $ 12,060,104 |
 | HSA      |  $ 3,650 |   $ 136,693 |    $ 811,489 |  $ 1,219,623 |
-| Total    | $ 70,650 | $ 2,645,860 | $ 15,697,499 | $ 23,529,117 |
+| **Total**    | $ 70,650 | $ 2,645,860 | $ 15,697,499 | $ 23,529,117 |
 
 At age 23, you only have your contributions, and your accounts total at \\$70,650. To be honest, that’s a pretty incredible amount of savings for only one year. But you haven’t begun harvesting the benefits of compound interest yet.
 
@@ -88,12 +88,14 @@ And as promised, here are some resources I recommend on retirement accounts:
 |                        |    Age 23 | Age 50 |
 |------------------------|----------:|-------:|
 | Roth IRA Contributions |  $ 6,000  | $7,000 |
+| **Total Contributions** |  $ 6,000  | $7,000 |
 
 **Account(s) over time**
 
 |           |       Age 23 |         Age 40 |           Age 60 |           Age 65 |
 |-----------|-------------:|---------------:|-----------------:|-----------------:|
 | Roth IRA  |  $ 6,000  |  $ 224,701  |  $ 1,338,541  |  $ 2,007,822  |
+| **Total**  |  $ 6,000  |  $ 224,701  |  $ 1,338,541  |  $ 2,007,822  |
 
 ---
 <br>
@@ -107,7 +109,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 | 401(k) Pre-Tax Contribuitions |  $ 20,500  |  $ 27,000  |
 | 401(k) Employer Contributions |  $ 10,000  |  $ 10,000  |
 | Tradtional / Roth IRA Contributions      |   $ 6,000  |   $ 7,000  |
-| Total                       |  $ 36,500  |  $ 44,000  |
+| **Total Contributions**                   |  $ 36,500  |  $ 44,000  |
 
 **Account(s) over time**
 
@@ -115,7 +117,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 |-----------|--------------:|-----------------:|-----------------:|------------------:|
 | 401(k)      |  $ 30,500  |  $ 1,142,232  |  $ 6,827,832  |  $ 10,249,390 |
 | Roth IRA  |   $ 6,000  |    $ 224,701  |  $ 1,338,541  |   $ 2,007,822  |
-| Total     |  $ 36,500  |  $ 1,366,934  |  $ 8,166,373  |  $ 12,257,212  |
+| **Total**     |  $ 36,500  |  $ 1,366,934  |  $ 8,166,373  |  $ 12,257,212  |
 
 ---
 <br>
@@ -130,7 +132,7 @@ And as promised, here are some resources I recommend on retirement accounts:
 | 401(k) Employer Contributions |  $ 10,000  |  $ 10,000  |  $ 10,000  |
 | Tradtional / Roth IRA Contributions      |   $ 6,000  |   $ 7,000  |   $ 7,000  |
 | HSA Contributions           |   $ 3,650  |   $ 3,650  |   $ 4,650  |
-| Total                       |  $ 40,150  |  $ 47,650  |  $ 48,650  |
+| **Total Contributions**                    |  $ 40,150  |  $ 47,650  |  $ 48,650  |
 
 **Account(s) over time**
 
@@ -139,4 +141,4 @@ And as promised, here are some resources I recommend on retirement accounts:
 | 401(k)      |  $ 30,500  |  $ 1,142,232  |  $ 6,827,832  |  $ 10,249,390  |
 | Roth IRA  |   $ 6,000  |    $ 224,701  |  $ 1,338,541  |   $ 2,007,822  |
 | HSA       |   $ 3,650  |    $ 136,693  |    $ 811,489  |   $ 1,219,623  |
-| Total     |  $ 40,150  |  $ 1,503,627  |  $ 8,977,862  |  $ 13,476,835  |
+| **Total**     |  $ 40,150  |  $ 1,503,627  |  $ 8,977,862  |  $ 13,476,835  |
