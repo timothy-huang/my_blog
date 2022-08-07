@@ -24,6 +24,8 @@ Maxing out your contributions at age 23 is quite the undertaking. You would need
 
 If you do plan on maxing out your retirement accounts, here’s what your annual contributions would look like at age 23, age 50, and age 55. All contribution limits use 2022 numbers.
 
+**Annual Contributions**
+
 |                                | Age 23   | Age 50   | Age 65    |
 |--------------------------------|---------:|---------:|---------:|
 | 401(k) Pre-Tax Contributions     | $ 20,500 | $ 27,000 | $ 27,000 |
@@ -38,11 +40,15 @@ For the sake of simplicity, I’ve assumed a maximum employer 401(k) match of ar
 
 Notable additions here are the 401(k) After-Tax contributions and Traditional IRA contributions. Most likely, at the income level where you’re maxing out these accounts, you no longer qualify for regular Roth IRA contributions, and thus you would start making use of two backdoors which don’t have income limits. The money from these backdoors would then end up in your Roth IRA.
 - **Backdoor Roth IRA:** A non-deductible Traditional IRA to a Roth IRA conversion, which puts you in the same position as if you had been able to contribute to the Roth directly. 
-- **Mega-Backdoor Roth IRA:** Only available to you if your employer allows it. If they do, then you can roll over After-Tax 401(k) contributions to a Roth IRA. Your total 401(k) contributions, including after-tax and employer contributions, cannot exceed \\$61,000 before age 50, and \\$67,500 after age 50.  
+- **Mega-Backdoor Roth IRA:** Only available to you if your employer allows it. If they do, then you can roll over After-Tax 401(k) contributions to a Roth IRA. Your total 401(k) contributions, including after-tax and employer contributions, cannot exceed \\$61,000 before age 50, and \\$67,500 after age 50. 
+
+For people without the Mega-Backdoor or HSA options, see the appendix.
 
 At age 50, your Pre-Tax 401(k) contribution limit will increase from \\$20,500 to \\$27,000, and your Traditional IRA contribution limit will increase from \\$6,000 to \\$7,000. At age 55, you’ll be able to increase your HSA contributions from \\$3,650 to \\$4,650.
 
 Now, let’s see what these accounts would look like at a few distinctive points throughout your life, assuming 8% real returns.
+
+**Account(s) over time**
 
 |          |   Age 23 |      Age 40 |       Age 60 |       Age 65 |
 |----------|---------:|------------:|-------------:|-------------:|
@@ -73,3 +79,58 @@ And as promised, here are some resources I recommend on retirement accounts:
 - [HSA - The Ultimate Retirement Account in 2022](https://www.madfientist.com/ultimate-retirement-account/) by the Mad FIentist
 - [Fire Flow Chart Version 4.2](https://www.reddit.com/r/financialindependence/comments/ecn2hk/fire_flow_chart_version_42/) by /u/happyasianpanda (how should you prioritize your contributions?)
 
+## Appendix
+
+# Maxing Roth IRA
+
+**Annual Contributions**
+
+|                        |    Age 23 | Age 55 |
+|------------------------|----------:|-------:|
+| Roth IRA Contributions |  $ 6,000  | $7,000 |
+
+**Account(s) over time**
+
+|           |       Age 23 |         Age 40 |           Age 60 |           Age 65 |
+|-----------|-------------:|---------------:|-----------------:|-----------------:|
+| Roth IRA  |  $ 6,000.00  |  $ 224,701.46  |  $ 1,338,541.16  |  $ 2,007,822.31  |
+
+# Maxing Roth IRA and 401(k)
+
+**Annual Contributions**
+
+|                             |        Age 23 |        Age 60 |
+|-----------------------------|--------------:|--------------:|
+| 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |
+| 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |
+| Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |
+| Total                       |  $ 36,500.00  |  $ 44,000.00  |
+
+**Account(s) over time**
+
+| Age       |            23 |               40 |               60 |                65 |
+|-----------|--------------:|-----------------:|-----------------:|------------------:|
+| 401k      |  $ 30,500.00  |  $ 1,142,232.43  |  $ 6,827,832.00  |  $ 10,249,389.50  |
+| Roth IRA  |   $ 6,000.00  |    $ 224,701.46  |  $ 1,338,541.16  |   $ 2,007,822.31  |
+| Total     |  $ 36,500.00  |  $ 1,366,933.90  |  $ 8,166,373.16  |  $ 12,257,211.82  |
+
+# Maxing Roth IRA, 401(k), and HSA
+
+**Annual Contributions**
+
+|                             |        Age 23 |        Age 50 |        Age 55 |
+|-----------------------------|--------------:|--------------:|--------------:|
+| 401k Pre-Tax Contribuitions |  $ 20,500.00  |  $ 27,000.00  |  $ 27,000.00  |
+| 401k Employer Contributions |  $ 10,000.00  |  $ 10,000.00  |  $ 10,000.00  |
+| Roth IRA Contributions      |   $ 6,000.00  |   $ 7,000.00  |   $ 7,000.00  |
+| HSA Contributions           |   $ 3,650.00  |   $ 3,650.00  |   $ 4,650.00  |
+| Total                       |  $ 40,150.00  |  $ 47,650.00  |  $ 48,650.00  |
+
+**Account(s) over time**
+
+|           |     Age 23 |        Age 40 |        Age 60 |         Age 65 |
+|-----------|-----------:|--------------:|--------------:|---------------:|
+| 401k      |  $ 30,500  |  $ 1,142,232  |  $ 6,827,832  |  $ 10,249,390  |
+| Roth IRA  |   $ 6,000  |    $ 224,701  |  $ 1,338,541  |   $ 2,007,822  |
+| HSA       |   $ 3,650  |    $ 136,693  |    $ 811,489  |   $ 1,219,623  |
+| Total     |  $ 40,150  |  $ 1,503,627  |  $ 8,977,862  |  $ 13,476,835  |
