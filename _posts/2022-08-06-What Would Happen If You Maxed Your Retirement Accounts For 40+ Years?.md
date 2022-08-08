@@ -26,7 +26,7 @@ If you do plan on maxing out your retirement accounts, here’s what your annual
 
 **Annual Contributions**
 
-|                                | Age 23   | Age 50   | Age 65    |
+|                                | Age 23   | Age 50   | Age 55    |
 |--------------------------------|---------:|---------:|---------:|
 | 401(k) Pre-Tax Contributions     | $ 20,500 | $ 27,000 | $ 27,000 |
 | 401(k) Employer Contributions    | $ 10,000 | $ 10,000 | $ 10,000 |
