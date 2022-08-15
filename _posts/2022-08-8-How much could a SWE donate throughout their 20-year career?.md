@@ -23,7 +23,7 @@ Earning-to-give is a strategy motivated by the fact that incomes in developed co
 
 Working in tech myself, I wanted to see what kind of impact a tech worker could make if they focused only on earning-to-give over a 20-year career.
 
-For this model, I'm using salary data from levels.fyi for a hypothetical SWE working at a top tech company (eg FB, Microsoft, Google).
+For this model, I'm using salary data from levels.fyi for a hypothetical SWE working at a top tech company (eg FB, Microsoft, Google). I chose to use SWE data because PM salaries roughly track SWE salaries, but there's far fewer data points available online on PM salaries.
 
 First, I wanted to get a sense of what the salary progression for such an individual would look like. 
 
@@ -63,15 +63,15 @@ Here's a visualization of income / donations over time:
 
 At the end of their career, the SWE would end up donating \\$372k, or about 6.5% of their $5.7m in career gross earnings.
 
-This also doesn't factor in that many top companies offer donation match programs (\\$5k-\\$10k per year), which would add on another \\$100-200k if one happens to work at those companies.
+This also doesn't factor in that many top companies offer donation match programs (\\$5k-\\$10k per year), which would add on another \\$100-200k if you happen to work at one of those companies.
 
 A SWE donating based on numbers given by The Life You can Save Pledge would contribute \\$300-500k+ over the course of their career. If they donate to the most effective charities, they could save 60-100 lives. 
 
-Of course, we all have our obligations and commitments to ourselves, our families, our communites, etc.
+Of course, we all have our obligations and commitments to ourselves, our families, our communites, etc. 
 
-So if you're in the fortunate position of being a very high income earner, I'm not saying to take this idea to the extreme and donate all your money away. 
+I'm not saying to take this idea to the extreme and donate all your money away. 
 
-But if you're in the very fortunate position where you look at your finances and feel that you have enough to be comfortable, happy, and healthy, I encourage you to explore EA and consider whether or not earning-to-give is a strategy you would be interested in as well.
+But if you're in the very fortunate position where you look at your finances and feel that you have more than enough to be comfortable, happy, and healthy, I encourage you to explore EA and consider whether or not earning-to-give is a strategy you would be interested in as well.
 
 Here are some relevant links again, for convenience:
 - [Intro to Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism)
