@@ -6,21 +6,14 @@
     <description>Recent content in Posts on Tim Huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:37:07 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 15:30:48 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第二のポースト</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:37:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;日本語大丈夫？&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>New Website Again</title>
+      <link>http://localhost:1313/posts/new-website-again/</link>
+      <pubDate>Fri, 26 Sep 2025 15:30:48 +0900</pubDate>
+      <guid>http://localhost:1313/posts/new-website-again/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s Tim, again.&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I&amp;rsquo;ve built many personal websites. I&amp;rsquo;ve tried so many different tools - from pure HTML/CSS static sites deployed on Github Pages, to heavy duty CMS&amp;rsquo;s like Wordpress, to Jekyll, back to Wordpress, and now &amp;ndash; I&amp;rsquo;m using Hugo.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided that for my needs (writing quick blog posts, on the fly), I want to prioritize my website&amp;rsquo;s speed and simplicity. I also want to save some money. So - no more hosting service for now. We&amp;rsquo;re going back to good old static sites, backed up with a nice framework that will help me keep my content organized. And most importantly, fast.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
