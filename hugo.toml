@@ -8,6 +8,10 @@ theme = 'paper'
     [markup.goldmark.renderer]
       unsafe = true
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-J3B99K797L'
+
 [params]
   showSummary = true
 
