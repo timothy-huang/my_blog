@@ -1,4 +1,32 @@
 baseURL = 'https://timhuang.co/'
 languageCode = 'en-us'
 title = 'Tim Huang'
-theme = 'ananke'
+theme = 'paper'
+
+[services]
+  [services.disqus]
+    shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'timhuangg'               # twitter.com/timhuangg
+  github = 'timothy-huang'                 # github.com/timothy-huang
+  linkedin = 'timhuangg'             # linkedin.com/in/timhuangg
+
+  # home page profile
+  name = 'Tim Huang'
+  bio = 'Writing, building, and learning. Left big tech to learn more about life.'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = false              # disable post navigation
+  monoDarkIcon = false                       # show monochrome dark mode icon
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = false                        # use local KaTeX js/css instead of CDN
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
