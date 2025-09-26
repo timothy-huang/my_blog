@@ -11,16 +11,16 @@ I spent 3 days in Raleigh, 3 days in Boone (for the MEAT 🍖 conference), 0.5 d
 
 Charlotte → Raleigh → Boone → Greensboro → Charlotte
 
-# ⛰️ Discovering North Carolina
-## 1. North Carolina is green!!!
+## ⛰️ Discovering North Carolina
+### 1. North Carolina is green!!!
 Apparently North Carolina’s climate is considered sub-tropical, and even in the cities it was dense with trees and insects (so many beetles). To me, the weather felt similar to Hawaii - it was warm and humid, with occasional random showers in the middle of the day.
 
-## 2. Everyone I met was really nice.
+### 2. Everyone I met was really nice.
 People would smile at us, strike up friendly conversations, or give us a warm introduction to wherever we were visiting.
 
 I didn’t expect to be able to connect with people so easily in North Carolina. I’ve found that on the West Coast, while people are polite, they generally mind their own business and don’t feel as “approachable”. Up until now, I didn’t really get the comments on Reddit about how Americans are known for being super friendly, but everyone I met in North Carolina was super easy to talk to and felt like they genuinely wanted to chat with you, rather than just being polite.
 
-## 3. Food is cheap, brown, and LARGE
+### 3. Food is cheap, brown, and LARGE
 Maybe the biggest culture shock I had was the food in North Carolina. North Carolinians love their fried food, biscuits, and meat. Not to mention, sweet tea was everywhere, and it honestly tastes more like sugar than tea.
 
 Looking around at the food options, it was clear that the food that was most accessible was also not the healthiest. At restaurants, Christine and I could place a single order for the two of us and usually have leftovers. At barbecue or diner spots, it also seemed to be standard practice to get a complimentary appetizer of hush puppies aka fried cornbread.
@@ -31,24 +31,24 @@ In an effort to balance out our diet a bit, Christine and I got groceries to rem
 
 **Pro tip:** Instant rice in a bag has the perfect texture for fried rice
 
-## 4. There’s also a vibrant local farm-to-table scene
+### 4. There’s also a vibrant local farm-to-table scene
 Christine and I got to visit the State Farmer’s Market in Raleigh, and it was pretty epic. Berries, peaches, and peppers were in season, and every stall was overflowing with color (unlike our restaurant meals).
 
 I later learned from one of the staff at the Center for Environmental and Farming Systems (CESF) at North Carolina State University that North Carolina’s legacy of having small, highly profitable tobacco farms meant that after the state transitioned away from tobacco, there were still many farmers who had small plots of land as opposed to consolidated mega-farms.
 
 Hearing the CEFS staff talk about food justice/equity, conservation, and providing economic opportunities really reminded of the conversations I was having in my food systems class at UC Berkeley. I guess even though we’re across the country in two very different states, people aren’t so different after all.
 
-## 5. North Carolina seems kind of… liberal?
+### 5. North Carolina seems kind of… liberal?
 Or at least a lot more liberal than I expected. I had assumed pretty much any state in the South was a red state (except Georgia), but I later learned that North Carolina is considered a purple state, and currently has a Democratic governor (Roy Cooper).
 
 While North Carolina isn’t considered one of the swing states for the 2024 election, I could certainly see evidence of progressiveness / social liberalism (lots of inclusive messaging + support for the LGBTQ+ community). It probably helped that I was mostly in cities and college campuses, but on our road trip from Raleigh to Boone we passed through some smaller towns, and I was surprised that the MAGA vibes seem to be stronger in rural California/Oregon compared to the places we passed through.
 
-## 6. Bonus: Infrastructure and public spaces
+### 6. Bonus: Infrastructure and public spaces
 Unlike the I-680 near San Jose, North Carolina’s roads were all in fairly good condition, even out in Boone. The streets were also generally very clean. For public transportation, Charlotte in particular seemed to have a functional light rail with some buses stretching across the city, but I would say none of the places we visited were all that walkable.
 
 We were pleasantly surprised that in Raleigh, all the major museums were free! We only went to the science museum due to time, and even just the science museum had probably enough to see for an entire day. We got to visit the DinoLab, where I saw actual T-rex and Triceratops fossils for the first time (not just replicas!).
 
-# 🍖 Volunteering at a MEAT conference
+## 🍖 Volunteering at a MEAT conference
 Going to a meat conference wasn’t really on my radar for 2024, but when Christine signed up to volunteer for the Carolina Meat Conference, she asked the organizer if I could tag along. They said yes!
 
 It felt a bit strange to be the only person at the conference not closely tied to agriculture/food systems. It seemed like most people at the conference were either farmers or worked at University extensions that supported the agricultural industry. I did my best to appear relevant by saying I build marketing software for small businesses, since there were lots of small businesses there.
@@ -74,7 +74,7 @@ A lot of these principles seem like common sense, but it’s clear that Dr. Gran
 
 Overall, I had a great time at the conference. It was fascinating to enter a world so different from my own, and I felt inspired after learning about the different problems this industry is focused on solving. I saw a ton of opportunities for how technology, data, and new operational practices could address these problems, some of which are standard practice in the tech industry. I feel optimistic that I can take some of the stuff I’m learning now at a big tech company and apply them in new ways to make a more meaningful impact on society in the future.
 
-# ❤️ My favorite things this week
+## ❤️ My favorite things this week
 1. **Crying in H-Mart** - I finally read this book after hearing about it from friends and acquaintances over the years. It’s a beautifully written memoir, with the author describing her experience taking care of her mother undergoing cancer treatment, tying her story together with eloquent descriptions of food. Although I’m not Korean, the author touched on several themes including her Asian-American identity, her relationship with her family, and her relationship with food that resonated with my own experiences. Also, it’s kind of cool to see the legend Maangchi being mentioned in a book 🙂 
 
 That’s all for this week - see you in the next one!

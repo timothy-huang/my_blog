@@ -28,11 +28,11 @@ Once I made it into the US departures wing of the Vancouver airport, I invited C
 
 It’s been 2 days since we’ve been in North Carolina, and it’s been interesting so far! Stick around for next week’s newsletter to get my overall impressions.
 
-# WestJet Elevation Lounge Review
+## WestJet Elevation Lounge Review
 
 When I got into the Elevation lounge, I immediately looked up the food options. At each table, there was a QR code you could scan to pull up an online menu to order food and drinks. The website limited how many items you could order at once, but there was no restriction on how many times you could order, so it’s essentially all you can eat / drink.
 
-*Everything I ordered*:
+**Everything I ordered**:
 
 1. Fish taco - 👎️ extremely meh, all the Mexican food I’ve tried in Canada has been exceedingly mediocre so I wasn’t surprised
 2. Potato gnocchi - 👍️ pretty good, the gnocchi had a nice chewy texture
@@ -49,7 +49,7 @@ When I got into the Elevation lounge, I immediately looked up the food options. 
 - **Environment:** 9/10
 - **Overall:** 8/10
 
-# 💰️ Personal finance tip of the week
+## 💰️ Personal finance tip of the week
 If you’re a frequent flyer and you’re responsible with credit, you should look into getting a good travel credit card. Travel credit cards come with a ton of perks, and if you choose wisely you can easily come out ahead even if you have to pay an annual fee.
 
 When evaluating which card you should get, the main factors you’ll want to consider are:
@@ -111,7 +111,7 @@ Here are the ones I looked for when getting my new card:
 
 Some cards have other benefits like delivery app credit/subscriptions and online shopping credit, but since I don’t use those too often I don’t factor them into my decision.
 
-# ❤️ My favorite things this week
+## ❤️ My favorite things this week
 1. **Temple Grandin (the movie)** - Temple Grandin is one of the keynote speakers at the Carolina meat conference, so I decided to watch her movie. She’s a world-renowned animal welfare scientist who’s also known for being autistic. The movie follows her life from high school through her PhD, and according to some folks who have met her the movie is fairly accurate at portraying her real-life personality. If you don’t have time to watch the full 1.5 hour movie, she has a TED talk where she explains how her ability to “think in pictures” allows her to solve problems differently.
 
 2. **The Midnight Library (book)** - I overheard some friends talking about this book while volunteering at a community garden in SF. The book starts in a pretty dark place, with the main character Nora attempting to commit suicide. When she makes her attempt, she ends up in a library where she’s given the chance to live alternate versions of her life where she never made the decisions that she now regrets. Reading this book put me in a reflective mood, given that I’m in a bit of a quarter-life crisis right now and not sure what I want to do with the rest of my life.
