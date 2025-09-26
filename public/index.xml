@@ -2,18 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim Huang</title>
-    <link>http://localhost:1313/</link>
+    <link>https://timhuang.co/</link>
     <description>Recent content on Tim Huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Sep 2025 15:30:48 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timhuang.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Website Again</title>
-      <link>http://localhost:1313/posts/new-website-again/</link>
+      <title>Building a new website (again)</title>
+      <link>https://timhuang.co/posts/new-website-again/</link>
       <pubDate>Fri, 26 Sep 2025 15:30:48 +0900</pubDate>
-      <guid>http://localhost:1313/posts/new-website-again/</guid>
+      <guid>https://timhuang.co/posts/new-website-again/</guid>
       <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s Tim, again.&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I&amp;rsquo;ve built many personal websites. I&amp;rsquo;ve tried so many different tools - from pure HTML/CSS static sites deployed on Github Pages, to heavy duty CMS&amp;rsquo;s like Wordpress, to Jekyll, back to Wordpress, and now &amp;ndash; I&amp;rsquo;m using Hugo.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided that for my needs (writing quick blog posts, on the fly), I want to prioritize my website&amp;rsquo;s speed and simplicity. I also want to save some money. So - no more hosting service for now. We&amp;rsquo;re going back to good old static sites, backed up with a nice framework that will help me keep my content organized. And most importantly, fast.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travel Journal #2 - Discovering North Carolina and Attending a Meat Conference</title>
+      <link>https://timhuang.co/posts/travel-journal-2/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://timhuang.co/posts/travel-journal-2/</guid>
+      <description>&lt;p&gt;Last week, I got the chance to travel all throughout North Carolina.&lt;/p&gt;&#xA;&lt;p&gt;I spent 3 days in Raleigh, 3 days in Boone (for the MEAT 🍖 conference), 0.5 day in Greensboro, and 3 days in Charlotte.&lt;/p&gt;&#xA;&lt;p&gt;Charlotte → Raleigh → Boone → Greensboro → Charlotte&lt;/p&gt;&#xA;&lt;h1 id=&#34;-discovering-north-carolina&#34;&gt;⛰️ Discovering North Carolina&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-north-carolina-is-green&#34;&gt;1. North Carolina is green!!!&lt;/h2&gt;&#xA;&lt;p&gt;Apparently North Carolina’s climate is considered sub-tropical, and even in the cities it was dense with trees and insects (so many beetles). To me, the weather felt similar to Hawaii - it was warm and humid, with occasional random showers in the middle of the day.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travel Journal #1 - The one where I stayed in airports all day</title>
+      <link>https://timhuang.co/posts/travel-journal-1/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://timhuang.co/posts/travel-journal-1/</guid>
+      <description>&lt;p&gt;I had quite a wild travel itinerary this week.&lt;/p&gt;&#xA;&lt;p&gt;I went from Vancouver to San Francisco, San Francisco to Calgary, Calgary to Vancouver, Vancouver to Charlotte, and then Charlotte to Raleigh, hitting a total of 5 different airports in less than 24 hours.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;7/23: YVR → SFO&lt;/li&gt;&#xA;&lt;li&gt;7/25: SFO → YYC&lt;/li&gt;&#xA;&lt;li&gt;7/25: YYC → YVR&lt;/li&gt;&#xA;&lt;li&gt;7/26 - 7/27: YVR → CLT&lt;/li&gt;&#xA;&lt;li&gt;7/27: CLT → RDU&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I originally flew in to Vancouver on 7/20, but due to a family emergency, my trip to Vancouver was cut short and I ended up flying back to Pleasanton for a few days (7/23-7/25).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How I overcame my limiting beliefs</title>
+      <link>https://timhuang.co/posts/how-i-overcame-limiting-beliefs/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://timhuang.co/posts/how-i-overcame-limiting-beliefs/</guid>
+      <description>&lt;p&gt;Hello friends, welcome to my first newsletter post!&lt;/p&gt;&#xA;&lt;p&gt;After procrastinating for years, I’ve decided it’s finally time for me to start a newsletter. Credit to my friend Manan who started his own newsletter recently for inspiring me to get started.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-am-i-doing-this&#34;&gt;Why am I doing this?&lt;/h1&gt;&#xA;&lt;p&gt;I have a couple of goals for this newsletter (in no particular order):&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Start creating instead of consuming and help people at scale.&lt;/strong&gt; For a long time, I’ve been in “learn” mode about topics that interest me. Even though there’s still a ton for me to learn, I’ve hit a point where people have started to ask me questions and ask for help (which I’m more than happy to provide). I’d love to make the information I share during 1:1 conversations more widely available to others, and I figure the easiest way to do so is by writing and posting it to the internet 🙂&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

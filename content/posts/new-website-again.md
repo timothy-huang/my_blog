@@ -1,7 +1,7 @@
 +++
 date = '2025-09-26T15:30:48+09:00'
 draft = false
-title = 'New Website Again'
+title = 'Building a new website (again)'
 +++
 
 ## Hello world! 
