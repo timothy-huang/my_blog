@@ -15,6 +15,6 @@ I've decided that for my needs (writing quick blog posts, on the fly), I want to
 
 For people who aren't interested in that techy mumbo-jumbo, don't worry. I usually write in a pretty conversational tone for normal people :)
 
-You can follow along with what I've been writing over the last year or so by subscribing to my newsletter <a href="https://timhuang.beehiiv.com/" target="_blank">here</a>.
+You can follow along with what I've been writing over the last year by subscribing to my newsletter <a href="https://timhuang.beehiiv.com/" target="_blank">here</a>.
 
 

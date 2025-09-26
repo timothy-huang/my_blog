@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim Huang</title>
-    <link>https://timhuang.co/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tim Huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Sep 2025 15:30:48 +0900</lastBuildDate>
-    <atom:link href="https://timhuang.co/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website Again</title>
-      <link>https://timhuang.co/posts/new-website-again/</link>
+      <link>http://localhost:1313/posts/new-website-again/</link>
       <pubDate>Fri, 26 Sep 2025 15:30:48 +0900</pubDate>
-      <guid>https://timhuang.co/posts/new-website-again/</guid>
+      <guid>http://localhost:1313/posts/new-website-again/</guid>
       <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s Tim, again.&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I&amp;rsquo;ve built many personal websites. I&amp;rsquo;ve tried so many different tools - from pure HTML/CSS static sites deployed on Github Pages, to heavy duty CMS&amp;rsquo;s like Wordpress, to Jekyll, back to Wordpress, and now &amp;ndash; I&amp;rsquo;m using Hugo.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided that for my needs (writing quick blog posts, on the fly), I want to prioritize my website&amp;rsquo;s speed and simplicity. I also want to save some money. So - no more hosting service for now. We&amp;rsquo;re going back to good old static sites, backed up with a nice framework that will help me keep my content organized. And most importantly, fast.&lt;/p&gt;</description>
     </item>
   </channel>
