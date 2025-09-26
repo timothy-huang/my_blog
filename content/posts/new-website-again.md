@@ -1,6 +1,6 @@
 +++
 date = '2025-09-26T15:30:48+09:00'
-draft = true
+draft = false
 title = 'New Website Again'
 +++
 
