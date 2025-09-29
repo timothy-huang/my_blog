@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Tim Huang'
 theme = 'paper'
 
+[menus]
+  [[menus.main]]
+    name = 'Projects'
+    pageref = '/projects'
+    weight = 6
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
