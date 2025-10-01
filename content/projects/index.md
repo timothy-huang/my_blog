@@ -6,7 +6,7 @@ title = "Projects"
 
 [**Newsletter**](https://timhuang.beehiiv.com/) - regular reflections and life updates in your inbox
 
-**Soryun (Nov 2025)** - learn to read in your target language with a lightweight online e-reader integrated with a dictionary and SRS
+**Soryun (Nov 2025)** - learn to read in your target language and acquire new words organically
 
 **Learning Japanese** - somewhere between N4-N3 
 
