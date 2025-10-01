@@ -1,7 +1,7 @@
 +++
 date = '2024-08-05'
 draft = false
-title = 'Travel Journal #2 - Discovering North Carolina and Attending a Meat Conference'
+title = 'Travel Journal #2 - Discovering North Carolina and attending a meat conference'
 +++
 
 Last week, I got the chance to travel all throughout North Carolina.
