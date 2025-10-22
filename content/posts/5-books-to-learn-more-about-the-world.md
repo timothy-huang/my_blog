@@ -4,7 +4,7 @@ draft = false
 title = '5 books to learn more about the world'
 +++
 
-Recently, I've been thinking about how the world has shaped into the way it's become today, and where it's likely to go in the future.
+Recently, I've been thinking about how the world has become the way it is today, and where it's likely to go in the future.
 
 I've done a lot of traveling this past year, and along the way I saw a wide range of countries and cities. Some countries have very noticeable wealth inequality, where you might see million dollar houses and megamalls one neighborhood over from slums. In others, the disparity isn't nearly as extreme or visible, and the general quality of life for the average person seems to be quite high.
 

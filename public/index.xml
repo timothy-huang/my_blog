@@ -2,298 +2,298 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim Huang</title>
-    <link>https://timhuang.co/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tim Huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2025 23:01:53 +0800</lastBuildDate>
-    <atom:link href="https://timhuang.co/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 books to learn more about the world</title>
-      <link>https://timhuang.co/posts/5-books-to-learn-more-about-the-world/</link>
+      <link>http://localhost:1313/posts/5-books-to-learn-more-about-the-world/</link>
       <pubDate>Wed, 22 Oct 2025 23:01:53 +0800</pubDate>
-      <guid>https://timhuang.co/posts/5-books-to-learn-more-about-the-world/</guid>
-      <description>&lt;p&gt;Recently, I&amp;rsquo;ve been thinking about how the world has shaped into the way it&amp;rsquo;s become today, and where it&amp;rsquo;s likely to go in the future.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve done a lot of traveling this past year, and along the way I saw a wide range of countries and cities. Some countries have very noticeable wealth inequality, where you might see million dollar houses and megamalls one neighborhood over from slums. In others, the disparity isn&amp;rsquo;t nearly as extreme or visible, and the general quality of life for the average person seems to be quite high.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/5-books-to-learn-more-about-the-world/</guid>
+      <description>&lt;p&gt;Recently, I&amp;rsquo;ve been thinking about how the world has become the way it is today, and where it&amp;rsquo;s likely to go in the future.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve done a lot of traveling this past year, and along the way I saw a wide range of countries and cities. Some countries have very noticeable wealth inequality, where you might see million dollar houses and megamalls one neighborhood over from slums. In others, the disparity isn&amp;rsquo;t nearly as extreme or visible, and the general quality of life for the average person seems to be quite high.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Life beyond FI/RE</title>
-      <link>https://timhuang.co/posts/life-beyond-fire/</link>
+      <link>http://localhost:1313/posts/life-beyond-fire/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/life-beyond-fire/</guid>
+      <guid>http://localhost:1313/posts/life-beyond-fire/</guid>
       <description>&lt;p&gt;Sunday, 7:16pm - Taipei, Taiwan&lt;/p&gt;&#xA;&lt;p&gt;Hello from Taiwan! 👋&lt;/p&gt;&#xA;&lt;p&gt;Last week I wrapped up my month in Japan and flew back to Taiwan to hang out with family and just chill for a while. For the last two days, I’ve basically been in zombie mode, sleeping for 12+ hours a day.&lt;/p&gt;&#xA;&lt;p&gt;I’ve since revived a bit, and I’m looking forward to feeling like a human again.&lt;/p&gt;&#xA;&lt;p&gt;Today, I wanted to reflect on something that’s been on my mind for the last few months — life beyond FI/RE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a new website (again)</title>
-      <link>https://timhuang.co/posts/new-website-again/</link>
+      <link>http://localhost:1313/posts/new-website-again/</link>
       <pubDate>Fri, 26 Sep 2025 15:30:48 +0900</pubDate>
-      <guid>https://timhuang.co/posts/new-website-again/</guid>
+      <guid>http://localhost:1313/posts/new-website-again/</guid>
       <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s Tim, again.&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I&amp;rsquo;ve built many personal websites. I&amp;rsquo;ve tried so many different tools - from pure HTML/CSS static sites deployed on Github Pages, to heavy duty CMS&amp;rsquo;s like Wordpress, to Jekyll, back to Wordpress, and now &amp;ndash; I&amp;rsquo;m using Hugo.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided that for my needs (writing quick blog posts, on the fly), I want to prioritize my website&amp;rsquo;s speed and simplicity. I also want to save some money. So no more hosting service for now. We&amp;rsquo;re going back to good old static sites, backed up with a nice framework that will help me keep my content organized. And most importantly, fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Life plans update</title>
-      <link>https://timhuang.co/posts/life-plans-update/</link>
+      <link>http://localhost:1313/posts/life-plans-update/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/life-plans-update/</guid>
+      <guid>http://localhost:1313/posts/life-plans-update/</guid>
       <description>&lt;h1 id=&#34;life-plans-update&#34;&gt;Life plans update&lt;/h1&gt;&#xA;&lt;p&gt;Hiking through Japan, the old plan, and the new plan&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Flife-plans-update&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=life-plans-update&amp;amp;_bhlid=9fc48b80f8fac56b003f6cf1fb55764f6ac49177&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Hiking+through+Japan%2C+the+old+plan%2C+and+the+new+plan&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Flife-plans-update&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=life-plans-update&amp;amp;_bhlid=657397454bfc3289b935e747b4b1a5862a002327&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Hiking+through+Japan%2C+the+old+plan%2C+and+the+new+plan+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Flife-plans-update&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=life-plans-update&amp;amp;_bhlid=52ff532a6e645b7ca1d451a7e7bf52a90a5e9c8a&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Flife-plans-update&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=life-plans-update&amp;amp;_bhlid=f6284b4e2dbae83061ba73400150d6daf61a6b44&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sunday, 7:22pm&#xA;Asakusa, Tokyo, Japan&lt;/p&gt;&#xA;&lt;p&gt;Hi there!&lt;/p&gt;&#xA;&lt;p&gt;I’ve been settling into Japan over the last few weeks. A quick recap:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hiroshima&lt;/strong&gt;: Visited the Peace Memorial and Atomic Bomb Dome (and celebrated my birthday—I’m officially 26! 😯)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kiso Valley:&lt;/strong&gt; Hiked through sections of the Nakasendo, an ancient highway that stretched from Kyoto to Tokyo. 🛣️&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thinking about what’s next</title>
-      <link>https://timhuang.co/posts/thinking-about-what-s-next/</link>
+      <link>http://localhost:1313/posts/thinking-about-what-s-next/</link>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/thinking-about-what-s-next/</guid>
+      <guid>http://localhost:1313/posts/thinking-about-what-s-next/</guid>
       <description>&lt;h1 id=&#34;thinking-about-whats-next&#34;&gt;Thinking about what’s next&lt;/h1&gt;&#xA;&lt;p&gt;Raw Mongolian countryside, overnight in a manga cafe, 6 months into my sabbatical&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthinking-about-what-s-next&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=thinking-about-what-s-next&amp;amp;_bhlid=453e72010d5348c4fa59c005c7927e4e0b383420&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Raw+Mongolian+countryside%2C+overnight+in+a+manga+cafe%2C+6+months+into+my+sabbatical&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthinking-about-what-s-next&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=thinking-about-what-s-next&amp;amp;_bhlid=0e7d41ebb0bf4bf73e2390547c27289163f4a92e&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Raw+Mongolian+countryside%2C+overnight+in+a+manga+cafe%2C+6+months+into+my+sabbatical+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthinking-about-what-s-next&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=thinking-about-what-s-next&amp;amp;_bhlid=711e01bb88048e970025e7e32b8060620ddd18b1&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthinking-about-what-s-next&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=thinking-about-what-s-next&amp;amp;_bhlid=6daa835c6380decd178037c620d3b38c6f3e75f2&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sunday, 9:59pm&#xA;Beppu, Japan&lt;/p&gt;&#xA;&lt;p&gt;Hello from the onsen town of Beppu, Japan!&lt;/p&gt;&#xA;&lt;h1 id=&#34;bumping-through-mongolia&#34;&gt;Bumping through Mongolia&lt;/h1&gt;&#xA;&lt;p&gt;Between sending out my last newsletter and landing in Japan, I spent 10 days in Mongolia.&lt;/p&gt;&#xA;&lt;p&gt;In the capital city of Ulaanbaatar, I discovered the traffic is even worse than in Jakarta, but the sidewalks are definitely better than in Hanoi (i.e. they exist, for the most part).&lt;/p&gt;</description>
     </item>
     <item>
       <title>On the road again</title>
-      <link>https://timhuang.co/posts/on-the-road-again/</link>
+      <link>http://localhost:1313/posts/on-the-road-again/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/on-the-road-again/</guid>
+      <guid>http://localhost:1313/posts/on-the-road-again/</guid>
       <description>&lt;h1 id=&#34;on-the-road-again&#34;&gt;On the road again&lt;/h1&gt;&#xA;&lt;p&gt;A marriage ceremony, a funeral, and old stomping grounds&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fon-the-road-again&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=on-the-road-again&amp;amp;_bhlid=0d5091c2ff1fb0a3c5d228f958c334daa940b3a7&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=A+marriage+ceremony%2C+a+funeral%2C+and+old+stomping+grounds&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fon-the-road-again&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=on-the-road-again&amp;amp;_bhlid=adedf4195ea054875bad15f483409fed74428aa7&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=A+marriage+ceremony%2C+a+funeral%2C+and+old+stomping+grounds+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fon-the-road-again&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=on-the-road-again&amp;amp;_bhlid=ea9d8711b937f11947455a6d9988bde454e5cdea&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fon-the-road-again&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=on-the-road-again&amp;amp;_bhlid=b09bd120be6ee34c6d2eaffa7bad5e17ba311aaf&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Monday, 11:12am&#xA;Taipei, Taiwan&lt;/p&gt;&#xA;&lt;p&gt;Hello friends from Taipei, Taiwan! 🇹🇼&lt;/p&gt;&#xA;&lt;p&gt;Here’s a quick recap of my last 2 weeks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;4 days in &lt;strong&gt;Orlando, Florida&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;MC’d my brother’s marriage tea ceremony (敬茶) - a traditional Chinese ceremony for married couples to serve tea to their parents&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Visited Disney World&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;7 days back in the &lt;strong&gt;Bay Area&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye to Seoul</title>
-      <link>https://timhuang.co/posts/goodbye-to-seoul/</link>
+      <link>http://localhost:1313/posts/goodbye-to-seoul/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/goodbye-to-seoul/</guid>
+      <guid>http://localhost:1313/posts/goodbye-to-seoul/</guid>
       <description>&lt;h1 id=&#34;goodbye-to-seoul&#34;&gt;Goodbye to Seoul&lt;/h1&gt;&#xA;&lt;p&gt;Ending the Korea arc with feelings, not thoughts&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fgoodbye-to-seoul&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=goodbye-to-seoul&amp;amp;_bhlid=0879d8aeb932c28257da8796c646a942ed9c8427&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Ending+the+Korea+arc+with+feelings%2C+not+thoughts&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fgoodbye-to-seoul&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=goodbye-to-seoul&amp;amp;_bhlid=230aaa95b94d3f00f811e528f11b6c6033717286&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Ending+the+Korea+arc+with+feelings%2C+not+thoughts+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fgoodbye-to-seoul&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=goodbye-to-seoul&amp;amp;_bhlid=bf1e84dd66c7490cf409b625f195f30d2021acf2&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fgoodbye-to-seoul&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=goodbye-to-seoul&amp;amp;_bhlid=b4596f1eb3e318098bd2eadb0861cb1b26616947&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sunday, 6:58am&#xA;Orlando, Florida&lt;/p&gt;&#xA;&lt;p&gt;Hello from the land of gators in Orlando, Florida! 🐊&lt;/p&gt;&#xA;&lt;p&gt;On Friday, I flew out of Seoul and back to the US for a two-week stop to see family and friends.&lt;/p&gt;&#xA;&lt;p&gt;When I first arrived in Seoul, it was hard to avoid comparing Korea to Japan and Taiwan, given their cultural and geographic similarities. But over time, I noticed—and grew to love—many of the unique quirks of Korean culture:&lt;/p&gt;</description>
     </item>
     <item>
       <title>The simple joys of having a routine</title>
-      <link>https://timhuang.co/posts/the-simple-joys-of-having-a-routine/</link>
+      <link>http://localhost:1313/posts/the-simple-joys-of-having-a-routine/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/the-simple-joys-of-having-a-routine/</guid>
+      <guid>http://localhost:1313/posts/the-simple-joys-of-having-a-routine/</guid>
       <description>&lt;h1 id=&#34;the-simple-joys-of-having-a-routine&#34;&gt;The simple joys of having a routine&lt;/h1&gt;&#xA;&lt;p&gt;Learning Korean, riding the train to Busan, and morning coffee&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-simple-joys-of-having-a-routine&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-simple-joys-of-having-a-routine&amp;amp;_bhlid=6ac3cf6c5e212762d07316479f98050a11a38ff6&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Learning+Korean%2C+riding+the+train+to+Busan%2C+and+morning+coffee&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-simple-joys-of-having-a-routine&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-simple-joys-of-having-a-routine&amp;amp;_bhlid=9451596f5f4b906596e7775f589533dd8af92f9f&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Learning+Korean%2C+riding+the+train+to+Busan%2C+and+morning+coffee+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-simple-joys-of-having-a-routine&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-simple-joys-of-having-a-routine&amp;amp;_bhlid=183d760f574c2315aead5e9895ebff26bca6f610&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-simple-joys-of-having-a-routine&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-simple-joys-of-having-a-routine&amp;amp;_bhlid=3d8b3f5557b050ea285521e5c1ebf2edb229a309&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sunday, 8:23PM&#xA;July 13, 2025&lt;/p&gt;&#xA;&lt;p&gt;안녕하세요 from Seoul, South Korea!&lt;/p&gt;&#xA;&lt;p&gt;After months of bopping around between hostels, motorbikes, and ferry rides, I’ve found myself doing something truly wild: waking up at 6am every day. On purpose.&lt;/p&gt;&#xA;&lt;p&gt;I’m just about halfway complete with Sogang University’s month-long Korean Immersion Program (KIP). In just two weeks, I went from basically no Korean knowledge to being able to confidently order at cafes / restaurants, respond to basic greetings, and read pretty much anything (with varying degrees of comprehension).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kickstand down: The end of an era</title>
-      <link>https://timhuang.co/posts/kickstand-down-the-end-of-an-era/</link>
+      <link>http://localhost:1313/posts/kickstand-down-the-end-of-an-era/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/kickstand-down-the-end-of-an-era/</guid>
+      <guid>http://localhost:1313/posts/kickstand-down-the-end-of-an-era/</guid>
       <description>&lt;h1 id=&#34;kickstand-down-the-end-of-an-era&#34;&gt;Kickstand down: The end of an era&lt;/h1&gt;&#xA;&lt;p&gt;Reaching Hanoi, closing my SEA chapter, and looking back&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fkickstand-down-the-end-of-an-era&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=kickstand-down-the-end-of-an-era&amp;amp;_bhlid=26944b94480e6a7837119cfdcf87d9ce2a9666ac&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Reaching+Hanoi%2C+closing+my+SEA+chapter%2C+and+looking+back&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fkickstand-down-the-end-of-an-era&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=kickstand-down-the-end-of-an-era&amp;amp;_bhlid=b92aeacc77017c5bf023bd851f8cf7c3ab6e355b&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Reaching+Hanoi%2C+closing+my+SEA+chapter%2C+and+looking+back+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fkickstand-down-the-end-of-an-era&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=kickstand-down-the-end-of-an-era&amp;amp;_bhlid=5a571a135f983e63c497199037dded4c7da2cf4a&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fkickstand-down-the-end-of-an-era&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=kickstand-down-the-end-of-an-era&amp;amp;_bhlid=ebc9f74ef81984ea2b025dbb6788ca6b1d9ce374&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have a confession to make.&lt;/p&gt;&#xA;&lt;p&gt;A month ago, I almost backed out of my motorbike trip across Vietnam.&lt;/p&gt;&#xA;&lt;p&gt;The traffic, the foreign roads, the fuzzy legality of international driver’s permits—it all hit me at once. I wondered: &lt;em&gt;Is this actually worth it?&lt;/em&gt; But one month and 2000km later, I can say:&lt;em&gt;Hell yes.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>This might be one of the best experiences of my life.</title>
-      <link>https://timhuang.co/posts/this-might-be-one-of-the-best-experiences-of-my-life-ddeb/</link>
+      <link>http://localhost:1313/posts/this-might-be-one-of-the-best-experiences-of-my-life-ddeb/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/this-might-be-one-of-the-best-experiences-of-my-life-ddeb/</guid>
+      <guid>http://localhost:1313/posts/this-might-be-one-of-the-best-experiences-of-my-life-ddeb/</guid>
       <description>&lt;h1 id=&#34;this-might-be-one-of-the-best-experiences-of-my-life&#34;&gt;This might be one of the best experiences of my life.&lt;/h1&gt;&#xA;&lt;p&gt;Motorbiking across Vietnam, surviving flat tires, finding inner peace&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthis-might-be-one-of-the-best-experiences-of-my-life-ddeb&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=this-might-be-one-of-the-best-experiences-of-my-life&amp;amp;_bhlid=ec97c5770e7596adcdae6d567245fa1b30560a2d&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Motorbiking+across+Vietnam%2C+surviving+flat+tires%2C+finding+inner+peace&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthis-might-be-one-of-the-best-experiences-of-my-life-ddeb&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=this-might-be-one-of-the-best-experiences-of-my-life&amp;amp;_bhlid=64453689d6e7a0879f12f2a9b699b53b6037db6f&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Motorbiking+across+Vietnam%2C+surviving+flat+tires%2C+finding+inner+peace+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthis-might-be-one-of-the-best-experiences-of-my-life-ddeb&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=this-might-be-one-of-the-best-experiences-of-my-life&amp;amp;_bhlid=aaad0120d760ee1cafbb9ccf3f32745ed72a9d16&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthis-might-be-one-of-the-best-experiences-of-my-life-ddeb&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=this-might-be-one-of-the-best-experiences-of-my-life&amp;amp;_bhlid=d1146534891fa357bdc5bb2cc19d99259ee4fc80&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello friend!&lt;/p&gt;&#xA;&lt;p&gt;Over the past two weeks, I’ve been cruising through Vietnam on a motorbike. My butt is painfully sore from riding 4+ hours on a vibrating vehicle every day. (That sounds way worse written down than it did in my head 🤔 )&lt;/p&gt;&#xA;&lt;p&gt;Turns out this “Don’t think, just go” mindset is really working.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t think, just go!</title>
-      <link>https://timhuang.co/posts/don-t-think-just-go-1d27/</link>
+      <link>http://localhost:1313/posts/don-t-think-just-go-1d27/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/don-t-think-just-go-1d27/</guid>
+      <guid>http://localhost:1313/posts/don-t-think-just-go-1d27/</guid>
       <description>&lt;h1 id=&#34;dont-think-just-go&#34;&gt;Don&amp;rsquo;t think, just go!&lt;/h1&gt;&#xA;&lt;p&gt;Motorcycles, Myanmar, and Meditation&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fdon-t-think-just-go-1d27&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=don-t-think-just-go&amp;amp;_bhlid=5972426ead9b5411531a928861a7eadb39d5e199&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Motorcycles%2C+Myanmar%2C+and+Meditation&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fdon-t-think-just-go-1d27&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=don-t-think-just-go&amp;amp;_bhlid=430bcaeed85a556414902a1d2bb9758206f18c2a&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Motorcycles%2C+Myanmar%2C+and+Meditation+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fdon-t-think-just-go-1d27&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=don-t-think-just-go&amp;amp;_bhlid=80f1bb9a8c1f67a3dc8b0ef8d8471dce0f8d12bf&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fdon-t-think-just-go-1d27&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=don-t-think-just-go&amp;amp;_bhlid=2ee140f1f0a160921840bb4ef951a0225f99ac78&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Howdy friends! 🤠&lt;/p&gt;&#xA;&lt;p&gt;I’ve been staying in Northern Thailand these last two weeks, splitting my time between getting punched in the face, cruising along mountain roads, and sitting silently on a meditation cushion.&lt;/p&gt;&#xA;&lt;p&gt;I started off my time here with a couple more Muay Thai sessions, including some light sparring. If you ever feel like you need an ego check, try out Muay Thai so you can get your butt kicked by literally everyone in the gym, including the teenager half your size.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The impermanence of everyday things</title>
-      <link>https://timhuang.co/posts/the-impermanence-of-everyday-things-5da1/</link>
+      <link>http://localhost:1313/posts/the-impermanence-of-everyday-things-5da1/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/the-impermanence-of-everyday-things-5da1/</guid>
+      <guid>http://localhost:1313/posts/the-impermanence-of-everyday-things-5da1/</guid>
       <description>&lt;h1 id=&#34;the-impermanence-of-everyday-things&#34;&gt;The impermanence of everyday things&lt;/h1&gt;&#xA;&lt;p&gt;Saying hello, saying goodbye, losing things, discovering new ones&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-impermanence-of-everyday-things-5da1&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-impermanence-of-everyday-things&amp;amp;_bhlid=8a1210d8a564f68721ddae1cd34d5aa7b4afa04c&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Saying+hello%2C+saying+goodbye%2C+losing+things%2C+discovering+new+ones&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-impermanence-of-everyday-things-5da1&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-impermanence-of-everyday-things&amp;amp;_bhlid=05f391a6b74a64540100ff6177f5908bcf450270&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Saying+hello%2C+saying+goodbye%2C+losing+things%2C+discovering+new+ones+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-impermanence-of-everyday-things-5da1&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-impermanence-of-everyday-things&amp;amp;_bhlid=f9f3fefd68cbeb1fa8976bb4a101f4af6df698fa&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fthe-impermanence-of-everyday-things-5da1&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=the-impermanence-of-everyday-things&amp;amp;_bhlid=47ed1be3be0456a482f85b59febd4c76d532c0f9&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey friends!&lt;/p&gt;&#xA;&lt;p&gt;Quick update: I’ve been in Thailand these last two weeks, moving from Bangkok to Chiang Mai. As planned, I’ve started training Muay Thai. I got absolutely destroyed on day one, but it’s kind of amazing how quickly my conditioning is improving, and I’m excited to continue.&lt;/p&gt;&#xA;&lt;p&gt;This week I wanted to reflect on &lt;strong&gt;impermanence&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Can speak everything lah</title>
-      <link>https://timhuang.co/posts/can-speak-everything-lah/</link>
+      <link>http://localhost:1313/posts/can-speak-everything-lah/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/can-speak-everything-lah/</guid>
+      <guid>http://localhost:1313/posts/can-speak-everything-lah/</guid>
       <description>&lt;h1 id=&#34;can-speak-everything-lah&#34;&gt;Can speak everything lah&lt;/h1&gt;&#xA;&lt;p&gt;Walk here, makan there, shiok everywhere&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fcan-speak-everything-lah&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=can-speak-everything-lah&amp;amp;_bhlid=d70b3364b0bc24e5c34fca4e5415f3422e033843&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Walk+here%2C+makan+there%2C+shiok+everywhere&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fcan-speak-everything-lah&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=can-speak-everything-lah&amp;amp;_bhlid=798ee546053557cb3b80851bc4b971c8d06b84f2&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Walk+here%2C+makan+there%2C+shiok+everywhere+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fcan-speak-everything-lah&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=can-speak-everything-lah&amp;amp;_bhlid=355c93fa8a72449e16450280206f472a539ef2e1&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fcan-speak-everything-lah&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=can-speak-everything-lah&amp;amp;_bhlid=1da1e4b242f60e462ed87ed36fcf752ff52f24c0&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey friends! Still alive lah, just disappear for a while. Now back with more updates!&lt;/p&gt;&#xA;&lt;p&gt;I’ve been spending the last two weeks in Singapore and Malaysia, which has been an absolute blast 🙂&lt;/p&gt;&#xA;&lt;p&gt;Here’s a few of my recent reflections:&lt;/p&gt;&#xA;&lt;h1 id=&#34;-embracing-multiculturalism&#34;&gt;🫶 Embracing multiculturalism&lt;/h1&gt;&#xA;&lt;p&gt;I want to start out with what’s closest to my heart. I immediately came to love one thing about Singapore and Malaysia: multiculturalism.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What fevers, fans, and CRM automations taught me about gratitude</title>
-      <link>https://timhuang.co/posts/what-fevers-fans-and-crm-automations-taught-me-about-gratitude/</link>
+      <link>http://localhost:1313/posts/what-fevers-fans-and-crm-automations-taught-me-about-gratitude/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/what-fevers-fans-and-crm-automations-taught-me-about-gratitude/</guid>
+      <guid>http://localhost:1313/posts/what-fevers-fans-and-crm-automations-taught-me-about-gratitude/</guid>
       <description>&lt;h1 id=&#34;what-fevers-fans-and-crm-automations-taught-me-about-gratitude&#34;&gt;What fevers, fans, and CRM automations taught me about gratitude&lt;/h1&gt;&#xA;&lt;p&gt;Food poisoned (again), The Siargao Curse, and automations are fun&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fwhat-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=what-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;_bhlid=37c02f70c9973e2225a7463559ae7c5b2832edb5&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Food+poisoned+%28again%29%2C+The+Siargao+Curse%2C+and+automations+are+fun&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fwhat-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=what-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;_bhlid=dc738269929b293f56771d4f35301836e6c9c92a&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Food+poisoned+%28again%29%2C+The+Siargao+Curse%2C+and+automations+are+fun+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fwhat-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=what-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;_bhlid=11b1337759bfa10d3b4bb9e36100cb43ce9d49af&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fwhat-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=what-fevers-fans-and-crm-automations-taught-me-about-gratitude&amp;amp;_bhlid=d29145278df0f4e0c38ec0160346513526d35b7a&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello friends! And a warm welcome to those who found me through my LinkedIn post &lt;a href=&#34;https://www.linkedin.com/posts/timhuangg_one-month-ago-i-did-something-a-little-scaryi-activity-7318974553328599040-JBRH?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAABtCX5wBlgNzGCanfVpJqb6UIAFE1UNhaNY&amp;amp;_bhlid=c35353abb2a9991a4e39bbdb41e2dae1007beb96&#34;&gt;announcing my adult gap year&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you’re new here—I’m Tim. I left behind my 9-5 as a product manager to travel across Asia and explore what’s next. This newsletter is basically my public diary. Expect travel tales, personal finance musings, experiments with new tools, and conversations with creators and entrepreneurs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One month in and slowing down</title>
-      <link>https://timhuang.co/posts/one-month-in-and-slowing-down/</link>
+      <link>http://localhost:1313/posts/one-month-in-and-slowing-down/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/one-month-in-and-slowing-down/</guid>
+      <guid>http://localhost:1313/posts/one-month-in-and-slowing-down/</guid>
       <description>&lt;h1 id=&#34;one-month-in-and-slowing-down&#34;&gt;One month in and slowing down&lt;/h1&gt;&#xA;&lt;p&gt;Scuba diving, sunsets, and reflections on one month of traveling&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fone-month-in-and-slowing-down&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=one-month-in-and-slowing-down&amp;amp;_bhlid=c2b9acb527f49214f2e00d65b6f63ba2aa2b3383&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Scuba+diving%2C+sunsets%2C+and+reflections+on+one+month+of+traveling&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fone-month-in-and-slowing-down&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=one-month-in-and-slowing-down&amp;amp;_bhlid=f1089e9d0ce7e2e4981131184e80a89a1da7a82c&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Scuba+diving%2C+sunsets%2C+and+reflections+on+one+month+of+traveling+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fone-month-in-and-slowing-down&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=one-month-in-and-slowing-down&amp;amp;_bhlid=9d9f61f77144f01371bc562241dfb8a557d3a694&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fone-month-in-and-slowing-down&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=one-month-in-and-slowing-down&amp;amp;_bhlid=b9574ca2982eb68030ad908cc5a74a79a2bdae72&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello friends! I meant to write this last Sunday, but I was 30 meters underwater exploring a sunken WWII ship. Worth it.&lt;/p&gt;&#xA;&lt;p&gt;Now that I’m over a month in to my travels, I’ve started taking things a bit slower. I’ve been cutting down my activities to 1-2 things per location, even when the internet says these are the 6 things you MUST see in [location].&lt;/p&gt;</description>
     </item>
     <item>
       <title>Do I deserve this?</title>
-      <link>https://timhuang.co/posts/do-i-deserve-this/</link>
+      <link>http://localhost:1313/posts/do-i-deserve-this/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/do-i-deserve-this/</guid>
+      <guid>http://localhost:1313/posts/do-i-deserve-this/</guid>
       <description>&lt;h1 id=&#34;do-i-deserve-this&#34;&gt;Do I deserve this?&lt;/h1&gt;&#xA;&lt;p&gt;When a smoothie bowl sparks an existential crisis&lt;/p&gt;&#xA;&lt;p&gt;A couple weeks ago, I was caught in a sudden downpour of rain and decided to pull into a nearby cafe to grab a meal while waiting out the rain. It was clearly targeted towards Westerners, with a “hip” aesthetic and a full lineup of latte variations on the menu to match.&lt;/p&gt;&#xA;&lt;p&gt;Since I hadn’t eaten yet, I ordered a smoothie bowl. Sitting there, watching the rain and sipping on my $6 blend of fruit and granola, I felt the weight of an existential question: &lt;em&gt;Do I deserve this?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I saw blue fire from a volcano</title>
-      <link>https://timhuang.co/posts/i-saw-blue-fire-from-a-volcano/</link>
+      <link>http://localhost:1313/posts/i-saw-blue-fire-from-a-volcano/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/i-saw-blue-fire-from-a-volcano/</guid>
+      <guid>http://localhost:1313/posts/i-saw-blue-fire-from-a-volcano/</guid>
       <description>&lt;h1 id=&#34;i-saw-blue-fire-from-a-volcano&#34;&gt;I saw blue fire from a volcano&lt;/h1&gt;&#xA;&lt;p&gt;Volcano hikes, a pleasant homestay, and scuba diving&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fi-saw-blue-fire-from-a-volcano&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=i-saw-blue-fire-from-a-volcano&amp;amp;_bhlid=7086421a0dfd95e5750187a4d46d841dc0cc6758&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Volcano+hikes%2C+a+pleasant+homestay%2C+and+scuba+diving&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fi-saw-blue-fire-from-a-volcano&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=i-saw-blue-fire-from-a-volcano&amp;amp;_bhlid=e567dac56ad0a835b8a0ef50354f5981d5f6bd5b&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Volcano+hikes%2C+a+pleasant+homestay%2C+and+scuba+diving+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fi-saw-blue-fire-from-a-volcano&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=i-saw-blue-fire-from-a-volcano&amp;amp;_bhlid=2c0f15c2f0b102674079fdab0605557e5f783453&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fi-saw-blue-fire-from-a-volcano&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=i-saw-blue-fire-from-a-volcano&amp;amp;_bhlid=1bee2efb1808df4d5aef2263c049d329f95591a1&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello friends 👋&lt;/p&gt;&#xA;&lt;p&gt;I have good news this week: I stopped shitting myself every 3 hours.&lt;/p&gt;&#xA;&lt;p&gt;I know. I know. But genuinely, my quality of life has dramatically increased. That first week was pretty rough. Be careful around tap water in Indonesia my friends 🤣&lt;/p&gt;&#xA;&lt;p&gt;Here’s what I’ve been up to:&lt;/p&gt;&#xA;&lt;h1 id=&#34;hiking-volcanoes-to-see-the-sunrise-and-blue-fire&#34;&gt;Hiking volcanoes to see the sunrise (and blue fire)&lt;/h1&gt;&#xA;&lt;p&gt;I hiked up to see two volcanoes this week: &lt;strong&gt;Mt. Bromo&lt;/strong&gt; and&lt;strong&gt;Mt. Ijen&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A chaotic start to the journey (posts from here on up are not reformatted yet)</title>
-      <link>https://timhuang.co/posts/a-chaotic-start-to-the-journey/</link>
+      <link>http://localhost:1313/posts/a-chaotic-start-to-the-journey/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/a-chaotic-start-to-the-journey/</guid>
+      <guid>http://localhost:1313/posts/a-chaotic-start-to-the-journey/</guid>
       <description>&lt;h1 id=&#34;a-chaotic-start-to-the-journey&#34;&gt;A chaotic start to the journey&lt;/h1&gt;&#xA;&lt;p&gt;Navigating traffic in Jakarta, surviving food poisoning, and bargaining with taxi motorbike drivers&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fa-chaotic-start-to-the-journey&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=a-chaotic-start-to-the-journey&amp;amp;_bhlid=dc3fe282393ba638c6be0a67638c7f64570d92f6&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?text=Navigating+traffic+in+Jakarta%2C+surviving+food+poisoning%2C+and+bargaining+with+taxi+motorbike+drivers&amp;amp;url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fa-chaotic-start-to-the-journey&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=a-chaotic-start-to-the-journey&amp;amp;_bhlid=0ed2a7ff2dffc2f6ef08a200f69ef34b304765e0&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.threads.net/intent/post?text=Navigating+traffic+in+Jakarta%2C+surviving+food+poisoning%2C+and+bargaining+with+taxi+motorbike+drivers+https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fa-chaotic-start-to-the-journey&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=a-chaotic-start-to-the-journey&amp;amp;_bhlid=b7085b8ab832b6e6046786c211f98097a845bcb2&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftimhuang.beehiiv.com%2Fp%2Fa-chaotic-start-to-the-journey&amp;amp;utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=a-chaotic-start-to-the-journey&amp;amp;_bhlid=47f36e78521650f439cf9afb61210423863f0efd&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;👋 Selamat pagi dear friends,&lt;/p&gt;&#xA;&lt;p&gt;I am writing this from the other side of 72 hours of suffering. More commonly known as food poisoning.&lt;/p&gt;&#xA;&lt;p&gt;I’m also writing this from my phone on a train packed with far too many people with seats that are straight up vertical. I guess that’s what I get for booking a ticket that cost $6.20 to travel 7 hours across the island of Java.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting a new chapter</title>
-      <link>https://timhuang.co/posts/starting-a-new-chapter/</link>
+      <link>http://localhost:1313/posts/starting-a-new-chapter/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/starting-a-new-chapter/</guid>
+      <guid>http://localhost:1313/posts/starting-a-new-chapter/</guid>
       <description>&lt;p&gt;Hey friends!&lt;/p&gt;&#xA;&lt;p&gt;I’m writing this week’s newsletter during my 14-hour layover in Singapore’s Changi airport. Visiting the indoor waterfall in the airport has been on my bucket list for a while, and I felt a bit emotional seeing it in person. It really is as epic as the pictures make it seem.&lt;/p&gt;&#xA;&lt;p&gt;Also - I haven’t even left the airport, but it’s clear how multicultural and international this city is. And I’m loving it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I moved out &#43; how Miles gained 24k subscribers in one year</title>
-      <link>https://timhuang.co/posts/i-moved-out-how-miles-gained-24k-subscribers-in-one-year/</link>
+      <link>http://localhost:1313/posts/i-moved-out-how-miles-gained-24k-subscribers-in-one-year/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/i-moved-out-how-miles-gained-24k-subscribers-in-one-year/</guid>
+      <guid>http://localhost:1313/posts/i-moved-out-how-miles-gained-24k-subscribers-in-one-year/</guid>
       <description>&lt;p&gt;Hello friends!&lt;/p&gt;&#xA;&lt;p&gt;I moved out of my Sunnyvale apartment this week 📦️&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;reflections-on-moving-out&#34;&gt;Reflections on moving out&lt;/h2&gt;&#xA;&lt;p&gt;After graduating from Berkeley, I moved to Sunnyvale about 2.5 years ago to be closer to work in Mountain View, and I’ve lived there ever since.&lt;/p&gt;&#xA;&lt;p&gt;As much as I complained about how isolated / boring living in the suburbs can feel (especially without a car), I enjoyed eating at the local restaurants, meeting up with friends nearby, and most of all, the &lt;em&gt;peace of mind&lt;/em&gt; from walking through the “boring” neighborhoods full of young families with their white Teslas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How a Silicon Valley PM built a sustainable business using content</title>
-      <link>https://timhuang.co/posts/how-a-silicon-valley-pm-built-a-sustainable-business-using-content/</link>
+      <link>http://localhost:1313/posts/how-a-silicon-valley-pm-built-a-sustainable-business-using-content/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/how-a-silicon-valley-pm-built-a-sustainable-business-using-content/</guid>
+      <guid>http://localhost:1313/posts/how-a-silicon-valley-pm-built-a-sustainable-business-using-content/</guid>
       <description>&lt;p&gt;Hello friends!&lt;/p&gt;&#xA;&lt;p&gt;I’m back from Miami 🥳 We saw a bunch of celebrity mansions (turns out Jackie Chan and Shakira are neighbors). And I did, in fact, hit the club.&lt;/p&gt;&#xA;&lt;p&gt;Equipped with ear plugs (which saved my eardrums), it really wasn’t as overwhelming as I expected. I actually had a pretty good time! I probably wouldn’t go out of my way to go again, but I also wouldn’t mind tagging along with friends.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I guess I&#39;m hitting the club</title>
-      <link>https://timhuang.co/posts/i-guess-i-m-hitting-the-club/</link>
+      <link>http://localhost:1313/posts/i-guess-i-m-hitting-the-club/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/i-guess-i-m-hitting-the-club/</guid>
+      <guid>http://localhost:1313/posts/i-guess-i-m-hitting-the-club/</guid>
       <description>&lt;p&gt;Hello friends!&lt;/p&gt;&#xA;&lt;p&gt;We’re back to the usual flow of life updates this week.&lt;/p&gt;&#xA;&lt;p&gt;I’m writing this post in advance because by the time this goes out, I’ll be in Miami. Where I will allegedly be hitting the club.&lt;/p&gt;&#xA;&lt;p&gt;Not so secret secret—I’ve never gone clubbing before.&lt;/p&gt;&#xA;&lt;p&gt;If you know me, you know that I generally shy away from loud, crowded environments. Too much stimulation.&lt;/p&gt;&#xA;&lt;p&gt;But after 2-3 trips in the outdoors, dragging along some friends who are less keen to poop in the woods, I figure it’s time for me to go out of &lt;em&gt;my&lt;/em&gt; comfort zone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I got my motorcycle license (and the surprising lessons I learned)</title>
-      <link>https://timhuang.co/posts/how-i-got-my-motorcycle-license-and-the-surprising-lessons-i-learned/</link>
+      <link>http://localhost:1313/posts/how-i-got-my-motorcycle-license-and-the-surprising-lessons-i-learned/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/how-i-got-my-motorcycle-license-and-the-surprising-lessons-i-learned/</guid>
+      <guid>http://localhost:1313/posts/how-i-got-my-motorcycle-license-and-the-surprising-lessons-i-learned/</guid>
       <description>&lt;p&gt;I’d always thought of motorcyclists as reckless drivers on steroids. Even though lane splitting is legal in California, it blew my mind every time I saw motorcyclists threading the needle between two-ton metal boxes barreling down the road at 70 miles per hour. I knew that if even one car made an unpredictable move, it could cut off the motorcyclist and send them flying to their untimely demise.&lt;/p&gt;&#xA;&lt;p&gt;But during the tail end of my recent trip to Europe, I stumbled on a Youtube video of a motorcyclist driving across Vietnam. All of a sudden, I felt a spark of inspiration. In a rare moment of spontaneity, I decided to step outside my comfort zone, signed up for a motorcycle safety course, and booked my first lesson within the same day. When I finally sat down on a motorcycle for the first time, the feeling hit me—&lt;em&gt;Oh damn, this is fun&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I stopped feeling dead inside</title>
-      <link>https://timhuang.co/posts/how-i-stopped-feeling-dead-inside/</link>
+      <link>http://localhost:1313/posts/how-i-stopped-feeling-dead-inside/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/how-i-stopped-feeling-dead-inside/</guid>
+      <guid>http://localhost:1313/posts/how-i-stopped-feeling-dead-inside/</guid>
       <description>&lt;p&gt;Hello friends!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been back from my month-long backpacking trip in Europe for about two weeks now, and I&amp;rsquo;m getting back in the groove of adding shareholder value.&lt;/p&gt;&#xA;&lt;p&gt;One thing that I’m reflecting on is that leading up to the trip, I experienced a renewed sense of energy.&lt;/p&gt;&#xA;&lt;p&gt;For most of 2024, I felt like time was just passing by. It wasn’t that I was too busy. I had a pretty decent work-life balance, and I had plenty of time outside of work to dedicate to my hobbies or chores.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backpacking Europe Diaries #4: Italy Edition</title>
-      <link>https://timhuang.co/posts/backpacking-europe-diaries-4-italy-edition/</link>
+      <link>http://localhost:1313/posts/backpacking-europe-diaries-4-italy-edition/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/backpacking-europe-diaries-4-italy-edition/</guid>
+      <guid>http://localhost:1313/posts/backpacking-europe-diaries-4-italy-edition/</guid>
       <description>&lt;p&gt;Hello friends! Happy New Year, and I hope you’re having a marvelous start to 2025.&lt;/p&gt;&#xA;&lt;p&gt;This is my last solo travel newsletter from Europe (for now), and by the time this post is sent out I should be back in the US. Please hang out with me. I missed you guys 😭&lt;/p&gt;&#xA;&lt;p&gt;I spent the last leg of my trip entirely in Italy. Here’s what I’ve been up to!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-venice-italy&#34;&gt;🇮🇹 Venice, Italy&lt;/h2&gt;&#xA;&lt;p&gt;My first impression of Venice was… hooly hell this place has way too many people. Unfortunately, I think Venice is the definition of overtourism, and I learned that on some days there are twice the number of tourists visiting as there are residents.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backpacking Europe Diaries #3: Vienna, Budapest, Ljubljana</title>
-      <link>https://timhuang.co/posts/backpacking-europe-diaries-3-vienna-budapest-ljubljana/</link>
+      <link>http://localhost:1313/posts/backpacking-europe-diaries-3-vienna-budapest-ljubljana/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/backpacking-europe-diaries-3-vienna-budapest-ljubljana/</guid>
+      <guid>http://localhost:1313/posts/backpacking-europe-diaries-3-vienna-budapest-ljubljana/</guid>
       <description>&lt;p&gt;Hello friends, I’m back!&lt;/p&gt;&#xA;&lt;p&gt;The last two weeks have been interesting—higher highs, and lower lows. I’m starting to feel a bit of travel fatigue from moving around so much.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-vienna-austria&#34;&gt;🇦🇹 Vienna, Austria&lt;/h2&gt;&#xA;&lt;p&gt;My next stop after Prague was Vienna. My first impression was… oh shit, they speak German?&lt;/p&gt;&#xA;&lt;p&gt;Vienna is the Italian name for the city. Locals call it &lt;strong&gt;Wien&lt;/strong&gt;. Like wieners. Haha. Wait a minute…&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vienna_sausage?utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=backpacking-europe-diaries-3-vienna-budapest-ljubljana&amp;amp;_bhlid=8717c030ef846d84fbc2cfc1add7259286f53d56&#34;&gt;W&lt;/a&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vienna_sausage?utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=newsletter&amp;amp;utm_campaign=backpacking-europe-diaries-3-vienna-budapest-ljubljana&amp;amp;_bhlid=4187c7762a496c11147fa59b64fbfcc2a7384793&#34;&gt;ieners are named after Wien&lt;/a&gt;!! 🤯 And in Wien, sausages are Frankfurters, named after the city where they actually came from.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backpacking Europe Diaries #2: Paris, Amsterdam, Prague</title>
-      <link>https://timhuang.co/posts/backpacking-europe-diaries-2-paris-amsterdam-prague/</link>
+      <link>http://localhost:1313/posts/backpacking-europe-diaries-2-paris-amsterdam-prague/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/backpacking-europe-diaries-2-paris-amsterdam-prague/</guid>
+      <guid>http://localhost:1313/posts/backpacking-europe-diaries-2-paris-amsterdam-prague/</guid>
       <description>&lt;p&gt;Hello friends! I finally have the stable internet, empty time, and energy to write up this post.&lt;/p&gt;&#xA;&lt;p&gt;I know it’s not Sunday, but it’s probably better that I wrote this after visiting Prague rather than in the middle of it 🙂 Anyways, here’s what I’ve been up to!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-france-paris&#34;&gt;🇫🇷 France (Paris)&lt;/h2&gt;&#xA;&lt;p&gt;As cliché as it is, I loved Paris!!! I feel like I’ve only scratched the surface of things I want to do here, and I will absolutely come back to visit in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backpacking Europe Diaries #1: Arriving in Paris</title>
-      <link>https://timhuang.co/posts/backpacking-europe-diaries-1-arriving-in-paris/</link>
+      <link>http://localhost:1313/posts/backpacking-europe-diaries-1-arriving-in-paris/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/backpacking-europe-diaries-1-arriving-in-paris/</guid>
+      <guid>http://localhost:1313/posts/backpacking-europe-diaries-1-arriving-in-paris/</guid>
       <description>&lt;p&gt;Hello from Paris! This is the first newsletter of many as I write about my Europe travels over the next few weeks.&lt;/p&gt;&#xA;&lt;p&gt;I’m writing this around 5:30 AM on my phone in the darkness of my hostel bunk bed, since I feel like it would be too disruptive to the other 7 people in this room if I started rummaging through all my stuff so early in the day.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Rewinding back to Friday, I left for SFO around 12:15 PM PST for my 2 PM flight, working pretty much up to the last minute trying to make sure everyone on the team knew how to pick up where I left off while I peace out for the next month. Luckily, Peter was available to give me a ride otherwise I would’ve probably cut it real close even with an Uber, since they were boarding group 1 and 2 by the time I got to the gate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3 emails that jumped out at me this Black Friday</title>
-      <link>https://timhuang.co/posts/3-emails-that-jumped-out-at-me-this-black-friday/</link>
+      <link>http://localhost:1313/posts/3-emails-that-jumped-out-at-me-this-black-friday/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/3-emails-that-jumped-out-at-me-this-black-friday/</guid>
+      <guid>http://localhost:1313/posts/3-emails-that-jumped-out-at-me-this-black-friday/</guid>
       <description>&lt;p&gt;I work on an email marketing product as my full-time job, but I must confess, in my day-to-day life I’m the kind of person who uses adblock and opts out of marketing messages whenever possible.&lt;/p&gt;&#xA;&lt;p&gt;However, since starting my job at Mailchimp and diving into the world of digital marketing, I’ve been paying much closer attention to the ads that I used to glaze over. In fact, I now &lt;em&gt;voluntarily&lt;/em&gt; sign up to be on email lists (using a burner email, of course).&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I planned a one-month solo trip to Europe</title>
-      <link>https://timhuang.co/posts/how-i-planned-a-one-month-solo-trip-to-europe/</link>
+      <link>http://localhost:1313/posts/how-i-planned-a-one-month-solo-trip-to-europe/</link>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/how-i-planned-a-one-month-solo-trip-to-europe/</guid>
+      <guid>http://localhost:1313/posts/how-i-planned-a-one-month-solo-trip-to-europe/</guid>
       <description>&lt;p&gt;Hello friends!&lt;/p&gt;&#xA;&lt;p&gt;As some of you might know, I’ll be taking off for ~5 weeks at the end of the year to go on a solo trip to Europe. I’m basically using up 80% of my banked up PTO in one go, so I sure hope it’ll be a good time 🙂&lt;/p&gt;&#xA;&lt;p&gt;I figured for my newsletter this week I’d share my thought process and experience planning the trip in case you’d like to try something similar!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lessons from writing 10 newsletter posts</title>
-      <link>https://timhuang.co/posts/lessons-from-writing-10-newsletter-posts/</link>
+      <link>http://localhost:1313/posts/lessons-from-writing-10-newsletter-posts/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/lessons-from-writing-10-newsletter-posts/</guid>
+      <guid>http://localhost:1313/posts/lessons-from-writing-10-newsletter-posts/</guid>
       <description>&lt;p&gt;In a shocking turn of events, as of this post I’ve successfully published 10 articles for my newsletter!&lt;/p&gt;&#xA;&lt;p&gt;I’ve struggled a lot with consistency in the past, and I often give up on new projects pretty quickly if I don’t get some kind of instant gratification. I’m proud (and sad) to say that this newsletter is my first creative project that I’ve been able to maintain for a substantial stretch of time since I started working “in the real world.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 3 levels of financial security aka F-You Money</title>
-      <link>https://timhuang.co/posts/the-3-levels-of-financial-security-aka-f-you-money/</link>
+      <link>http://localhost:1313/posts/the-3-levels-of-financial-security-aka-f-you-money/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/the-3-levels-of-financial-security-aka-f-you-money/</guid>
+      <guid>http://localhost:1313/posts/the-3-levels-of-financial-security-aka-f-you-money/</guid>
       <description>&lt;p&gt;How much money do you need to say “F*** this, I’m out”?&lt;/p&gt;&#xA;&lt;p&gt;If you grew up in an Asian immigrant household like myself, you probably grew up with a strong &lt;strong&gt;scarcity mindset&lt;/strong&gt;. In other words, you never felt like you have “enough&amp;quot; or you’re doing “enough”.&lt;/p&gt;&#xA;&lt;p&gt;You’re constantly worried that you’re falling behind relative to your peers and your goals, and you’re afraid of failure / criticism. (If this isn’t you, please tell me how your parents raised you 😂 )&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backpacking in Ansel Adams Wilderness</title>
-      <link>https://timhuang.co/posts/backpacking-in-ansel-adams-wilderness/</link>
+      <link>http://localhost:1313/posts/backpacking-in-ansel-adams-wilderness/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/backpacking-in-ansel-adams-wilderness/</guid>
+      <guid>http://localhost:1313/posts/backpacking-in-ansel-adams-wilderness/</guid>
       <description>&lt;p&gt;Hello friends! I’m trying something new this week by forcefully timeboxing my writing to the ~1 hour it takes for my Caltrain from Sunnyvale to the Milbrae Bart station 🙂&lt;/p&gt;&#xA;&lt;p&gt;This past week, the big thing I did was go on (another) backpacking trip, this time to Ansel Adams Wilderness in the Inyo National Forest! It was a 4-day 3-night trip, with Day 1 spent camping at Twin Lakes near Mammoth Lakes to rest up and acclimate to the elevation before we started hiking the next day. Day 2-4 we followed the PCT to hike from Agnew Meadows to Thousand Island Lake, looping back along the JMT/PCT to see several more incredible alpine lakes including Ruby Lake, Garnet Lake, and Shadow Lake.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writer’s block and reflecting on big life decisions</title>
-      <link>https://timhuang.co/posts/writers-block-and-reflecting-on-big-life-decisions/</link>
+      <link>http://localhost:1313/posts/writers-block-and-reflecting-on-big-life-decisions/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/writers-block-and-reflecting-on-big-life-decisions/</guid>
+      <guid>http://localhost:1313/posts/writers-block-and-reflecting-on-big-life-decisions/</guid>
       <description>&lt;p&gt;It’s been 3 weeks since I last published a post, which means I’m now completely off of my aspirational weekly newsletter schedule. That said, I’m not going to stress about it. Life happens!&lt;/p&gt;&#xA;&lt;p&gt;Over the last few weeks, I celebrated my (actual) 25th birthday, visited Christine in Vancouver, and went on a backpacking trip to Yosemite. In between all the traveling, spending time with loved ones, and keeping up with work, I haven’t had much time or energy to sit down for a couple hours to write up a post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>5 things I love to spend money on</title>
-      <link>https://timhuang.co/posts/5-things-i-love-to-spend-money-on/</link>
+      <link>http://localhost:1313/posts/5-things-i-love-to-spend-money-on/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/5-things-i-love-to-spend-money-on/</guid>
+      <guid>http://localhost:1313/posts/5-things-i-love-to-spend-money-on/</guid>
       <description>&lt;p&gt;One of the most popular posts of all time on r/financialindependence is to &lt;a href=&#34;https://www.reddit.com/r/financialindependence/comments/58j8pc/build_the_life_you_want_then_save_for_it/?utm_source=timhuang.beehiiv.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=5-things-i-love-to-spend-money-on&#34;&gt;Build the life you want, then save for it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The general message is that instead of cutting back on everything (lattes, trips, etc.) to save for an ambiguous idea of what your life might look like in 20 years, you should invest in building a life that makes you feel more fulfilled today. That way, you have something you actually want to save for.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Coast FIRE is my favorite financial milestone</title>
-      <link>https://timhuang.co/posts/why-coast-fire-is-my-favorite-milestone/</link>
+      <link>http://localhost:1313/posts/why-coast-fire-is-my-favorite-milestone/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/why-coast-fire-is-my-favorite-milestone/</guid>
+      <guid>http://localhost:1313/posts/why-coast-fire-is-my-favorite-milestone/</guid>
       <description>&lt;p&gt;Coast FIRE is one of my favorite ideas in personal finance, and it’s a milestone that I think will resonate with my fellow Gen Z.&lt;/p&gt;&#xA;&lt;p&gt;For those not familiar with the term, FIRE = Financial Independence, Retire Early. The FIRE movement initially gained traction in the early 2010s, particularly among people working high income jobs in tech who lived frugal lifestyles. This combination allowed FIRE practitioners to aggressively invest for retirement, with the target of saving over 25x of their annual expenses to be considered “financially independent”. If they hit this milestone early enough, they could “retire early”, often in their 30s or 40s.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Journal #2 - Discovering North Carolina and attending a meat conference</title>
-      <link>https://timhuang.co/posts/travel-journal-2/</link>
+      <link>http://localhost:1313/posts/travel-journal-2/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/travel-journal-2/</guid>
+      <guid>http://localhost:1313/posts/travel-journal-2/</guid>
       <description>&lt;p&gt;Last week, I got the chance to travel all throughout North Carolina.&lt;/p&gt;&#xA;&lt;p&gt;I spent 3 days in Raleigh, 3 days in Boone (for the MEAT 🍖 conference), 0.5 day in Greensboro, and 3 days in Charlotte.&lt;/p&gt;&#xA;&lt;p&gt;Charlotte → Raleigh → Boone → Greensboro → Charlotte&lt;/p&gt;&#xA;&lt;h2 id=&#34;-discovering-north-carolina&#34;&gt;⛰️ Discovering North Carolina&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-north-carolina-is-green&#34;&gt;1. North Carolina is green!!!&lt;/h3&gt;&#xA;&lt;p&gt;Apparently North Carolina’s climate is considered sub-tropical, and even in the cities it was dense with trees and insects (so many beetles). To me, the weather felt similar to Hawaii - it was warm and humid, with occasional random showers in the middle of the day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Journal #1 - The one where I stayed in airports all day</title>
-      <link>https://timhuang.co/posts/travel-journal-1/</link>
+      <link>http://localhost:1313/posts/travel-journal-1/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/travel-journal-1/</guid>
+      <guid>http://localhost:1313/posts/travel-journal-1/</guid>
       <description>&lt;p&gt;I had quite a wild travel itinerary this week.&lt;/p&gt;&#xA;&lt;p&gt;I went from Vancouver to San Francisco, San Francisco to Calgary, Calgary to Vancouver, Vancouver to Charlotte, and then Charlotte to Raleigh, hitting a total of 5 different airports in less than 24 hours.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;7/23: YVR → SFO&lt;/li&gt;&#xA;&lt;li&gt;7/25: SFO → YYC&lt;/li&gt;&#xA;&lt;li&gt;7/25: YYC → YVR&lt;/li&gt;&#xA;&lt;li&gt;7/26 - 7/27: YVR → CLT&lt;/li&gt;&#xA;&lt;li&gt;7/27: CLT → RDU&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I originally flew in to Vancouver on 7/20, but due to a family emergency, my trip to Vancouver was cut short and I ended up flying back to Pleasanton for a few days (7/23-7/25).&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I overcame my limiting beliefs</title>
-      <link>https://timhuang.co/posts/how-i-overcame-limiting-beliefs/</link>
+      <link>http://localhost:1313/posts/how-i-overcame-limiting-beliefs/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/posts/how-i-overcame-limiting-beliefs/</guid>
+      <guid>http://localhost:1313/posts/how-i-overcame-limiting-beliefs/</guid>
       <description>&lt;p&gt;Hello friends, welcome to my first newsletter post!&lt;/p&gt;&#xA;&lt;p&gt;After procrastinating for years, I’ve decided it’s finally time for me to start a newsletter. Credit to my friend Manan who started his own newsletter recently for inspiring me to get started.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-am-i-doing-this&#34;&gt;Why am I doing this?&lt;/h2&gt;&#xA;&lt;p&gt;I have a couple of goals for this newsletter (in no particular order):&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Start creating instead of consuming and help people at scale.&lt;/strong&gt; For a long time, I’ve been in “learn” mode about topics that interest me. Even though there’s still a ton for me to learn, I’ve hit a point where people have started to ask me questions and ask for help (which I’m more than happy to provide). I’d love to make the information I share during 1:1 conversations more widely available to others, and I figure the easiest way to do so is by writing and posting it to the internet 🙂&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I left my job to travel for one year</title>
-      <link>https://timhuang.co/sabbatical-guide/</link>
+      <link>http://localhost:1313/sabbatical-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/sabbatical-guide/</guid>
+      <guid>http://localhost:1313/sabbatical-guide/</guid>
       <description>&lt;p&gt;Hi there! If you landed on this page, you&amp;rsquo;ve probably seen something I wrote related to travel, and you&amp;rsquo;re interested in learning how to do it yourself.&lt;/p&gt;&#xA;&lt;p&gt;Or maybe you&amp;rsquo;re just curious how the hell this guy was able to travel for a year in his mid-20s.&lt;/p&gt;&#xA;&lt;p&gt;In either case, I&amp;rsquo;ve documented the step-by-step process for how I planned for and took my own travel sabbatical. If you&amp;rsquo;ve always wanted to explore the world for an extended period of time &lt;em&gt;without working&lt;/em&gt;, and you don&amp;rsquo;t want to wait 40 years until retirement to do it, hopefully you&amp;rsquo;ll find this useful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://timhuang.co/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timhuang.co/projects/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://timhuang.co/&#34;&gt;&lt;strong&gt;Personal website&lt;/strong&gt;&lt;/a&gt; - aggregating all my stuff&lt;/p&gt;&#xA;&lt;p&gt;&lt;a target=&#34;_&#34; href=&#34;https://timhuang.beehiiv.com/&#34;&gt;&lt;strong&gt;Newsletter&lt;/strong&gt;&lt;/a&gt; - regular reflections and life updates in your inbox&lt;/p&gt;&#xA;&lt;!-- [**How to sabbatical**](/sabbatical-guide) - step-by-step guide for how I left my job to go on a 1-year travel sabbatical --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Soryun (Nov 2025)&lt;/strong&gt; - read in your target language and acquire new words organically&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning Japanese&lt;/strong&gt; - somewhere between N4-N3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cafe reviews&lt;/strong&gt; - Keeping track of all the cafes I&amp;rsquo;ve enjoyed&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;&lt;strong&gt;Personal website&lt;/strong&gt;&lt;/a&gt; - aggregating all my stuff&lt;/p&gt;&#xA;&lt;p&gt;&lt;a target=&#34;_&#34; href=&#34;https://timhuang.beehiiv.com/&#34;&gt;&lt;strong&gt;Newsletter&lt;/strong&gt;&lt;/a&gt; - regular reflections and life updates in your inbox&lt;/p&gt;&#xA;&lt;!-- [**How to sabbatical**](/sabbatical-guide) - step-by-step guide for how I left my job to go on a 1-year travel sabbatical --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Soryun (Nov 2025)&lt;/strong&gt; - read in your target language and acquire new words organically&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning Japanese&lt;/strong&gt; - somewhere between N4-N3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cafe reviews&lt;/strong&gt; - Keeping track of all the cafes I&amp;rsquo;ve enjoyed&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
