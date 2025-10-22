@@ -10,7 +10,7 @@ I've done a lot of traveling this past year, and along the way I saw a wide rang
 
 At the surface level it seems like a lot of these differences can be chalked up to themes like colonizers vs colonized, capitalism vs communism, and authoritarian vs democratic societies.
 
-But I wanted to dive a bit deeper into what led our world to become the way it is today, which might give me insight into where it's going to go in the future.
+But I wanted to dive a bit deeper a bit deeper.
 
 My hope is that by becoming more informed, I can find ways to contribute to reforming systems that are broken and holding people back from living more free and prosperous lives.
 
