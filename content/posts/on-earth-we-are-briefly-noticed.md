@@ -20,7 +20,7 @@ The truth is --- John may have died. Days, weeks, or even months ago. And you wo
 
 That's the paradox. We all want to feel significant. To feel seen by others. But for most of us, there are very few, if any, people who are embedded enough in our lives to truly notice if we were to disappear one day.
 
-That's not to say that all of our connections were meaningless. In the moment, they _mattered_. The inside jokes we may have shared. The late-night walks. Or the care we showed when someone really needed it. All those moments were meaningful, and they stay with us for the rest of our lives.
+That's not to say that all of our connections were meaningless. In the moment, they _mattered_. The inside jokes we shared. The late-night walks. Or the care we showed when someone really needed it. All those moments were meaningful, and they stay with us for the rest of our lives.
 
 However, over time, and with distance, the daily act of "noticing" goes away. You move on, they move on, and the world moves on.
 
