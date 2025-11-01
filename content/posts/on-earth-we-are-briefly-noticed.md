@@ -1,7 +1,7 @@
 +++
 date = '2025-11-01'
 draft = false
-title = 'On Earth, we're briefly noticed'
+title = "On Earth, we're briefly noticed"
 +++
 
 Most of us, most of the time, are not thinking about other people.
