@@ -18,7 +18,7 @@ But if you saw no updates, and didn't receive a reply, there's a good chance you
 
 That said, it's entirely possible that John has died. Perhaps days, weeks, or even months ago. After all, you were too busy living your life to notice.
 
-And that's the paradox. Most of us want to feel significant. To feel seen by others. But for most of us, there's often very few, if any people who are embedded enough in our lives to truly notice if we were disappear one day.
+And that's the paradox. Most of us want to feel significant. To feel seen by others. But for most of us, there's often very few, if any people who are embedded enough in our lives to truly notice if we were to disappear one day.
 
 That's not to say that all of our connections were meaningless. In the moment, they were meaningful, there's no doubt about it. The inside jokes you may have shared. The late night walks. Or the care you showed, when someone really needed it. All those moments were meaningful, and both you and those you connected with will take those moments with you for the rest of your life.
 
@@ -28,4 +28,4 @@ It's highly likely that we'll all experience this at some point in our lives, pa
 
 That to be human, is to want to be seen.
 
-And perhaps knowing that, we'll extend a bit more kindness to others in our lives.
+gAnd perhaps knowing that, we'll extend a bit more kindness to others in our lives.
