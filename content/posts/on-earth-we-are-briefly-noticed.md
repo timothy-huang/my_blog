@@ -28,4 +28,4 @@ It's highly likely that we'll all experience this at some point in our lives, pa
 
 That to be human, is to want to be seen.
 
-gAnd perhaps knowing that, we'll extend a bit more kindness to others in our lives.
+And perhaps knowing that, we'll extend a bit more kindness to others in our lives.
