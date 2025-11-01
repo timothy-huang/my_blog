@@ -18,7 +18,7 @@ But if you saw no updates, and didn't receive a reply, there's a good chance you
 
 The truth is --- John may have died. Days, weeks, or even months ago. And you wouldn't have noticed. Not because you didn't care, but because you were living your own life.
 
-That's the paradox. We all want to feel significant. To feel seen by others. But for most of us there are very few, if any, people who are embedded enough in our lives to truly notice if we were to disappear one day.
+That's the paradox. We all want to feel significant. To feel seen by others. But for most of us, there are very few, if any, people who are embedded enough in our lives to truly notice if we were to disappear one day.
 
 That's not to say that all of our connections were meaningless. In the moment, they _mattered_. The inside jokes we may have shared. The late-night walks. Or the care we showed when someone really needed it. All those moments were meaningful, and they stay with us for the rest of our lives.
 
