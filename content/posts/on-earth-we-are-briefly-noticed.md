@@ -1,7 +1,7 @@
 +++
 date = '2025-11-01'
 draft = false
-title = 'On Earth, we are briefly noticed'
+title = 'On Earth, we're briefly noticed'
 +++
 
 Most of us, most of the time, are not thinking about other people.
@@ -26,6 +26,6 @@ However, over time, and with distance, the daily act of "noticing" goes away. Yo
 
 It's highly likely that we'll all experience this at some point in our lives, especially in those in-between moments where we're not anchored to a community. But perhaps it's not something we have to fight. Just something we have to acknowledge.
 
-On Earth, we are briefly noticed.
+On Earth, we're briefly noticed.
 
 So while we're here, let's notice each other a bit more.
