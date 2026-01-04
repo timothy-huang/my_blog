@@ -6,9 +6,9 @@ draft = false
 
 I work on an email marketing product as my full-time job, but I must confess, in my day-to-day life I’m the kind of person who uses adblock and opts out of marketing messages whenever possible.
 
-However, since starting my job at Mailchimp and diving into the world of digital marketing, I’ve been paying much closer attention to the ads that I used to glaze over. In fact, I now *voluntarily* sign up to be on email lists (using a burner email, of course).
+However, since starting my job at Mailchimp and diving into the world of digital marketing, I’ve been paying much closer attention to the ads that I used to glaze over. In fact, I now _voluntarily_ sign up to be on email lists (using a burner email, of course).
 
-I’ve learned that *studying* marketing is a lot more interesting than being marketed to—as marketing marries my interest in human psychology with my interest in making money 😉
+I’ve learned that _studying_ marketing is a lot more interesting than being marketed to—as marketing marries my interest in human psychology with my interest in making money 😉
 
 Since Black Friday is probably the biggest sales event of the year, I decided to pick out 3 emails that jumped out to me in my inbox this season and do a mini-analysis of each one.
 
@@ -21,11 +21,11 @@ Since Black Friday is probably the biggest sales event of the year, I decided to
 - **Lead type: “** Offer” lead
 
 - **Why it stood out:** Skillshare actually sent me 3 different emails within a 2-day span, with the following subject lines:
-    - Your Black Friday Savings: 50% OFF
-    - The ONLY TIME to get 50% off is right now
-    - Get our BIGGEST DISCOUNT For a limited time
+  - Your Black Friday Savings: 50% OFF
+  - The ONLY TIME to get 50% off is right now
+  - Get our BIGGEST DISCOUNT For a limited time
 
-The reason why this one stood out (and was the one I actually clicked) was because it had the strongest claim while specifying the offer details. Claiming that this is the “ONLY TIME” to get this deal added a much stronger sense of scarcity/urgency compared to the other two subject lines. 
+The reason why this one stood out (and was the one I actually clicked) was because it had the strongest claim while specifying the offer details. Claiming that this is the “ONLY TIME” to get this deal added a much stronger sense of scarcity/urgency compared to the other two subject lines.
 
 Using a number “50% off” made the subject line easier to digest and more actionable than the subject line that only mentioned this was the “BIGGEST DISCOUNT” (leaving me to wonder how this discount would be structured—too much thinking required!)
 

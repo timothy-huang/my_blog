@@ -4,7 +4,7 @@ draft = false
 title = 'Life beyond FI/RE'
 +++
 
-Sunday, 7:16pm - Taipei, Taiwan
+<small> Sunday, 7:16pm - Taipei, Taiwan </small>
 
 Hello from Taiwan! 👋
 
