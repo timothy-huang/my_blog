@@ -25,7 +25,7 @@ Keeping track of the cafes I've visited.
 - **Price:** ¥650 for an espresso tonic
 - <a target="_" href="https://maps.app.goo.gl/r4HtfGQRz55HXyNy9">Location</a>
 
-A little place is a charming hole-in-the-wall tucked into a surprisingly quiet street in north of Sensoji temple. The owner is Taiwanese, and all the beans are imported from Taiwan. The coffee is solid, and the second floor is well-lit with a couple of tables. Not quite the vibe for working, but it would be a nice place to relax with a friend after exploring the busy streets of Asakusa.
+A little place is a charming hole-in-the-wall tucked into a surprisingly quiet street north of Sensoji temple. The owner is Taiwanese, and all the beans are imported from Taiwan. The coffee is solid, and the second floor is well-lit with a couple of tables. Not quite the vibe for working, but it would be a nice place to relax with a friend after exploring the busy streets of Asakusa.
 
 ### February Coffee Roastery
 
