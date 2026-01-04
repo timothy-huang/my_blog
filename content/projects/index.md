@@ -2,9 +2,9 @@
 title = "Projects"
 +++
 
-[**Personal website**](/) - aggregating all my stuff
+[**This website**](/) - aggregating all my stuff
 
-<a target="_" href="https://timhuang.beehiiv.com/">**Newsletter**</a> - regular reflections and life updates in your inbox
+<a target="_" href="https://timhuang.beehiiv.com/">**Newsletter**</a> - regular reflections and life updates
 
 [**Cafe reviews**](/cafes) - Keeping track of all the cafes I've enjoyed
 

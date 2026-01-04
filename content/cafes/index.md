@@ -2,7 +2,7 @@
 title = "Cafe Reviews"
 +++
 
-Keeping track of the cafes I've visited.
+Keeping track of the cafes I've visited. Would love to turn this into an interactive site one day.
 
 **Rating scale:**
 
@@ -104,6 +104,6 @@ Sarutahiko is like a nicer, Japanese version of Starbucks, with branches all thr
 
 ---
 
-### Yoyogi
+<center> <h3> Yoyogi <h3> <center>
 
 - TBD
