@@ -5,6 +5,11 @@ theme = 'paper'
 
 [menus]
   [[menus.main]]
+    name = 'Cafes'
+    pageref = '/cafes'
+    weight = 6
+
+  [[menus.main]]
     name = 'Projects'
     pageref = '/projects'
     weight = 6

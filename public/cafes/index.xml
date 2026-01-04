@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cafes on Tim Huang</title>
+    <link>http://localhost:1313/cafes/</link>
+    <description>Recent content in Cafes on Tim Huang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/cafes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/cafes/cafe-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cafes/cafe-reviews/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;&lt;strong&gt;Personal website&lt;/strong&gt;&lt;/a&gt; - aggregating all my stuff&lt;/p&gt;&#xA;&lt;p&gt;&lt;a target=&#34;_&#34; href=&#34;https://timhuang.beehiiv.com/&#34;&gt;&lt;strong&gt;Newsletter&lt;/strong&gt;&lt;/a&gt; - regular reflections and life updates in your inbox&lt;/p&gt;&#xA;&lt;!-- [**How to sabbatical**](/sabbatical-guide) - step-by-step guide for how I left my job to go on a 1-year travel sabbatical --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Soryun (Nov 2025)&lt;/strong&gt; - read in your target language and acquire new words organically&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning Japanese&lt;/strong&gt; - somewhere between N4-N3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cafe reviews&lt;/strong&gt; - Keeping track of all the cafes I&amp;rsquo;ve enjoyed&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
