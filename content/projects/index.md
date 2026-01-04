@@ -8,7 +8,7 @@ title = "Projects"
 
 [**Cafe reviews**](/cafes) - Keeping track of all the cafes I've enjoyed
 
-**Soryun (Nov 2025)** - read in your target language and acquire new words organically
+**Kaizen reader (WIP)** - read in your target language and acquire new words organically
 
 **Learning Japanese** - somewhere between N4-N3
 
