@@ -119,4 +119,11 @@ Tucked upstairs from a tiny entrance along the streets of Shimokitazawa, Masako 
 
 <center> <h3> Yoyogi </h3> </center>
 
-TBD
+### Beasty Coffee [cafe laboratory]
+
+- **Overall:** 4.5/5
+- **Best for:** Working while enjoying some good coffee
+- **Price:** ¥700 for a cafe latte
+- <a target="\_" href="https://maps.app.goo.gl/mgeozgZ6vMxJBwN17">Location</a>
+
+One of the many shops along the trendy Kamiyama street, Beasty Coffee is a cafe where you'll feel comfortable working---there are plentiful outlets, free wifi, and a chill ambience with JR&B playing in the background. Yes, it's a bit pricier than your average cafe, but a lot cheaper than your average coworking space. Not to mention, the latte is excellent.
