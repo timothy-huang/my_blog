@@ -128,7 +128,7 @@ Tucked upstairs from a tiny entrance along the streets of Shimokitazawa, Masako 
 
 ---
 
-<center> <h3> Yoyogi </h3> </center>
+<center> <h3> Tomigaya </h3> </center>
 
 ### Beasty Coffee
 
