@@ -136,4 +136,14 @@ Tucked upstairs from a tiny entrance along the streets of Shimokitazawa, Masako 
 - **Last visited:** Jan 2026
 - <a target="\_" href="https://maps.app.goo.gl/mgeozgZ6vMxJBwN17">Location</a>
 
-One of the many shops along the trendy Kamiyama street, Beasty Coffee is a cafe where you'll feel comfortable working---there are plentiful outlets, free wifi, and a chill ambience with JR&B playing in the background. Yes, it's a bit pricier than your average cafe, but a lot cheaper than your average coworking space. Not to mention, the latte is excellent.
+One of the many shops along the trendy Kamiyama street, Beasty Coffee is a cafe where you'll feel comfortable working---there are plentiful outlets, free wifi, and a chill but lively ambience with JR&B playing in the background. Yes, it's a bit pricier than your average cafe, but a lot cheaper than your average coworking space. Not to mention, the latte + latte art is excellent. There's a ¥100 discount if you buy two drinks within the same day.
+
+### YUSUAL
+
+- **Overall:** 4/5
+- **Best for:** People watching, journaling, quietly working
+- **Price:** ¥650 for a cafe latte
+- **Last visited:** Jan 2026
+- <a target="\_" href="https://maps.app.goo.gl/L6djE54E7FBk6o5w7">Location</a>
+
+Also along Kamiyama street, YUSUAL is on the second floor of a boutique clothing shop that's largely cream-colored, with accents of light wood. The room is brightly lit by a large window in the front where you can people watch, and people can watch you. The calming acoustic music sets the volume at a soft level, so it might get awkward if you're the type to hammer down on your keyboard. The latte art is simple and cute, and the coffee itself is high quality. Best of all, the mascot is a triceratops.
