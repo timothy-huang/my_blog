@@ -130,7 +130,7 @@ Tucked upstairs from a tiny entrance along the streets of Shimokitazawa, Masako 
 
 <center> <h3> Yoyogi </h3> </center>
 
-### Beasty Coffee [cafe laboratory]
+### Beasty Coffee
 
 - **Overall:** 4/5
 - **Best for:** Working while enjoying some good coffee
@@ -148,4 +148,4 @@ One of the many shops along the trendy Kamiyama street, Beasty Coffee is a cafe 
 - **Last visited:** Jan 2026
 - <a target="\_" href="https://maps.app.goo.gl/L6djE54E7FBk6o5w7">Location</a>
 
-Also along Kamiyama street, YUSUAL is on the second floor of a boutique clothing shop that's cream-colored, with accents of light wood. The room is brightly lit by a large window at the front where you can people watch, and people can watch you. The latte art is simple and cute, and the coffee itself is high quality. The calming acoustic music sets the volume at a soft level, so it might get awkward if you're the type to hammer down on your keyboard. The public wifi prevented me from using ChatGPT and pushing to Github, so I wouldn't recommend it for working.
+Also along Kamiyama street, YUSUAL is on the second floor of a boutique clothing shop that's cream-colored, with accents of light wood. The room is brightly lit by a large window at the front where you can people watch, and people can watch you. The latte art is simple and cute, and the coffee itself is high quality. The calming acoustic music sets the volume at a soft level, so it might get awkward if you're the type to hammer down on your keyboard.
