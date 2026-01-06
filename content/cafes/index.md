@@ -86,7 +86,7 @@ One of the few places that serves a flat white. Walkabout coffee has decent coff
 - **Last visited:** Sep 2025
 - <a target="\_" href="https://maps.app.goo.gl/XnGb9GFK5Rdz5SRg7">Location</a>
 
-A 2 story shop, where the first floor is dedicating to roasting beans. Coffee is great quality for the price. The second floor is spacious and brightly lit, with ample table seating. Vibes are quiet and calm, great for journaling while sipping on your coffee. Free wifi, but limited outlets.
+A two-story shop, where the first floor is dedicating to roasting beans. Coffee is great quality for the price. The second floor is spacious and brightly lit, with ample table seating. Vibes are quiet and calm, great for journaling while sipping on your coffee. Free wifi, but limited outlets.
 
 ### Nui
 
