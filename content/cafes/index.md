@@ -102,6 +102,16 @@ The first floor of an attached hostel. You can eat brunch here while sipping on 
 
 <center> <h3> Shibuya </h3> </center>
 
+### About Life Coffee Brewers
+
+- **Overall:** 3/5
+- **Best for:** Standing espresso, Grab and go coffee
+- **Price:** ¥648 for a double shot espresso (blend)
+- **Last visited:** Jan 2026
+- <a target="\_" href="https://maps.app.goo.gl/qqjSSjUqs5Dhvdcv7">Location</a>
+
+About Life is a coffee stand a short walk away from Shibuya station (and very close to my language school). They pull espresso with beans roasted by Onibus Coffee, a famous specialty roastery in Tokyo. There's a narrow room with a standing counter where you can sip at your shot, reminescent of French cafes. The espresso was distinctly sour and fruity, entering lime territory, and had a thinner, watery consistency. I also have no idea what I'm talking about, so take my notes with a grain of salt.
+
 ### Sarutahiko Coffee
 
 - **Overall:** 3/5
