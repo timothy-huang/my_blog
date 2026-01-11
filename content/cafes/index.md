@@ -150,6 +150,36 @@ Tucked upstairs from a tiny entrance along the streets of Shimokitazawa, Masako 
 
 One of the many shops along the trendy Kamiyama street, Beasty Coffee is a cafe where you'll feel comfortable working---there are plentiful outlets, free wifi, and a chill but lively ambience with JR&B playing in the background and a handful of chatty customers. Yes, it's a bit pricier than your average cafe, but a lot cheaper than your average coworking space. Not to mention, the latte is excellent. There's a ¥100 discount if you buy two drinks within the same day.
 
+### Coffee Supreme
+
+- **Overall:** 3/5
+- **Best for:** Quick sip and go coffee
+- **Price:** ¥600 for an Americano
+- **Last visited:** Jan 2026
+- <a target="\_" href="https://maps.app.goo.gl/c8t23TqfjvWpr4wh8">Location</a>
+
+The store was nice and empty around 11:37, got hot americano ¥600, very hot. Taste was pretty average. not too sour, not too bitter, not super watered down either. Hard to tell coffee quality with americanos. The drink also came out right away. 3/5, subject to revision later.
+
+### Litte Nap Coffee Roasters
+
+- **Overall:** 4/5
+- **Best for:** Sit down, slow down, zone out while sipping your coffee
+- **Price:** ¥580 for a cafe latte
+- **Last visited:** Jan 2026
+- <a target="\_" href="https://maps.app.goo.gl/pfHtUQt3A653cjtt7">Location</a>
+
+Great latte that's cheaper than your average cafe. Little Nap has a couple seats with tables, but actively discourages working inside. It's a good place to go by yourself or with a friend to have a slow start to the morning.
+
+### Streamer Coffee Company (Yoyogi Hachiman)
+
+- **Overall:** 3.5/5
+- **Best for:** Working, chatting with a friend
+- **Price:** ~¥800 for a cafe latte
+- **Last visited:** Jan 2026
+- <a target="\_" href="https://maps.app.goo.gl/wzD9NM6EWBq4RKuk6">Location</a>
+
+Streamer Coffee Company has several branches throughout Tokyo, known for being fairly work-friendly. However, many of the tables here are actually quite low, and not suitable for using with a laptop. The latte art was fantastic, and the coffee was pretty good, but it also felt way too expensive. Might be a better place to go in the afternoon or evening with friends to chat.
+
 ### YUSUAL
 
 - **Overall:** 3.5/5
