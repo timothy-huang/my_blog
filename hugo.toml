@@ -5,6 +5,13 @@ theme = 'paper'
 
 [menus]
   [[menus.main]]
+    name = 'Kaizen Reader'
+    url = 'https://kaizen-reader.vercel.app/'
+    weight = 5
+    [menus.main.params]
+      target = '_blank'
+
+  [[menus.main]]
     name = 'Cafes'
     pageref = '/cafes'
     weight = 6
@@ -12,7 +19,7 @@ theme = 'paper'
   [[menus.main]]
     name = 'Projects'
     pageref = '/projects'
-    weight = 6
+    weight = 7
 
 [markup]
   [markup.goldmark]
